@@ -3533,6 +3533,984 @@
       "est": 28.68,
       "type": "weather",
       "task": "weather_Thatta_2007"
+    },
+    {
+      "ts": "2026-03-15T10:46:31.004411",
+      "est": 1.0,
+      "type": "preflight",
+      "task": "preflight_test"
+    },
+    {
+      "ts": "2026-03-15T11:46:26.606079",
+      "est": 1.0,
+      "type": "preflight",
+      "task": "preflight_test"
+    },
+    {
+      "ts": "2026-03-15T11:50:48.798658",
+      "est": 1.0,
+      "type": "preflight",
+      "task": "preflight_test"
+    },
+    {
+      "ts": "2026-03-15T13:24:34.109399",
+      "est": 1.0,
+      "type": "preflight",
+      "task": "preflight_test"
+    },
+    {
+      "ts": "2026-03-15T13:28:48.843281",
+      "est": 1.0,
+      "type": "preflight",
+      "task": "preflight_test"
+    },
+    {
+      "ts": "2026-03-15T13:28:49.590931",
+      "est": 28.76,
+      "type": "weather",
+      "task": "weather_Thatta_2008"
+    },
+    {
+      "ts": "2026-03-15T13:28:53.501805",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Thatta_2009"
+    },
+    {
+      "ts": "2026-03-15T13:28:57.301286",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Thatta_2010"
+    },
+    {
+      "ts": "2026-03-15T13:29:01.248718",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Thatta_2011"
+    },
+    {
+      "ts": "2026-03-15T13:29:05.138190",
+      "est": 28.76,
+      "type": "weather",
+      "task": "weather_Thatta_2012"
+    },
+    {
+      "ts": "2026-03-15T13:29:08.974617",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Thatta_2013"
+    },
+    {
+      "ts": "2026-03-15T13:29:12.879917",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Thatta_2014"
+    },
+    {
+      "ts": "2026-03-15T13:29:16.695941",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Thatta_2015"
+    },
+    {
+      "ts": "2026-03-15T13:29:20.563330",
+      "est": 28.76,
+      "type": "weather",
+      "task": "weather_Thatta_2016"
+    },
+    {
+      "ts": "2026-03-15T13:29:25.026596",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Thatta_2017"
+    },
+    {
+      "ts": "2026-03-15T13:29:28.851134",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Thatta_2018"
+    },
+    {
+      "ts": "2026-03-15T13:29:32.683175",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Thatta_2019"
+    },
+    {
+      "ts": "2026-03-15T13:29:36.902814",
+      "est": 28.76,
+      "type": "weather",
+      "task": "weather_Thatta_2020"
+    },
+    {
+      "ts": "2026-03-15T13:29:40.745337",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Thatta_2021"
+    },
+    {
+      "ts": "2026-03-15T13:29:44.665919",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Thatta_2022"
+    },
+    {
+      "ts": "2026-03-15T13:29:49.514381",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Thatta_2023"
+    },
+    {
+      "ts": "2026-03-15T13:29:53.345979",
+      "est": 28.76,
+      "type": "weather",
+      "task": "weather_Thatta_2024"
+    },
+    {
+      "ts": "2026-03-15T13:29:57.154701",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Thatta_2025"
+    },
+    {
+      "ts": "2026-03-15T13:30:01.182855",
+      "est": 28.76,
+      "type": "weather",
+      "task": "weather_Badin_2000"
+    },
+    {
+      "ts": "2026-03-15T13:30:05.007699",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Badin_2001"
+    },
+    {
+      "ts": "2026-03-15T13:30:08.741188",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Badin_2002"
+    },
+    {
+      "ts": "2026-03-15T13:30:12.542076",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Badin_2003"
+    },
+    {
+      "ts": "2026-03-15T13:30:16.300905",
+      "est": 28.76,
+      "type": "weather",
+      "task": "weather_Badin_2004"
+    },
+    {
+      "ts": "2026-03-15T13:30:20.180584",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Badin_2005"
+    },
+    {
+      "ts": "2026-03-15T13:30:23.923366",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Badin_2006"
+    },
+    {
+      "ts": "2026-03-15T13:30:28.106615",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Badin_2007"
+    },
+    {
+      "ts": "2026-03-15T13:30:31.849279",
+      "est": 28.76,
+      "type": "weather",
+      "task": "weather_Badin_2008"
+    },
+    {
+      "ts": "2026-03-15T13:30:35.529167",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Badin_2009"
+    },
+    {
+      "ts": "2026-03-15T13:30:39.940132",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Badin_2010"
+    },
+    {
+      "ts": "2026-03-15T13:30:43.635507",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Badin_2011"
+    },
+    {
+      "ts": "2026-03-15T13:30:47.304874",
+      "est": 28.76,
+      "type": "weather",
+      "task": "weather_Badin_2012"
+    },
+    {
+      "ts": "2026-03-15T13:30:50.971388",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Badin_2013"
+    },
+    {
+      "ts": "2026-03-15T13:30:54.632872",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Badin_2014"
+    },
+    {
+      "ts": "2026-03-15T13:30:58.442874",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Badin_2015"
+    },
+    {
+      "ts": "2026-03-15T13:31:02.680606",
+      "est": 28.76,
+      "type": "weather",
+      "task": "weather_Badin_2016"
+    },
+    {
+      "ts": "2026-03-15T13:31:06.496104",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Badin_2017"
+    },
+    {
+      "ts": "2026-03-15T13:31:10.258901",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Badin_2018"
+    },
+    {
+      "ts": "2026-03-15T13:31:14.454317",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Badin_2019"
+    },
+    {
+      "ts": "2026-03-15T13:31:18.281013",
+      "est": 28.76,
+      "type": "weather",
+      "task": "weather_Badin_2020"
+    },
+    {
+      "ts": "2026-03-15T13:31:22.138012",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Badin_2021"
+    },
+    {
+      "ts": "2026-03-15T13:31:27.089789",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Badin_2022"
+    },
+    {
+      "ts": "2026-03-15T13:31:31.269491",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Badin_2023"
+    },
+    {
+      "ts": "2026-03-15T13:31:35.186207",
+      "est": 28.76,
+      "type": "weather",
+      "task": "weather_Badin_2024"
+    },
+    {
+      "ts": "2026-03-15T13:31:39.288846",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Badin_2025"
+    },
+    {
+      "ts": "2026-03-15T13:31:43.358845",
+      "est": 28.76,
+      "type": "weather",
+      "task": "weather_Peshawar_2000"
+    },
+    {
+      "ts": "2026-03-15T13:31:47.293088",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Peshawar_2001"
+    },
+    {
+      "ts": "2026-03-15T13:31:51.162594",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Peshawar_2002"
+    },
+    {
+      "ts": "2026-03-15T13:31:55.015081",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Peshawar_2003"
+    },
+    {
+      "ts": "2026-03-15T13:31:58.771790",
+      "est": 28.76,
+      "type": "weather",
+      "task": "weather_Peshawar_2004"
+    },
+    {
+      "ts": "2026-03-15T13:32:02.598339",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Peshawar_2005"
+    },
+    {
+      "ts": "2026-03-15T13:32:06.777056",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Peshawar_2006"
+    },
+    {
+      "ts": "2026-03-15T13:32:10.578277",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Peshawar_2007"
+    },
+    {
+      "ts": "2026-03-15T13:32:14.887081",
+      "est": 28.76,
+      "type": "weather",
+      "task": "weather_Peshawar_2008"
+    },
+    {
+      "ts": "2026-03-15T13:32:18.626709",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Peshawar_2009"
+    },
+    {
+      "ts": "2026-03-15T13:32:22.400380",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Peshawar_2010"
+    },
+    {
+      "ts": "2026-03-15T13:32:26.353167",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Peshawar_2011"
+    },
+    {
+      "ts": "2026-03-15T13:32:30.119891",
+      "est": 28.76,
+      "type": "weather",
+      "task": "weather_Peshawar_2012"
+    },
+    {
+      "ts": "2026-03-15T13:32:33.871535",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Peshawar_2013"
+    },
+    {
+      "ts": "2026-03-15T13:32:38.369429",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Peshawar_2014"
+    },
+    {
+      "ts": "2026-03-15T13:32:42.444547",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Peshawar_2015"
+    },
+    {
+      "ts": "2026-03-15T13:32:46.477551",
+      "est": 28.76,
+      "type": "weather",
+      "task": "weather_Peshawar_2016"
+    },
+    {
+      "ts": "2026-03-15T13:32:50.710924",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Peshawar_2017"
+    },
+    {
+      "ts": "2026-03-15T13:32:54.455727",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Peshawar_2018"
+    },
+    {
+      "ts": "2026-03-15T13:32:58.221047",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Peshawar_2019"
+    },
+    {
+      "ts": "2026-03-15T13:33:01.987696",
+      "est": 28.76,
+      "type": "weather",
+      "task": "weather_Peshawar_2020"
+    },
+    {
+      "ts": "2026-03-15T13:33:05.854418",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Peshawar_2021"
+    },
+    {
+      "ts": "2026-03-15T13:33:09.599822",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Peshawar_2022"
+    },
+    {
+      "ts": "2026-03-15T13:33:13.443800",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Peshawar_2023"
+    },
+    {
+      "ts": "2026-03-15T13:33:17.994123",
+      "est": 28.76,
+      "type": "weather",
+      "task": "weather_Peshawar_2024"
+    },
+    {
+      "ts": "2026-03-15T13:33:21.765778",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Peshawar_2025"
+    },
+    {
+      "ts": "2026-03-15T13:33:25.546445",
+      "est": 28.76,
+      "type": "weather",
+      "task": "weather_Mardan_2000"
+    },
+    {
+      "ts": "2026-03-15T13:33:29.895654",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Mardan_2001"
+    },
+    {
+      "ts": "2026-03-15T13:33:33.664933",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Mardan_2002"
+    },
+    {
+      "ts": "2026-03-15T13:33:37.401222",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Mardan_2003"
+    },
+    {
+      "ts": "2026-03-15T13:33:42.168873",
+      "est": 28.76,
+      "type": "weather",
+      "task": "weather_Mardan_2004"
+    },
+    {
+      "ts": "2026-03-15T13:33:45.968959",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Mardan_2005"
+    },
+    {
+      "ts": "2026-03-15T13:33:49.763805",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Mardan_2006"
+    },
+    {
+      "ts": "2026-03-15T13:33:54.003437",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Mardan_2007"
+    },
+    {
+      "ts": "2026-03-15T13:33:57.732869",
+      "est": 28.76,
+      "type": "weather",
+      "task": "weather_Mardan_2008"
+    },
+    {
+      "ts": "2026-03-15T13:34:01.492979",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Mardan_2009"
+    },
+    {
+      "ts": "2026-03-15T13:34:05.734160",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Mardan_2010"
+    },
+    {
+      "ts": "2026-03-15T13:34:09.505121",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Mardan_2011"
+    },
+    {
+      "ts": "2026-03-15T13:34:13.290655",
+      "est": 28.76,
+      "type": "weather",
+      "task": "weather_Mardan_2012"
+    },
+    {
+      "ts": "2026-03-15T13:34:17.344543",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Mardan_2013"
+    },
+    {
+      "ts": "2026-03-15T13:34:21.107397",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Mardan_2014"
+    },
+    {
+      "ts": "2026-03-15T13:34:24.881641",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Mardan_2015"
+    },
+    {
+      "ts": "2026-03-15T13:34:28.672553",
+      "est": 28.76,
+      "type": "weather",
+      "task": "weather_Mardan_2016"
+    },
+    {
+      "ts": "2026-03-15T13:34:32.516192",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Mardan_2017"
+    },
+    {
+      "ts": "2026-03-15T13:34:36.403199",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Mardan_2018"
+    },
+    {
+      "ts": "2026-03-15T13:34:40.530820",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Mardan_2019"
+    },
+    {
+      "ts": "2026-03-15T13:34:44.436826",
+      "est": 28.76,
+      "type": "weather",
+      "task": "weather_Mardan_2020"
+    },
+    {
+      "ts": "2026-03-15T13:34:48.244908",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Mardan_2021"
+    },
+    {
+      "ts": "2026-03-15T13:34:51.965933",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Mardan_2022"
+    },
+    {
+      "ts": "2026-03-15T13:34:55.772991",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Mardan_2023"
+    },
+    {
+      "ts": "2026-03-15T13:34:59.641703",
+      "est": 28.76,
+      "type": "weather",
+      "task": "weather_Mardan_2024"
+    },
+    {
+      "ts": "2026-03-15T13:35:03.411595",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Mardan_2025"
+    },
+    {
+      "ts": "2026-03-15T13:35:07.110685",
+      "est": 28.76,
+      "type": "weather",
+      "task": "weather_Abbottabad_2000"
+    },
+    {
+      "ts": "2026-03-15T13:35:10.815622",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Abbottabad_2001"
+    },
+    {
+      "ts": "2026-03-15T13:35:14.523086",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Abbottabad_2002"
+    },
+    {
+      "ts": "2026-03-15T13:35:18.429211",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Abbottabad_2003"
+    },
+    {
+      "ts": "2026-03-15T13:35:22.139279",
+      "est": 28.76,
+      "type": "weather",
+      "task": "weather_Abbottabad_2004"
+    },
+    {
+      "ts": "2026-03-15T13:35:25.849591",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Abbottabad_2005"
+    },
+    {
+      "ts": "2026-03-15T13:35:29.636118",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Abbottabad_2006"
+    },
+    {
+      "ts": "2026-03-15T13:35:33.432057",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Abbottabad_2007"
+    },
+    {
+      "ts": "2026-03-15T13:35:37.189441",
+      "est": 28.76,
+      "type": "weather",
+      "task": "weather_Abbottabad_2008"
+    },
+    {
+      "ts": "2026-03-15T13:35:41.153412",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Abbottabad_2009"
+    },
+    {
+      "ts": "2026-03-15T13:35:51.033975",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Abbottabad_2010"
+    },
+    {
+      "ts": "2026-03-15T13:35:54.844548",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Abbottabad_2011"
+    },
+    {
+      "ts": "2026-03-15T13:35:58.541645",
+      "est": 28.76,
+      "type": "weather",
+      "task": "weather_Abbottabad_2012"
+    },
+    {
+      "ts": "2026-03-15T13:36:02.209411",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Abbottabad_2013"
+    },
+    {
+      "ts": "2026-03-15T13:36:06.558052",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Abbottabad_2014"
+    },
+    {
+      "ts": "2026-03-15T13:36:10.228347",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Abbottabad_2015"
+    },
+    {
+      "ts": "2026-03-15T13:36:13.912062",
+      "est": 28.76,
+      "type": "weather",
+      "task": "weather_Abbottabad_2016"
+    },
+    {
+      "ts": "2026-03-15T13:36:18.015168",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Abbottabad_2017"
+    },
+    {
+      "ts": "2026-03-15T13:36:21.756783",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Abbottabad_2018"
+    },
+    {
+      "ts": "2026-03-15T13:36:25.512124",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Abbottabad_2019"
+    },
+    {
+      "ts": "2026-03-15T13:36:29.577318",
+      "est": 28.76,
+      "type": "weather",
+      "task": "weather_Abbottabad_2020"
+    },
+    {
+      "ts": "2026-03-15T13:36:33.242836",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Abbottabad_2021"
+    },
+    {
+      "ts": "2026-03-15T13:36:36.911386",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Abbottabad_2022"
+    },
+    {
+      "ts": "2026-03-15T13:36:40.672401",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Abbottabad_2023"
+    },
+    {
+      "ts": "2026-03-15T13:36:44.556455",
+      "est": 28.76,
+      "type": "weather",
+      "task": "weather_Abbottabad_2024"
+    },
+    {
+      "ts": "2026-03-15T13:36:48.236955",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Abbottabad_2025"
+    },
+    {
+      "ts": "2026-03-15T13:36:52.043796",
+      "est": 28.76,
+      "type": "weather",
+      "task": "weather_Mingora (Swat)_2000"
+    },
+    {
+      "ts": "2026-03-15T13:36:56.686236",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Mingora (Swat)_2001"
+    },
+    {
+      "ts": "2026-03-15T13:37:00.591056",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Mingora (Swat)_2002"
+    },
+    {
+      "ts": "2026-03-15T13:37:04.376024",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Mingora (Swat)_2003"
+    },
+    {
+      "ts": "2026-03-15T13:37:09.234726",
+      "est": 28.76,
+      "type": "weather",
+      "task": "weather_Mingora (Swat)_2004"
+    },
+    {
+      "ts": "2026-03-15T13:37:13.017349",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Mingora (Swat)_2005"
+    },
+    {
+      "ts": "2026-03-15T13:37:16.793480",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Mingora (Swat)_2006"
+    },
+    {
+      "ts": "2026-03-15T13:37:20.629715",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Mingora (Swat)_2007"
+    },
+    {
+      "ts": "2026-03-15T13:37:24.416001",
+      "est": 28.76,
+      "type": "weather",
+      "task": "weather_Mingora (Swat)_2008"
+    },
+    {
+      "ts": "2026-03-15T13:37:28.184597",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Mingora (Swat)_2009"
+    },
+    {
+      "ts": "2026-03-15T13:37:32.053130",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Mingora (Swat)_2010"
+    },
+    {
+      "ts": "2026-03-15T13:37:35.782784",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Mingora (Swat)_2011"
+    },
+    {
+      "ts": "2026-03-15T13:37:39.533802",
+      "est": 28.76,
+      "type": "weather",
+      "task": "weather_Mingora (Swat)_2012"
+    },
+    {
+      "ts": "2026-03-15T13:37:43.296106",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Mingora (Swat)_2013"
+    },
+    {
+      "ts": "2026-03-15T13:37:47.071497",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Mingora (Swat)_2014"
+    },
+    {
+      "ts": "2026-03-15T13:37:50.813543",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Mingora (Swat)_2015"
+    },
+    {
+      "ts": "2026-03-15T13:37:54.598176",
+      "est": 28.76,
+      "type": "weather",
+      "task": "weather_Mingora (Swat)_2016"
+    },
+    {
+      "ts": "2026-03-15T13:37:59.518312",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Mingora (Swat)_2017"
+    },
+    {
+      "ts": "2026-03-15T13:38:03.396264",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Mingora (Swat)_2018"
+    },
+    {
+      "ts": "2026-03-15T13:38:07.164921",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Mingora (Swat)_2019"
+    },
+    {
+      "ts": "2026-03-15T13:38:12.401525",
+      "est": 28.76,
+      "type": "weather",
+      "task": "weather_Mingora (Swat)_2020"
+    },
+    {
+      "ts": "2026-03-15T13:38:16.162692",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Mingora (Swat)_2021"
+    },
+    {
+      "ts": "2026-03-15T13:38:20.030469",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Mingora (Swat)_2022"
+    },
+    {
+      "ts": "2026-03-15T13:38:25.549238",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Mingora (Swat)_2023"
+    },
+    {
+      "ts": "2026-03-15T13:38:29.387942",
+      "est": 28.76,
+      "type": "weather",
+      "task": "weather_Mingora (Swat)_2024"
+    },
+    {
+      "ts": "2026-03-15T13:38:33.211719",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Mingora (Swat)_2025"
+    },
+    {
+      "ts": "2026-03-15T13:38:37.335882",
+      "est": 28.76,
+      "type": "weather",
+      "task": "weather_Kohat_2000"
+    },
+    {
+      "ts": "2026-03-15T13:38:41.021370",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Kohat_2001"
+    },
+    {
+      "ts": "2026-03-15T13:38:44.754406",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Kohat_2002"
+    },
+    {
+      "ts": "2026-03-15T13:38:48.542076",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Kohat_2003"
+    },
+    {
+      "ts": "2026-03-15T13:38:52.299496",
+      "est": 28.76,
+      "type": "weather",
+      "task": "weather_Kohat_2004"
+    },
+    {
+      "ts": "2026-03-15T13:38:56.040493",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Kohat_2005"
+    },
+    {
+      "ts": "2026-03-15T13:38:59.799483",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Kohat_2006"
+    },
+    {
+      "ts": "2026-03-15T13:39:03.803664",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Kohat_2007"
+    },
+    {
+      "ts": "2026-03-15T13:49:53.516249",
+      "est": 1.0,
+      "type": "preflight",
+      "task": "preflight_test"
+    },
+    {
+      "ts": "2026-03-15T13:50:01.672985",
+      "est": 1.0,
+      "type": "preflight",
+      "task": "preflight_test"
     }
   ],
   "completed_tasks": [
@@ -4375,8 +5353,164 @@
     "weather_Thatta_2004",
     "weather_Thatta_2005",
     "weather_Thatta_2006",
-    "weather_Thatta_2007"
+    "weather_Thatta_2007",
+    "weather_Thatta_2008",
+    "weather_Thatta_2009",
+    "weather_Thatta_2010",
+    "weather_Thatta_2011",
+    "weather_Thatta_2012",
+    "weather_Thatta_2013",
+    "weather_Thatta_2014",
+    "weather_Thatta_2015",
+    "weather_Thatta_2016",
+    "weather_Thatta_2017",
+    "weather_Thatta_2018",
+    "weather_Thatta_2019",
+    "weather_Thatta_2020",
+    "weather_Thatta_2021",
+    "weather_Thatta_2022",
+    "weather_Thatta_2023",
+    "weather_Thatta_2024",
+    "weather_Thatta_2025",
+    "weather_Badin_2000",
+    "weather_Badin_2001",
+    "weather_Badin_2002",
+    "weather_Badin_2003",
+    "weather_Badin_2004",
+    "weather_Badin_2005",
+    "weather_Badin_2006",
+    "weather_Badin_2007",
+    "weather_Badin_2008",
+    "weather_Badin_2009",
+    "weather_Badin_2010",
+    "weather_Badin_2011",
+    "weather_Badin_2012",
+    "weather_Badin_2013",
+    "weather_Badin_2014",
+    "weather_Badin_2015",
+    "weather_Badin_2016",
+    "weather_Badin_2017",
+    "weather_Badin_2018",
+    "weather_Badin_2019",
+    "weather_Badin_2020",
+    "weather_Badin_2021",
+    "weather_Badin_2022",
+    "weather_Badin_2023",
+    "weather_Badin_2024",
+    "weather_Badin_2025",
+    "weather_Peshawar_2000",
+    "weather_Peshawar_2001",
+    "weather_Peshawar_2002",
+    "weather_Peshawar_2003",
+    "weather_Peshawar_2004",
+    "weather_Peshawar_2005",
+    "weather_Peshawar_2006",
+    "weather_Peshawar_2007",
+    "weather_Peshawar_2008",
+    "weather_Peshawar_2009",
+    "weather_Peshawar_2010",
+    "weather_Peshawar_2011",
+    "weather_Peshawar_2012",
+    "weather_Peshawar_2013",
+    "weather_Peshawar_2014",
+    "weather_Peshawar_2015",
+    "weather_Peshawar_2016",
+    "weather_Peshawar_2017",
+    "weather_Peshawar_2018",
+    "weather_Peshawar_2019",
+    "weather_Peshawar_2020",
+    "weather_Peshawar_2021",
+    "weather_Peshawar_2022",
+    "weather_Peshawar_2023",
+    "weather_Peshawar_2024",
+    "weather_Peshawar_2025",
+    "weather_Mardan_2000",
+    "weather_Mardan_2001",
+    "weather_Mardan_2002",
+    "weather_Mardan_2003",
+    "weather_Mardan_2004",
+    "weather_Mardan_2005",
+    "weather_Mardan_2006",
+    "weather_Mardan_2007",
+    "weather_Mardan_2008",
+    "weather_Mardan_2009",
+    "weather_Mardan_2010",
+    "weather_Mardan_2011",
+    "weather_Mardan_2012",
+    "weather_Mardan_2013",
+    "weather_Mardan_2014",
+    "weather_Mardan_2015",
+    "weather_Mardan_2016",
+    "weather_Mardan_2017",
+    "weather_Mardan_2018",
+    "weather_Mardan_2019",
+    "weather_Mardan_2020",
+    "weather_Mardan_2021",
+    "weather_Mardan_2022",
+    "weather_Mardan_2023",
+    "weather_Mardan_2024",
+    "weather_Mardan_2025",
+    "weather_Abbottabad_2000",
+    "weather_Abbottabad_2001",
+    "weather_Abbottabad_2002",
+    "weather_Abbottabad_2003",
+    "weather_Abbottabad_2004",
+    "weather_Abbottabad_2005",
+    "weather_Abbottabad_2006",
+    "weather_Abbottabad_2007",
+    "weather_Abbottabad_2008",
+    "weather_Abbottabad_2009",
+    "weather_Abbottabad_2010",
+    "weather_Abbottabad_2011",
+    "weather_Abbottabad_2012",
+    "weather_Abbottabad_2013",
+    "weather_Abbottabad_2014",
+    "weather_Abbottabad_2015",
+    "weather_Abbottabad_2016",
+    "weather_Abbottabad_2017",
+    "weather_Abbottabad_2018",
+    "weather_Abbottabad_2019",
+    "weather_Abbottabad_2020",
+    "weather_Abbottabad_2021",
+    "weather_Abbottabad_2022",
+    "weather_Abbottabad_2023",
+    "weather_Abbottabad_2024",
+    "weather_Abbottabad_2025",
+    "weather_Mingora (Swat)_2000",
+    "weather_Mingora (Swat)_2001",
+    "weather_Mingora (Swat)_2002",
+    "weather_Mingora (Swat)_2003",
+    "weather_Mingora (Swat)_2004",
+    "weather_Mingora (Swat)_2005",
+    "weather_Mingora (Swat)_2006",
+    "weather_Mingora (Swat)_2007",
+    "weather_Mingora (Swat)_2008",
+    "weather_Mingora (Swat)_2009",
+    "weather_Mingora (Swat)_2010",
+    "weather_Mingora (Swat)_2011",
+    "weather_Mingora (Swat)_2012",
+    "weather_Mingora (Swat)_2013",
+    "weather_Mingora (Swat)_2014",
+    "weather_Mingora (Swat)_2015",
+    "weather_Mingora (Swat)_2016",
+    "weather_Mingora (Swat)_2017",
+    "weather_Mingora (Swat)_2018",
+    "weather_Mingora (Swat)_2019",
+    "weather_Mingora (Swat)_2020",
+    "weather_Mingora (Swat)_2021",
+    "weather_Mingora (Swat)_2022",
+    "weather_Mingora (Swat)_2023",
+    "weather_Mingora (Swat)_2024",
+    "weather_Mingora (Swat)_2025",
+    "weather_Kohat_2000",
+    "weather_Kohat_2001",
+    "weather_Kohat_2002",
+    "weather_Kohat_2003",
+    "weather_Kohat_2004",
+    "weather_Kohat_2005",
+    "weather_Kohat_2006",
+    "weather_Kohat_2007"
   ],
-  "total_http_requests": 589,
+  "total_http_requests": 752,
   "created": "2026-03-12T00:00:00"
 }

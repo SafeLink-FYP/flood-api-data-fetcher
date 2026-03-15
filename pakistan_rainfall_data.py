@@ -234,10 +234,33 @@ class APICallTracker:
     # ── Usage Queries ──
 
     def _sum_est_since(self, cutoff_iso: str) -> float:
-        return sum(c["est"] for c in self.data["calls"] if c["ts"] >= cutoff_iso)
+        # Use parsed datetimes and clamp at "now" so future timestamps
+        # (e.g., from timezone shifts) do not keep limits blocked.
+        cutoff = datetime.fromisoformat(cutoff_iso)
+        now = datetime.now()
+        total = 0.0
+        for c in self.data["calls"]:
+            try:
+                ts = datetime.fromisoformat(c["ts"])
+                est = float(c["est"])
+            except (KeyError, TypeError, ValueError):
+                continue
+            if cutoff <= ts <= now:
+                total += est
+        return total
 
     def _count_since(self, cutoff_iso: str) -> int:
-        return sum(1 for c in self.data["calls"] if c["ts"] >= cutoff_iso)
+        cutoff = datetime.fromisoformat(cutoff_iso)
+        now = datetime.now()
+        count = 0
+        for c in self.data["calls"]:
+            try:
+                ts = datetime.fromisoformat(c["ts"])
+            except (KeyError, TypeError, ValueError):
+                continue
+            if cutoff <= ts <= now:
+                count += 1
+        return count
 
     def calls_today(self) -> float:
         return self._sum_est_since(date.today().isoformat())
