@@ -1,0 +1,3121 @@
+city,province,year,month,total_precipitation_mm,total_rain_mm,total_snowfall_cm,total_precip_hours,rainy_days,max_daily_precip_mm,avg_daily_precip_mm
+Dera Ghazi Khan,Punjab,2000,1,10.9,10.9,0.0,20.0,3,5.8,0.35
+Dera Ghazi Khan,Punjab,2000,2,18.7,18.7,0.0,24.0,3,16.1,0.64
+Dera Ghazi Khan,Punjab,2000,3,0.0,0.0,0.0,0.0,0,0.0,0.0
+Dera Ghazi Khan,Punjab,2000,4,2.2,2.2,0.0,2.0,1,2.2,0.07
+Dera Ghazi Khan,Punjab,2000,5,7.7,7.7,0.0,11.0,6,2.4,0.25
+Dera Ghazi Khan,Punjab,2000,6,7.1,7.1,0.0,18.0,10,1.5,0.24
+Dera Ghazi Khan,Punjab,2000,7,52.1,52.1,0.0,68.0,18,16.6,1.68
+Dera Ghazi Khan,Punjab,2000,8,6.5,6.5,0.0,12.0,7,3.0,0.21
+Dera Ghazi Khan,Punjab,2000,9,2.2,2.2,0.0,5.0,5,1.1,0.07
+Dera Ghazi Khan,Punjab,2000,10,0.0,0.0,0.0,0.0,0,0.0,0.0
+Dera Ghazi Khan,Punjab,2000,11,0.0,0.0,0.0,0.0,0,0.0,0.0
+Dera Ghazi Khan,Punjab,2000,12,3.9,3.9,0.0,13.0,1,3.9,0.13
+Dera Ghazi Khan,Punjab,2001,1,0.2,0.2,0.0,1.0,1,0.2,0.01
+Dera Ghazi Khan,Punjab,2001,2,0.5,0.5,0.0,3.0,3,0.3,0.02
+Dera Ghazi Khan,Punjab,2001,3,1.5,1.5,0.0,7.0,3,0.6,0.05
+Dera Ghazi Khan,Punjab,2001,4,20.7,20.7,0.0,26.0,5,15.3,0.69
+Dera Ghazi Khan,Punjab,2001,5,10.7,10.7,0.0,20.0,9,2.6,0.35
+Dera Ghazi Khan,Punjab,2001,6,41.9,41.9,0.0,42.0,15,13.4,1.4
+Dera Ghazi Khan,Punjab,2001,7,63.1,63.1,0.0,91.0,18,19.7,2.04
+Dera Ghazi Khan,Punjab,2001,8,37.4,37.4,0.0,59.0,11,9.1,1.21
+Dera Ghazi Khan,Punjab,2001,9,11.8,11.8,0.0,25.0,8,3.7,0.39
+Dera Ghazi Khan,Punjab,2001,10,0.3,0.3,0.0,1.0,1,0.3,0.01
+Dera Ghazi Khan,Punjab,2001,11,0.0,0.0,0.0,0.0,0,0.0,0.0
+Dera Ghazi Khan,Punjab,2001,12,0.4,0.4,0.0,2.0,1,0.4,0.01
+Dera Ghazi Khan,Punjab,2002,1,0.0,0.0,0.0,0.0,0,0.0,0.0
+Dera Ghazi Khan,Punjab,2002,2,4.7,4.7,0.0,11.0,4,2.9,0.17
+Dera Ghazi Khan,Punjab,2002,3,11.6,11.6,0.0,26.0,6,6.2,0.37
+Dera Ghazi Khan,Punjab,2002,4,4.0,4.0,0.0,9.0,3,2.4,0.13
+Dera Ghazi Khan,Punjab,2002,5,12.0,12.0,0.0,13.0,7,9.0,0.39
+Dera Ghazi Khan,Punjab,2002,6,10.9,10.9,0.0,24.0,12,2.3,0.36
+Dera Ghazi Khan,Punjab,2002,7,2.2,2.2,0.0,3.0,2,2.1,0.07
+Dera Ghazi Khan,Punjab,2002,8,12.0,12.0,0.0,23.0,7,5.2,0.39
+Dera Ghazi Khan,Punjab,2002,9,47.1,47.1,0.0,52.0,15,16.1,1.57
+Dera Ghazi Khan,Punjab,2002,10,2.0,2.0,0.0,3.0,2,1.7,0.06
+Dera Ghazi Khan,Punjab,2002,11,3.2,3.2,0.0,11.0,3,2.6,0.11
+Dera Ghazi Khan,Punjab,2002,12,4.9,4.9,0.0,9.0,3,3.8,0.16
+Dera Ghazi Khan,Punjab,2003,1,1.1,1.1,0.0,6.0,1,1.1,0.04
+Dera Ghazi Khan,Punjab,2003,2,23.9,23.9,0.0,37.0,5,13.3,0.85
+Dera Ghazi Khan,Punjab,2003,3,6.6,6.6,0.0,11.0,3,5.0,0.21
+Dera Ghazi Khan,Punjab,2003,4,1.4,1.4,0.0,5.0,3,0.7,0.05
+Dera Ghazi Khan,Punjab,2003,5,2.4,2.4,0.0,4.0,2,1.2,0.08
+Dera Ghazi Khan,Punjab,2003,6,7.9,7.9,0.0,13.0,6,2.2,0.26
+Dera Ghazi Khan,Punjab,2003,7,115.8,115.8,0.0,153.0,21,26.1,3.74
+Dera Ghazi Khan,Punjab,2003,8,67.2,67.2,0.0,88.0,19,10.6,2.17
+Dera Ghazi Khan,Punjab,2003,9,15.7,15.7,0.0,29.0,12,6.6,0.52
+Dera Ghazi Khan,Punjab,2003,10,0.0,0.0,0.0,0.0,0,0.0,0.0
+Dera Ghazi Khan,Punjab,2003,11,0.0,0.0,0.0,0.0,0,0.0,0.0
+Dera Ghazi Khan,Punjab,2003,12,0.2,0.2,0.0,2.0,1,0.2,0.01
+Dera Ghazi Khan,Punjab,2004,1,10.1,10.1,0.0,29.0,4,4.7,0.33
+Dera Ghazi Khan,Punjab,2004,2,3.1,3.1,0.0,8.0,1,3.1,0.11
+Dera Ghazi Khan,Punjab,2004,3,0.0,0.0,0.0,0.0,0,0.0,0.0
+Dera Ghazi Khan,Punjab,2004,4,1.7,1.7,0.0,5.0,4,1.1,0.06
+Dera Ghazi Khan,Punjab,2004,5,2.0,2.0,0.0,3.0,3,1.3,0.06
+Dera Ghazi Khan,Punjab,2004,6,15.4,15.4,0.0,22.0,13,3.9,0.51
+Dera Ghazi Khan,Punjab,2004,7,12.2,12.2,0.0,18.0,10,4.6,0.39
+Dera Ghazi Khan,Punjab,2004,8,55.3,55.3,0.0,78.0,21,10.1,1.78
+Dera Ghazi Khan,Punjab,2004,9,12.6,12.6,0.0,16.0,7,9.2,0.42
+Dera Ghazi Khan,Punjab,2004,10,12.5,12.5,0.0,16.0,3,10.9,0.4
+Dera Ghazi Khan,Punjab,2004,11,0.3,0.3,0.0,1.0,1,0.3,0.01
+Dera Ghazi Khan,Punjab,2004,12,40.2,40.2,0.0,34.0,2,31.7,1.3
+Dera Ghazi Khan,Punjab,2005,1,4.5,4.5,0.0,16.0,4,1.9,0.15
+Dera Ghazi Khan,Punjab,2005,2,42.8,42.8,0.0,77.0,14,14.3,1.53
+Dera Ghazi Khan,Punjab,2005,3,61.1,61.1,0.0,73.0,13,15.1,1.97
+Dera Ghazi Khan,Punjab,2005,4,4.7,4.7,0.0,8.0,6,2.0,0.16
+Dera Ghazi Khan,Punjab,2005,5,8.1,8.1,0.0,15.0,7,2.3,0.26
+Dera Ghazi Khan,Punjab,2005,6,6.2,6.2,0.0,13.0,9,1.7,0.21
+Dera Ghazi Khan,Punjab,2005,7,82.5,82.5,0.0,91.0,20,14.8,2.66
+Dera Ghazi Khan,Punjab,2005,8,10.9,10.9,0.0,33.0,13,3.6,0.35
+Dera Ghazi Khan,Punjab,2005,9,27.4,27.4,0.0,45.0,11,8.5,0.91
+Dera Ghazi Khan,Punjab,2005,10,0.4,0.4,0.0,2.0,2,0.2,0.01
+Dera Ghazi Khan,Punjab,2005,11,0.0,0.0,0.0,0.0,0,0.0,0.0
+Dera Ghazi Khan,Punjab,2005,12,0.3,0.3,0.0,2.0,1,0.3,0.01
+Dera Ghazi Khan,Punjab,2006,1,4.9,4.9,0.0,16.0,4,2.8,0.16
+Dera Ghazi Khan,Punjab,2006,2,1.7,1.7,0.0,4.0,2,1.6,0.06
+Dera Ghazi Khan,Punjab,2006,3,17.1,17.1,0.0,40.0,11,4.0,0.55
+Dera Ghazi Khan,Punjab,2006,4,5.9,5.9,0.0,10.0,7,2.7,0.2
+Dera Ghazi Khan,Punjab,2006,5,9.9,9.9,0.0,16.0,9,2.1,0.32
+Dera Ghazi Khan,Punjab,2006,6,13.5,13.5,0.0,27.0,16,2.3,0.45
+Dera Ghazi Khan,Punjab,2006,7,54.8,54.8,0.0,69.0,14,11.1,1.77
+Dera Ghazi Khan,Punjab,2006,8,101.9,101.9,0.0,128.0,21,16.1,3.29
+Dera Ghazi Khan,Punjab,2006,9,10.2,10.2,0.0,19.0,8,3.8,0.34
+Dera Ghazi Khan,Punjab,2006,10,4.3,4.3,0.0,9.0,5,1.4,0.14
+Dera Ghazi Khan,Punjab,2006,11,14.1,14.1,0.0,22.0,8,3.9,0.47
+Dera Ghazi Khan,Punjab,2006,12,27.5,27.5,0.0,37.0,3,13.6,0.89
+Dera Ghazi Khan,Punjab,2007,1,0.0,0.0,0.0,0.0,0,0.0,0.0
+Dera Ghazi Khan,Punjab,2007,2,41.1,41.1,0.0,82.0,10,9.1,1.47
+Dera Ghazi Khan,Punjab,2007,3,20.4,20.4,0.0,38.0,8,12.5,0.66
+Dera Ghazi Khan,Punjab,2007,4,5.4,5.4,0.0,12.0,8,1.8,0.18
+Dera Ghazi Khan,Punjab,2007,5,4.4,4.4,0.0,13.0,9,0.7,0.14
+Dera Ghazi Khan,Punjab,2007,6,68.9,68.9,0.0,73.0,15,17.8,2.3
+Dera Ghazi Khan,Punjab,2007,7,43.6,43.6,0.0,52.0,14,14.2,1.41
+Dera Ghazi Khan,Punjab,2007,8,40.7,40.7,0.0,55.0,17,11.6,1.31
+Dera Ghazi Khan,Punjab,2007,9,26.1,26.1,0.0,53.0,18,4.4,0.87
+Dera Ghazi Khan,Punjab,2007,10,0.0,0.0,0.0,0.0,0,0.0,0.0
+Dera Ghazi Khan,Punjab,2007,11,0.0,0.0,0.0,0.0,0,0.0,0.0
+Dera Ghazi Khan,Punjab,2007,12,9.7,9.7,0.0,13.0,2,9.5,0.31
+Dera Ghazi Khan,Punjab,2008,1,20.0,20.0,0.0,36.0,6,9.3,0.65
+Dera Ghazi Khan,Punjab,2008,2,6.5,6.5,0.0,21.0,3,3.6,0.22
+Dera Ghazi Khan,Punjab,2008,3,1.1,1.1,0.0,5.0,4,0.4,0.04
+Dera Ghazi Khan,Punjab,2008,4,32.3,32.3,0.0,32.0,7,18.5,1.08
+Dera Ghazi Khan,Punjab,2008,5,10.6,10.6,0.0,22.0,13,2.7,0.34
+Dera Ghazi Khan,Punjab,2008,6,22.7,22.7,0.0,32.0,13,6.2,0.76
+Dera Ghazi Khan,Punjab,2008,7,32.2,32.2,0.0,49.0,12,9.1,1.04
+Dera Ghazi Khan,Punjab,2008,8,120.1,120.1,0.0,122.0,15,54.3,3.87
+Dera Ghazi Khan,Punjab,2008,9,15.9,15.9,0.0,28.0,10,4.1,0.53
+Dera Ghazi Khan,Punjab,2008,10,0.0,0.0,0.0,0.0,0,0.0,0.0
+Dera Ghazi Khan,Punjab,2008,11,0.0,0.0,0.0,0.0,0,0.0,0.0
+Dera Ghazi Khan,Punjab,2008,12,71.6,71.6,0.0,82.0,6,36.1,2.31
+Dera Ghazi Khan,Punjab,2009,1,9.7,9.7,0.0,27.0,6,3.7,0.31
+Dera Ghazi Khan,Punjab,2009,2,1.3,1.3,0.0,6.0,2,1.1,0.05
+Dera Ghazi Khan,Punjab,2009,3,16.1,16.1,0.0,28.0,7,6.2,0.52
+Dera Ghazi Khan,Punjab,2009,4,10.7,10.7,0.0,19.0,9,7.2,0.36
+Dera Ghazi Khan,Punjab,2009,5,3.2,3.2,0.0,12.0,9,0.7,0.1
+Dera Ghazi Khan,Punjab,2009,6,8.1,8.1,0.0,16.0,12,2.2,0.27
+Dera Ghazi Khan,Punjab,2009,7,25.6,25.6,0.0,45.0,13,8.1,0.83
+Dera Ghazi Khan,Punjab,2009,8,30.7,30.7,0.0,40.0,14,8.9,0.99
+Dera Ghazi Khan,Punjab,2009,9,3.9,3.9,0.0,14.0,7,1.4,0.13
+Dera Ghazi Khan,Punjab,2009,10,2.0,2.0,0.0,6.0,4,0.8,0.06
+Dera Ghazi Khan,Punjab,2009,11,0.0,0.0,0.0,0.0,0,0.0,0.0
+Dera Ghazi Khan,Punjab,2009,12,1.2,1.2,0.0,6.0,1,1.2,0.04
+Dera Ghazi Khan,Punjab,2010,1,5.2,5.2,0.0,11.0,2,3.0,0.17
+Dera Ghazi Khan,Punjab,2010,2,0.2,0.2,0.0,2.0,1,0.2,0.01
+Dera Ghazi Khan,Punjab,2010,3,15.2,15.2,0.0,27.0,4,6.1,0.49
+Dera Ghazi Khan,Punjab,2010,4,1.1,1.1,0.0,5.0,4,0.4,0.04
+Dera Ghazi Khan,Punjab,2010,5,3.6,3.6,0.0,6.0,5,2.3,0.12
+Dera Ghazi Khan,Punjab,2010,6,9.0,9.0,0.0,18.0,10,2.7,0.3
+Dera Ghazi Khan,Punjab,2010,7,141.3,141.3,0.0,113.0,17,72.2,4.56
+Dera Ghazi Khan,Punjab,2010,8,260.5,260.5,0.0,194.0,18,52.3,8.4
+Dera Ghazi Khan,Punjab,2010,9,21.7,21.7,0.0,52.0,11,7.7,0.72
+Dera Ghazi Khan,Punjab,2010,10,1.8,1.8,0.0,5.0,2,1.0,0.06
+Dera Ghazi Khan,Punjab,2010,11,0.2,0.2,0.0,1.0,1,0.2,0.01
+Dera Ghazi Khan,Punjab,2010,12,0.1,0.1,0.0,1.0,1,0.1,0.0
+Dera Ghazi Khan,Punjab,2011,1,2.4,2.4,0.0,5.0,2,2.1,0.08
+Dera Ghazi Khan,Punjab,2011,2,21.2,21.2,0.0,33.0,10,7.3,0.76
+Dera Ghazi Khan,Punjab,2011,3,7.2,7.2,0.0,20.0,4,2.5,0.23
+Dera Ghazi Khan,Punjab,2011,4,9.7,9.7,0.0,17.0,5,5.5,0.32
+Dera Ghazi Khan,Punjab,2011,5,7.1,7.1,0.0,11.0,7,2.2,0.23
+Dera Ghazi Khan,Punjab,2011,6,8.0,8.0,0.0,18.0,6,3.9,0.27
+Dera Ghazi Khan,Punjab,2011,7,55.0,55.0,0.0,64.0,14,22.5,1.77
+Dera Ghazi Khan,Punjab,2011,8,106.5,106.5,0.0,125.0,22,24.9,3.44
+Dera Ghazi Khan,Punjab,2011,9,151.1,151.1,0.0,141.0,15,41.7,5.04
+Dera Ghazi Khan,Punjab,2011,10,0.5,0.5,0.0,2.0,2,0.3,0.02
+Dera Ghazi Khan,Punjab,2011,11,0.0,0.0,0.0,0.0,0,0.0,0.0
+Dera Ghazi Khan,Punjab,2011,12,0.0,0.0,0.0,0.0,0,0.0,0.0
+Dera Ghazi Khan,Punjab,2012,1,4.4,4.4,0.0,12.0,3,2.4,0.14
+Dera Ghazi Khan,Punjab,2012,2,4.3,4.3,0.0,17.0,6,3.1,0.15
+Dera Ghazi Khan,Punjab,2012,3,0.7,0.7,0.0,3.0,1,0.7,0.02
+Dera Ghazi Khan,Punjab,2012,4,14.0,14.0,0.0,29.0,13,5.8,0.47
+Dera Ghazi Khan,Punjab,2012,5,2.5,2.5,0.0,5.0,3,1.2,0.08
+Dera Ghazi Khan,Punjab,2012,6,12.1,12.1,0.0,23.0,12,2.6,0.4
+Dera Ghazi Khan,Punjab,2012,7,40.1,40.1,0.0,50.0,9,9.1,1.29
+Dera Ghazi Khan,Punjab,2012,8,87.3,87.3,0.0,93.0,16,26.2,2.82
+Dera Ghazi Khan,Punjab,2012,9,182.0,182.0,0.0,154.0,14,65.5,6.07
+Dera Ghazi Khan,Punjab,2012,10,2.6,2.6,0.0,4.0,3,2.2,0.08
+Dera Ghazi Khan,Punjab,2012,11,0.9,0.9,0.0,2.0,2,0.6,0.03
+Dera Ghazi Khan,Punjab,2012,12,5.4,5.4,0.0,15.0,2,4.5,0.17
+Dera Ghazi Khan,Punjab,2013,1,0.0,0.0,0.0,0.0,0,0.0,0.0
+Dera Ghazi Khan,Punjab,2013,2,44.0,44.0,0.0,73.0,11,16.0,1.57
+Dera Ghazi Khan,Punjab,2013,3,24.0,24.0,0.0,38.0,6,12.0,0.77
+Dera Ghazi Khan,Punjab,2013,4,10.2,10.2,0.0,20.0,12,2.3,0.34
+Dera Ghazi Khan,Punjab,2013,5,4.9,4.9,0.0,6.0,4,2.3,0.16
+Dera Ghazi Khan,Punjab,2013,6,17.4,17.4,0.0,30.0,7,8.4,0.58
+Dera Ghazi Khan,Punjab,2013,7,35.6,35.6,0.0,53.0,14,13.4,1.15
+Dera Ghazi Khan,Punjab,2013,8,121.0,121.0,0.0,133.0,19,30.4,3.9
+Dera Ghazi Khan,Punjab,2013,9,1.7,1.7,0.0,8.0,7,0.7,0.06
+Dera Ghazi Khan,Punjab,2013,10,3.6,3.6,0.0,14.0,7,1.2,0.12
+Dera Ghazi Khan,Punjab,2013,11,1.1,1.1,0.0,5.0,2,0.9,0.04
+Dera Ghazi Khan,Punjab,2013,12,0.0,0.0,0.0,0.0,0,0.0,0.0
+Dera Ghazi Khan,Punjab,2014,1,0.1,0.1,0.0,1.0,1,0.1,0.0
+Dera Ghazi Khan,Punjab,2014,2,13.3,13.3,0.0,35.0,8,6.6,0.48
+Dera Ghazi Khan,Punjab,2014,3,12.7,12.7,0.0,32.0,8,6.2,0.41
+Dera Ghazi Khan,Punjab,2014,4,28.2,28.2,0.0,27.0,6,17.8,0.94
+Dera Ghazi Khan,Punjab,2014,5,13.9,13.9,0.0,25.0,11,3.9,0.45
+Dera Ghazi Khan,Punjab,2014,6,4.8,4.8,0.0,10.0,8,2.2,0.16
+Dera Ghazi Khan,Punjab,2014,7,25.6,25.6,0.0,45.0,14,6.4,0.83
+Dera Ghazi Khan,Punjab,2014,8,9.4,9.4,0.0,14.0,6,3.9,0.3
+Dera Ghazi Khan,Punjab,2014,9,19.4,19.4,0.0,34.0,13,6.1,0.65
+Dera Ghazi Khan,Punjab,2014,10,6.8,6.8,0.0,14.0,4,6.1,0.22
+Dera Ghazi Khan,Punjab,2014,11,0.0,0.0,0.0,0.0,0,0.0,0.0
+Dera Ghazi Khan,Punjab,2014,12,0.0,0.0,0.0,0.0,0,0.0,0.0
+Dera Ghazi Khan,Punjab,2015,1,2.1,2.1,0.0,9.0,3,1.5,0.07
+Dera Ghazi Khan,Punjab,2015,2,31.1,31.1,0.0,36.0,7,14.9,1.11
+Dera Ghazi Khan,Punjab,2015,3,35.4,35.4,0.0,60.0,11,11.9,1.14
+Dera Ghazi Khan,Punjab,2015,4,21.4,21.4,0.0,33.0,7,7.4,0.71
+Dera Ghazi Khan,Punjab,2015,5,11.4,11.4,0.0,23.0,12,2.0,0.37
+Dera Ghazi Khan,Punjab,2015,6,57.0,57.0,0.0,45.0,13,45.7,1.9
+Dera Ghazi Khan,Punjab,2015,7,252.8,252.8,0.0,198.0,23,49.5,8.15
+Dera Ghazi Khan,Punjab,2015,8,84.3,84.3,0.0,54.0,11,49.1,2.72
+Dera Ghazi Khan,Punjab,2015,9,6.9,6.9,0.0,19.0,9,1.8,0.23
+Dera Ghazi Khan,Punjab,2015,10,3.8,3.8,0.0,9.0,5,2.3,0.12
+Dera Ghazi Khan,Punjab,2015,11,0.0,0.0,0.0,0.0,0,0.0,0.0
+Dera Ghazi Khan,Punjab,2015,12,0.4,0.4,0.0,2.0,1,0.4,0.01
+Dera Ghazi Khan,Punjab,2016,1,1.7,1.7,0.0,8.0,3,0.9,0.05
+Dera Ghazi Khan,Punjab,2016,2,0.0,0.0,0.0,0.0,0,0.0,0.0
+Dera Ghazi Khan,Punjab,2016,3,26.9,26.9,0.0,55.0,13,5.8,0.87
+Dera Ghazi Khan,Punjab,2016,4,8.7,8.7,0.0,26.0,7,3.8,0.29
+Dera Ghazi Khan,Punjab,2016,5,5.2,5.2,0.0,12.0,7,1.7,0.17
+Dera Ghazi Khan,Punjab,2016,6,13.0,13.0,0.0,25.0,8,4.6,0.43
+Dera Ghazi Khan,Punjab,2016,7,31.6,31.6,0.0,59.0,17,8.9,1.02
+Dera Ghazi Khan,Punjab,2016,8,116.9,116.9,0.0,130.0,25,30.2,3.77
+Dera Ghazi Khan,Punjab,2016,9,3.1,3.1,0.0,11.0,7,1.1,0.1
+Dera Ghazi Khan,Punjab,2016,10,0.5,0.5,0.0,2.0,2,0.4,0.02
+Dera Ghazi Khan,Punjab,2016,11,0.0,0.0,0.0,0.0,0,0.0,0.0
+Dera Ghazi Khan,Punjab,2016,12,0.1,0.1,0.0,1.0,1,0.1,0.0
+Dera Ghazi Khan,Punjab,2017,1,28.8,28.8,0.0,49.0,7,7.8,0.93
+Dera Ghazi Khan,Punjab,2017,2,7.6,7.6,0.0,12.0,4,7.1,0.27
+Dera Ghazi Khan,Punjab,2017,3,5.2,5.2,0.0,8.0,6,1.7,0.17
+Dera Ghazi Khan,Punjab,2017,4,3.1,3.1,0.0,7.0,5,1.6,0.1
+Dera Ghazi Khan,Punjab,2017,5,15.7,15.7,0.0,11.0,8,3.8,0.51
+Dera Ghazi Khan,Punjab,2017,6,81.9,81.9,0.0,49.0,19,34.6,2.73
+Dera Ghazi Khan,Punjab,2017,7,64.6,64.6,0.0,69.0,18,23.0,2.08
+Dera Ghazi Khan,Punjab,2017,8,35.2,35.2,0.0,39.0,11,22.5,1.14
+Dera Ghazi Khan,Punjab,2017,9,22.8,22.8,0.0,39.0,9,5.3,0.76
+Dera Ghazi Khan,Punjab,2017,10,0.0,0.0,0.0,0.0,0,0.0,0.0
+Dera Ghazi Khan,Punjab,2017,11,10.9,10.9,0.0,12.0,3,5.7,0.36
+Dera Ghazi Khan,Punjab,2017,12,4.0,4.0,0.0,11.0,2,3.9,0.13
+Dera Ghazi Khan,Punjab,2018,1,0.0,0.0,0.0,0.0,0,0.0,0.0
+Dera Ghazi Khan,Punjab,2018,2,32.8,32.8,0.0,31.0,5,11.7,1.17
+Dera Ghazi Khan,Punjab,2018,3,3.0,3.0,0.0,10.0,5,1.6,0.1
+Dera Ghazi Khan,Punjab,2018,4,5.9,5.9,0.0,10.0,7,1.6,0.2
+Dera Ghazi Khan,Punjab,2018,5,5.4,5.4,0.0,7.0,4,2.4,0.17
+Dera Ghazi Khan,Punjab,2018,6,3.0,3.0,0.0,6.0,3,1.6,0.1
+Dera Ghazi Khan,Punjab,2018,7,18.1,18.1,0.0,29.0,10,3.5,0.58
+Dera Ghazi Khan,Punjab,2018,8,8.4,8.4,0.0,18.0,8,3.8,0.27
+Dera Ghazi Khan,Punjab,2018,9,0.5,0.5,0.0,4.0,3,0.2,0.02
+Dera Ghazi Khan,Punjab,2018,10,0.0,0.0,0.0,0.0,0,0.0,0.0
+Dera Ghazi Khan,Punjab,2018,11,0.0,0.0,0.0,0.0,0,0.0,0.0
+Dera Ghazi Khan,Punjab,2018,12,1.7,1.7,0.0,3.0,1,1.7,0.05
+Dera Ghazi Khan,Punjab,2019,1,19.4,19.4,0.0,47.0,9,7.6,0.63
+Dera Ghazi Khan,Punjab,2019,2,17.0,17.0,0.0,33.0,8,14.1,0.61
+Dera Ghazi Khan,Punjab,2019,3,27.6,27.6,0.0,54.0,12,14.1,0.89
+Dera Ghazi Khan,Punjab,2019,4,37.1,37.1,0.0,28.0,10,18.5,1.24
+Dera Ghazi Khan,Punjab,2019,5,13.5,13.5,0.0,6.0,2,13.4,0.44
+Dera Ghazi Khan,Punjab,2019,6,8.2,8.2,0.0,20.0,7,4.4,0.27
+Dera Ghazi Khan,Punjab,2019,7,54.1,54.1,0.0,60.0,10,23.2,1.75
+Dera Ghazi Khan,Punjab,2019,8,113.7,113.7,0.0,79.0,16,32.7,3.67
+Dera Ghazi Khan,Punjab,2019,9,21.4,21.4,0.0,22.0,4,9.3,0.71
+Dera Ghazi Khan,Punjab,2019,10,15.5,15.5,0.0,24.0,6,8.4,0.5
+Dera Ghazi Khan,Punjab,2019,11,9.3,9.3,0.0,20.0,6,4.4,0.31
+Dera Ghazi Khan,Punjab,2019,12,14.2,14.2,0.0,15.0,1,14.2,0.46
+Dera Ghazi Khan,Punjab,2020,1,33.1,33.1,0.0,67.0,8,10.9,1.07
+Dera Ghazi Khan,Punjab,2020,2,2.3,2.3,0.0,8.0,3,1.6,0.08
+Dera Ghazi Khan,Punjab,2020,3,100.5,100.5,0.0,119.0,15,29.5,3.24
+Dera Ghazi Khan,Punjab,2020,4,2.2,2.2,0.0,9.0,2,2.1,0.07
+Dera Ghazi Khan,Punjab,2020,5,9.8,9.8,0.0,13.0,6,4.9,0.32
+Dera Ghazi Khan,Punjab,2020,6,28.7,28.7,0.0,9.0,4,26.2,0.96
+Dera Ghazi Khan,Punjab,2020,7,21.2,21.2,0.0,20.0,8,9.3,0.68
+Dera Ghazi Khan,Punjab,2020,8,147.9,147.9,0.0,107.0,16,98.6,4.77
+Dera Ghazi Khan,Punjab,2020,9,34.9,34.9,0.0,35.0,6,31.5,1.16
+Dera Ghazi Khan,Punjab,2020,10,0.0,0.0,0.0,0.0,0,0.0,0.0
+Dera Ghazi Khan,Punjab,2020,11,0.9,0.9,0.0,5.0,3,0.7,0.03
+Dera Ghazi Khan,Punjab,2020,12,9.4,9.4,0.0,19.0,2,7.6,0.3
+Dera Ghazi Khan,Punjab,2021,1,0.2,0.2,0.0,2.0,1,0.2,0.01
+Dera Ghazi Khan,Punjab,2021,2,0.0,0.0,0.0,0.0,0,0.0,0.0
+Dera Ghazi Khan,Punjab,2021,3,5.8,5.8,0.0,11.0,4,3.3,0.19
+Dera Ghazi Khan,Punjab,2021,4,7.1,7.1,0.0,13.0,3,6.7,0.24
+Dera Ghazi Khan,Punjab,2021,5,0.1,0.1,0.0,1.0,1,0.1,0.0
+Dera Ghazi Khan,Punjab,2021,6,16.5,16.5,0.0,17.0,8,5.9,0.55
+Dera Ghazi Khan,Punjab,2021,7,21.9,21.9,0.0,38.0,12,7.3,0.71
+Dera Ghazi Khan,Punjab,2021,8,8.8,8.8,0.0,11.0,5,4.4,0.28
+Dera Ghazi Khan,Punjab,2021,9,12.3,12.3,0.0,33.0,10,4.2,0.41
+Dera Ghazi Khan,Punjab,2021,10,1.1,1.1,0.0,2.0,2,0.9,0.04
+Dera Ghazi Khan,Punjab,2021,11,0.0,0.0,0.0,0.0,0,0.0,0.0
+Dera Ghazi Khan,Punjab,2021,12,2.3,2.3,0.0,5.0,1,2.3,0.07
+Dera Ghazi Khan,Punjab,2022,1,18.9,18.9,0.0,39.0,7,6.6,0.61
+Dera Ghazi Khan,Punjab,2022,2,0.2,0.2,0.0,1.0,1,0.2,0.01
+Dera Ghazi Khan,Punjab,2022,3,26.4,26.4,0.0,14.0,2,26.1,0.85
+Dera Ghazi Khan,Punjab,2022,4,0.0,0.0,0.0,0.0,0,0.0,0.0
+Dera Ghazi Khan,Punjab,2022,5,0.0,0.0,0.0,0.0,0,0.0,0.0
+Dera Ghazi Khan,Punjab,2022,6,32.2,32.2,0.0,30.0,5,16.1,1.07
+Dera Ghazi Khan,Punjab,2022,7,350.5,350.5,0.0,219.0,26,54.5,11.31
+Dera Ghazi Khan,Punjab,2022,8,200.5,200.5,0.0,186.0,29,54.9,6.47
+Dera Ghazi Khan,Punjab,2022,9,7.4,7.4,0.0,9.0,4,6.8,0.25
+Dera Ghazi Khan,Punjab,2022,10,0.0,0.0,0.0,0.0,0,0.0,0.0
+Dera Ghazi Khan,Punjab,2022,11,0.6,0.6,0.0,2.0,1,0.6,0.02
+Dera Ghazi Khan,Punjab,2022,12,3.0,3.0,0.0,4.0,1,3.0,0.1
+Dera Ghazi Khan,Punjab,2023,1,2.0,2.0,0.0,11.0,5,1.3,0.06
+Dera Ghazi Khan,Punjab,2023,2,0.1,0.1,0.0,1.0,1,0.1,0.0
+Dera Ghazi Khan,Punjab,2023,3,32.7,32.7,0.0,45.0,14,9.6,1.05
+Dera Ghazi Khan,Punjab,2023,4,3.9,3.9,0.0,10.0,3,1.9,0.13
+Dera Ghazi Khan,Punjab,2023,5,27.3,27.3,0.0,25.0,8,15.0,0.88
+Dera Ghazi Khan,Punjab,2023,6,5.0,5.0,0.0,10.0,8,2.6,0.17
+Dera Ghazi Khan,Punjab,2023,7,170.4,170.4,0.0,108.0,18,22.9,5.5
+Dera Ghazi Khan,Punjab,2023,8,3.9,3.9,0.0,11.0,3,3.3,0.13
+Dera Ghazi Khan,Punjab,2023,9,3.8,3.8,0.0,16.0,5,1.8,0.13
+Dera Ghazi Khan,Punjab,2023,10,12.5,12.5,0.0,8.0,4,11.7,0.4
+Dera Ghazi Khan,Punjab,2023,11,0.4,0.4,0.0,2.0,1,0.4,0.01
+Dera Ghazi Khan,Punjab,2023,12,0.0,0.0,0.0,0.0,0,0.0,0.0
+Dera Ghazi Khan,Punjab,2024,1,5.9,5.9,0.0,6.0,3,5.6,0.19
+Dera Ghazi Khan,Punjab,2024,2,11.4,11.4,0.0,26.0,7,4.2,0.39
+Dera Ghazi Khan,Punjab,2024,3,14.1,14.1,0.0,28.0,7,5.8,0.45
+Dera Ghazi Khan,Punjab,2024,4,8.3,8.3,0.0,16.0,5,2.7,0.28
+Dera Ghazi Khan,Punjab,2024,5,0.1,0.1,0.0,1.0,1,0.1,0.0
+Dera Ghazi Khan,Punjab,2024,6,15.7,15.7,0.0,10.0,4,14.3,0.52
+Dera Ghazi Khan,Punjab,2024,7,25.7,25.7,0.0,22.0,10,8.1,0.83
+Dera Ghazi Khan,Punjab,2024,8,253.9,253.9,0.0,215.0,28,31.5,8.19
+Dera Ghazi Khan,Punjab,2024,9,33.3,33.3,0.0,24.0,9,14.5,1.11
+Dera Ghazi Khan,Punjab,2024,10,1.5,1.5,0.0,3.0,2,1.0,0.05
+Dera Ghazi Khan,Punjab,2024,11,3.7,3.7,0.0,6.0,3,2.7,0.12
+Dera Ghazi Khan,Punjab,2024,12,3.6,3.6,0.0,3.0,1,3.6,0.12
+Dera Ghazi Khan,Punjab,2025,1,0.3,0.3,0.0,2.0,1,0.3,0.01
+Dera Ghazi Khan,Punjab,2025,2,14.1,14.1,0.0,22.0,7,10.7,0.5
+Dera Ghazi Khan,Punjab,2025,3,0.4,0.4,0.0,2.0,2,0.3,0.01
+Dera Ghazi Khan,Punjab,2025,4,0.0,0.0,0.0,0.0,0,0.0,0.0
+Dera Ghazi Khan,Punjab,2025,5,4.6,4.6,0.0,6.0,4,4.0,0.15
+Dera Ghazi Khan,Punjab,2025,6,12.3,12.3,0.0,8.0,3,9.2,0.41
+Dera Ghazi Khan,Punjab,2025,7,33.6,33.6,0.0,23.0,10,12.8,1.08
+Dera Ghazi Khan,Punjab,2025,8,22.0,22.0,0.0,44.0,13,8.5,0.71
+Dera Ghazi Khan,Punjab,2025,9,58.2,58.2,0.0,43.0,8,38.1,1.94
+Dera Ghazi Khan,Punjab,2025,10,5.6,5.6,0.0,2.0,2,4.9,0.18
+Dera Ghazi Khan,Punjab,2025,11,0.0,0.0,0.0,0.0,0,0.0,0.0
+Dera Ghazi Khan,Punjab,2025,12,6.8,6.8,0.0,11.0,2,5.9,0.22
+Faisalabad,Punjab,2000,1,31.6,31.6,0.0,56.0,5,14.4,1.02
+Faisalabad,Punjab,2000,2,32.2,32.2,0.0,57.0,9,13.0,1.11
+Faisalabad,Punjab,2000,3,3.7,3.7,0.0,16.0,7,2.1,0.12
+Faisalabad,Punjab,2000,4,6.5,6.5,0.0,13.0,8,1.9,0.22
+Faisalabad,Punjab,2000,5,16.3,16.3,0.0,29.0,17,3.9,0.53
+Faisalabad,Punjab,2000,6,33.5,33.5,0.0,40.0,13,9.3,1.12
+Faisalabad,Punjab,2000,7,140.4,140.4,0.0,159.0,21,22.9,4.53
+Faisalabad,Punjab,2000,8,85.2,85.2,0.0,123.0,20,14.7,2.75
+Faisalabad,Punjab,2000,9,42.8,42.8,0.0,39.0,9,15.2,1.43
+Faisalabad,Punjab,2000,10,4.5,4.5,0.0,7.0,4,2.1,0.15
+Faisalabad,Punjab,2000,11,7.4,7.4,0.0,15.0,3,6.7,0.25
+Faisalabad,Punjab,2000,12,9.9,9.9,0.0,16.0,2,9.5,0.32
+Faisalabad,Punjab,2001,1,6.1,6.1,0.0,14.0,2,4.0,0.2
+Faisalabad,Punjab,2001,2,4.2,4.2,0.0,11.0,2,3.1,0.15
+Faisalabad,Punjab,2001,3,8.1,8.1,0.0,16.0,7,3.0,0.26
+Faisalabad,Punjab,2001,4,24.7,24.7,0.0,49.0,10,5.1,0.82
+Faisalabad,Punjab,2001,5,19.2,19.2,0.0,40.0,19,3.9,0.62
+Faisalabad,Punjab,2001,6,123.6,123.6,0.0,111.0,16,22.2,4.12
+Faisalabad,Punjab,2001,7,216.1,216.1,0.0,233.0,27,33.3,6.97
+Faisalabad,Punjab,2001,8,35.6,35.6,0.0,66.0,15,5.1,1.15
+Faisalabad,Punjab,2001,9,51.5,51.5,0.0,60.0,12,19.8,1.72
+Faisalabad,Punjab,2001,10,5.4,5.4,0.0,8.0,6,2.0,0.17
+Faisalabad,Punjab,2001,11,0.6,0.6,0.0,3.0,1,0.6,0.02
+Faisalabad,Punjab,2001,12,3.8,3.8,0.0,8.0,2,3.2,0.12
+Faisalabad,Punjab,2002,1,0.5,0.5,0.0,1.0,1,0.5,0.02
+Faisalabad,Punjab,2002,2,25.2,25.2,0.0,52.0,11,7.4,0.9
+Faisalabad,Punjab,2002,3,22.0,22.0,0.0,56.0,10,4.4,0.71
+Faisalabad,Punjab,2002,4,7.1,7.1,0.0,14.0,6,2.3,0.24
+Faisalabad,Punjab,2002,5,46.9,46.9,0.0,31.0,11,37.6,1.51
+Faisalabad,Punjab,2002,6,48.6,48.6,0.0,63.0,17,11.7,1.62
+Faisalabad,Punjab,2002,7,46.6,46.6,0.0,55.0,14,17.1,1.5
+Faisalabad,Punjab,2002,8,67.9,67.9,0.0,97.0,24,12.2,2.19
+Faisalabad,Punjab,2002,9,63.8,63.8,0.0,86.0,22,17.5,2.13
+Faisalabad,Punjab,2002,10,12.9,12.9,0.0,20.0,6,5.3,0.42
+Faisalabad,Punjab,2002,11,4.9,4.9,0.0,15.0,8,1.8,0.16
+Faisalabad,Punjab,2002,12,25.9,25.9,0.0,33.0,4,21.8,0.84
+Faisalabad,Punjab,2003,1,15.3,15.3,0.0,33.0,5,10.5,0.49
+Faisalabad,Punjab,2003,2,52.5,52.5,0.0,74.0,11,32.9,1.88
+Faisalabad,Punjab,2003,3,70.7,70.7,0.0,47.0,10,31.7,2.28
+Faisalabad,Punjab,2003,4,7.6,7.6,0.0,21.0,8,1.9,0.25
+Faisalabad,Punjab,2003,5,6.8,6.8,0.0,17.0,9,1.9,0.22
+Faisalabad,Punjab,2003,6,22.7,22.7,0.0,31.0,10,11.5,0.76
+Faisalabad,Punjab,2003,7,145.9,145.9,0.0,161.0,25,32.6,4.71
+Faisalabad,Punjab,2003,8,89.7,89.7,0.0,150.0,23,12.4,2.89
+Faisalabad,Punjab,2003,9,62.0,62.0,0.0,80.0,20,13.1,2.07
+Faisalabad,Punjab,2003,10,2.1,2.1,0.0,6.0,3,1.2,0.07
+Faisalabad,Punjab,2003,11,17.0,17.0,0.0,19.0,3,10.7,0.57
+Faisalabad,Punjab,2003,12,6.8,6.8,0.0,13.0,4,3.7,0.22
+Faisalabad,Punjab,2004,1,51.5,51.5,0.0,97.0,9,17.8,1.66
+Faisalabad,Punjab,2004,2,8.7,8.7,0.0,13.0,4,7.1,0.3
+Faisalabad,Punjab,2004,3,0.3,0.3,0.0,1.0,1,0.3,0.01
+Faisalabad,Punjab,2004,4,43.8,43.8,0.0,43.0,13,32.9,1.46
+Faisalabad,Punjab,2004,5,14.4,14.4,0.0,19.0,9,6.5,0.46
+Faisalabad,Punjab,2004,6,14.6,14.6,0.0,29.0,15,2.8,0.49
+Faisalabad,Punjab,2004,7,41.6,41.6,0.0,60.0,18,7.3,1.34
+Faisalabad,Punjab,2004,8,86.7,86.7,0.0,130.0,29,10.9,2.8
+Faisalabad,Punjab,2004,9,28.7,28.7,0.0,36.0,14,11.2,0.96
+Faisalabad,Punjab,2004,10,27.3,27.3,0.0,29.0,10,18.1,0.88
+Faisalabad,Punjab,2004,11,15.8,15.8,0.0,19.0,4,9.0,0.53
+Faisalabad,Punjab,2004,12,28.8,28.8,0.0,24.0,4,28.2,0.93
+Faisalabad,Punjab,2005,1,25.3,25.3,0.0,43.0,5,9.1,0.82
+Faisalabad,Punjab,2005,2,78.9,78.9,0.0,115.0,17,19.8,2.82
+Faisalabad,Punjab,2005,3,61.6,61.6,0.0,78.0,18,17.9,1.99
+Faisalabad,Punjab,2005,4,13.1,13.1,0.0,19.0,7,4.0,0.44
+Faisalabad,Punjab,2005,5,23.3,23.3,0.0,31.0,11,12.1,0.75
+Faisalabad,Punjab,2005,6,20.8,20.8,0.0,37.0,14,9.5,0.69
+Faisalabad,Punjab,2005,7,119.7,119.7,0.0,159.0,26,21.1,3.86
+Faisalabad,Punjab,2005,8,77.2,77.2,0.0,102.0,19,28.7,2.49
+Faisalabad,Punjab,2005,9,67.0,67.0,0.0,75.0,17,16.1,2.23
+Faisalabad,Punjab,2005,10,1.0,1.0,0.0,4.0,2,0.7,0.03
+Faisalabad,Punjab,2005,11,1.5,1.5,0.0,5.0,2,1.1,0.05
+Faisalabad,Punjab,2005,12,1.6,1.6,0.0,6.0,1,1.6,0.05
+Faisalabad,Punjab,2006,1,8.8,8.8,0.0,28.0,5,6.3,0.28
+Faisalabad,Punjab,2006,2,13.6,13.6,0.0,21.0,4,6.0,0.49
+Faisalabad,Punjab,2006,3,57.0,57.0,0.0,70.0,9,29.2,1.84
+Faisalabad,Punjab,2006,4,3.6,3.6,0.0,11.0,6,1.2,0.12
+Faisalabad,Punjab,2006,5,11.1,11.1,0.0,24.0,16,2.3,0.36
+Faisalabad,Punjab,2006,6,42.8,42.8,0.0,38.0,15,11.1,1.43
+Faisalabad,Punjab,2006,7,106.2,106.2,0.0,121.0,19,19.2,3.43
+Faisalabad,Punjab,2006,8,135.8,135.8,0.0,174.0,28,30.1,4.38
+Faisalabad,Punjab,2006,9,80.9,80.9,0.0,64.0,10,55.0,2.7
+Faisalabad,Punjab,2006,10,20.6,20.6,0.0,12.0,7,17.0,0.66
+Faisalabad,Punjab,2006,11,17.5,17.5,0.0,27.0,8,6.1,0.58
+Faisalabad,Punjab,2006,12,38.6,38.6,0.0,50.0,6,20.1,1.25
+Faisalabad,Punjab,2007,1,0.0,0.0,0.0,0.0,0,0.0,0.0
+Faisalabad,Punjab,2007,2,95.7,95.7,0.0,139.0,16,24.6,3.42
+Faisalabad,Punjab,2007,3,49.2,49.2,0.0,65.0,12,14.4,1.59
+Faisalabad,Punjab,2007,4,3.7,3.7,0.0,10.0,6,1.6,0.12
+Faisalabad,Punjab,2007,5,17.6,17.6,0.0,33.0,16,3.3,0.57
+Faisalabad,Punjab,2007,6,121.9,121.9,0.0,109.0,19,59.6,4.06
+Faisalabad,Punjab,2007,7,124.2,124.2,0.0,138.0,20,35.2,4.01
+Faisalabad,Punjab,2007,8,103.8,103.8,0.0,110.0,24,28.4,3.35
+Faisalabad,Punjab,2007,9,49.7,49.7,0.0,62.0,21,15.3,1.66
+Faisalabad,Punjab,2007,10,1.4,1.4,0.0,3.0,3,1.0,0.05
+Faisalabad,Punjab,2007,11,7.9,7.9,0.0,6.0,2,7.6,0.26
+Faisalabad,Punjab,2007,12,5.0,5.0,0.0,15.0,3,3.4,0.16
+Faisalabad,Punjab,2008,1,22.2,22.2,0.0,39.0,7,11.1,0.72
+Faisalabad,Punjab,2008,2,8.6,8.6,0.0,24.0,4,3.2,0.3
+Faisalabad,Punjab,2008,3,3.4,3.4,0.0,9.0,6,1.5,0.11
+Faisalabad,Punjab,2008,4,49.0,49.0,0.0,70.0,13,19.1,1.63
+Faisalabad,Punjab,2008,5,41.5,41.5,0.0,52.0,19,15.3,1.34
+Faisalabad,Punjab,2008,6,110.8,110.8,0.0,96.0,20,24.9,3.69
+Faisalabad,Punjab,2008,7,61.1,61.1,0.0,100.0,24,11.1,1.97
+Faisalabad,Punjab,2008,8,183.8,183.8,0.0,157.0,25,69.4,5.93
+Faisalabad,Punjab,2008,9,61.6,61.6,0.0,55.0,18,27.4,2.05
+Faisalabad,Punjab,2008,10,10.8,10.8,0.0,16.0,7,4.9,0.35
+Faisalabad,Punjab,2008,11,0.7,0.7,0.0,2.0,1,0.7,0.02
+Faisalabad,Punjab,2008,12,16.4,16.4,0.0,38.0,5,7.0,0.53
+Faisalabad,Punjab,2009,1,20.8,20.8,0.0,43.0,7,9.2,0.67
+Faisalabad,Punjab,2009,2,9.1,9.1,0.0,19.0,6,6.7,0.32
+Faisalabad,Punjab,2009,3,15.8,15.8,0.0,38.0,9,3.4,0.51
+Faisalabad,Punjab,2009,4,26.0,26.0,0.0,48.0,12,8.4,0.87
+Faisalabad,Punjab,2009,5,15.4,15.4,0.0,29.0,13,7.8,0.5
+Faisalabad,Punjab,2009,6,14.2,14.2,0.0,24.0,13,3.2,0.47
+Faisalabad,Punjab,2009,7,81.1,81.1,0.0,84.0,16,12.4,2.62
+Faisalabad,Punjab,2009,8,98.9,98.9,0.0,105.0,19,26.2,3.19
+Faisalabad,Punjab,2009,9,34.5,34.5,0.0,41.0,8,19.5,1.15
+Faisalabad,Punjab,2009,10,10.5,10.5,0.0,5.0,2,10.4,0.34
+Faisalabad,Punjab,2009,11,10.3,10.3,0.0,11.0,3,9.7,0.34
+Faisalabad,Punjab,2009,12,0.0,0.0,0.0,0.0,0,0.0,0.0
+Faisalabad,Punjab,2010,1,1.1,1.1,0.0,7.0,3,0.8,0.04
+Faisalabad,Punjab,2010,2,13.5,13.5,0.0,27.0,12,9.4,0.48
+Faisalabad,Punjab,2010,3,8.2,8.2,0.0,15.0,6,5.6,0.26
+Faisalabad,Punjab,2010,4,16.3,16.3,0.0,27.0,14,3.6,0.54
+Faisalabad,Punjab,2010,5,7.2,7.2,0.0,17.0,9,1.7,0.23
+Faisalabad,Punjab,2010,6,48.2,48.2,0.0,58.0,20,12.6,1.61
+Faisalabad,Punjab,2010,7,155.8,155.8,0.0,152.0,21,52.1,5.03
+Faisalabad,Punjab,2010,8,215.4,215.4,0.0,266.0,25,26.1,6.95
+Faisalabad,Punjab,2010,9,31.4,31.4,0.0,71.0,18,4.4,1.05
+Faisalabad,Punjab,2010,10,12.8,12.8,0.0,23.0,12,3.3,0.41
+Faisalabad,Punjab,2010,11,0.0,0.0,0.0,0.0,0,0.0,0.0
+Faisalabad,Punjab,2010,12,5.1,5.1,0.0,15.0,3,3.9,0.16
+Faisalabad,Punjab,2011,1,2.3,2.3,0.0,5.0,2,2.1,0.07
+Faisalabad,Punjab,2011,2,43.0,43.0,0.0,76.0,12,9.5,1.54
+Faisalabad,Punjab,2011,3,7.9,7.9,0.0,16.0,9,5.5,0.25
+Faisalabad,Punjab,2011,4,25.7,25.7,0.0,48.0,12,13.3,0.86
+Faisalabad,Punjab,2011,5,26.1,26.1,0.0,40.0,14,7.1,0.84
+Faisalabad,Punjab,2011,6,36.4,36.4,0.0,65.0,18,10.7,1.21
+Faisalabad,Punjab,2011,7,76.7,76.7,0.0,113.0,26,11.4,2.47
+Faisalabad,Punjab,2011,8,130.7,130.7,0.0,175.0,28,18.0,4.22
+Faisalabad,Punjab,2011,9,123.7,123.7,0.0,124.0,21,29.1,4.12
+Faisalabad,Punjab,2011,10,3.8,3.8,0.0,6.0,6,1.5,0.12
+Faisalabad,Punjab,2011,11,1.3,1.3,0.0,4.0,4,0.5,0.04
+Faisalabad,Punjab,2011,12,0.1,0.1,0.0,1.0,1,0.1,0.0
+Faisalabad,Punjab,2012,1,22.0,22.0,0.0,32.0,8,8.7,0.71
+Faisalabad,Punjab,2012,2,10.3,10.3,0.0,35.0,8,3.8,0.36
+Faisalabad,Punjab,2012,3,2.0,2.0,0.0,7.0,3,1.3,0.06
+Faisalabad,Punjab,2012,4,50.1,50.1,0.0,85.0,23,16.6,1.67
+Faisalabad,Punjab,2012,5,8.9,8.9,0.0,25.0,11,2.1,0.29
+Faisalabad,Punjab,2012,6,15.6,15.6,0.0,30.0,15,3.2,0.52
+Faisalabad,Punjab,2012,7,43.4,43.4,0.0,66.0,18,11.5,1.4
+Faisalabad,Punjab,2012,8,103.7,103.7,0.0,134.0,23,18.6,3.35
+Faisalabad,Punjab,2012,9,183.9,183.9,0.0,174.0,15,31.5,6.13
+Faisalabad,Punjab,2012,10,24.2,24.2,0.0,18.0,5,20.8,0.78
+Faisalabad,Punjab,2012,11,4.2,4.2,0.0,11.0,5,2.8,0.14
+Faisalabad,Punjab,2012,12,23.0,23.0,0.0,37.0,6,14.5,0.74
+Faisalabad,Punjab,2013,1,7.2,7.2,0.0,14.0,3,6.2,0.23
+Faisalabad,Punjab,2013,2,107.2,107.2,0.0,111.0,12,25.5,3.83
+Faisalabad,Punjab,2013,3,24.5,24.5,0.0,40.0,7,10.2,0.79
+Faisalabad,Punjab,2013,4,14.0,14.0,0.0,25.0,11,2.8,0.47
+Faisalabad,Punjab,2013,5,8.8,8.8,0.0,16.0,6,3.2,0.28
+Faisalabad,Punjab,2013,6,105.3,105.3,0.0,52.0,12,80.0,3.51
+Faisalabad,Punjab,2013,7,104.0,104.0,0.0,137.0,22,18.5,3.35
+Faisalabad,Punjab,2013,8,153.3,153.3,0.0,203.0,26,32.5,4.95
+Faisalabad,Punjab,2013,9,57.8,57.8,0.0,54.0,18,28.6,1.93
+Faisalabad,Punjab,2013,10,15.2,15.2,0.0,26.0,11,4.2,0.49
+Faisalabad,Punjab,2013,11,15.2,15.2,0.0,23.0,2,11.8,0.51
+Faisalabad,Punjab,2013,12,2.6,2.6,0.0,9.0,2,1.3,0.08
+Faisalabad,Punjab,2014,1,2.7,2.7,0.0,8.0,3,2.0,0.09
+Faisalabad,Punjab,2014,2,24.3,24.3,0.0,46.0,9,15.8,0.87
+Faisalabad,Punjab,2014,3,72.5,72.5,0.0,84.0,16,18.2,2.34
+Faisalabad,Punjab,2014,4,30.8,30.8,0.0,50.0,12,13.4,1.03
+Faisalabad,Punjab,2014,5,31.4,31.4,0.0,49.0,17,12.3,1.01
+Faisalabad,Punjab,2014,6,13.7,13.7,0.0,32.0,15,3.2,0.46
+Faisalabad,Punjab,2014,7,68.0,68.0,0.0,98.0,20,16.2,2.19
+Faisalabad,Punjab,2014,8,43.2,43.2,0.0,85.0,18,8.4,1.39
+Faisalabad,Punjab,2014,9,178.8,178.8,0.0,113.0,12,85.5,5.96
+Faisalabad,Punjab,2014,10,33.4,33.4,0.0,28.0,10,14.6,1.08
+Faisalabad,Punjab,2014,11,18.4,18.4,0.0,14.0,2,16.0,0.61
+Faisalabad,Punjab,2014,12,0.0,0.0,0.0,0.0,0,0.0,0.0
+Faisalabad,Punjab,2015,1,27.1,27.1,0.0,46.0,6,14.3,0.87
+Faisalabad,Punjab,2015,2,57.8,57.8,0.0,75.0,11,18.2,2.06
+Faisalabad,Punjab,2015,3,130.2,130.2,0.0,137.0,15,22.3,4.2
+Faisalabad,Punjab,2015,4,54.4,54.4,0.0,63.0,11,22.4,1.81
+Faisalabad,Punjab,2015,5,14.7,14.7,0.0,33.0,15,3.1,0.47
+Faisalabad,Punjab,2015,6,111.2,111.2,0.0,66.0,18,72.0,3.71
+Faisalabad,Punjab,2015,7,128.1,128.1,0.0,152.0,23,18.5,4.13
+Faisalabad,Punjab,2015,8,93.0,93.0,0.0,162.0,26,15.5,3.0
+Faisalabad,Punjab,2015,9,156.8,156.8,0.0,58.0,17,132.3,5.23
+Faisalabad,Punjab,2015,10,28.1,28.1,0.0,33.0,10,14.8,0.91
+Faisalabad,Punjab,2015,11,3.4,3.4,0.0,13.0,5,1.5,0.11
+Faisalabad,Punjab,2015,12,5.0,5.0,0.0,17.0,4,2.4,0.16
+Faisalabad,Punjab,2016,1,11.6,11.6,0.0,30.0,5,5.0,0.37
+Faisalabad,Punjab,2016,2,18.2,18.2,0.0,26.0,4,14.1,0.63
+Faisalabad,Punjab,2016,3,73.8,73.8,0.0,89.0,14,29.6,2.38
+Faisalabad,Punjab,2016,4,5.6,5.6,0.0,18.0,7,2.8,0.19
+Faisalabad,Punjab,2016,5,12.6,12.6,0.0,30.0,14,2.1,0.41
+Faisalabad,Punjab,2016,6,14.0,14.0,0.0,23.0,10,5.0,0.47
+Faisalabad,Punjab,2016,7,114.5,114.5,0.0,148.0,23,13.6,3.69
+Faisalabad,Punjab,2016,8,112.6,112.6,0.0,129.0,27,28.0,3.63
+Faisalabad,Punjab,2016,9,15.0,15.0,0.0,24.0,8,7.6,0.5
+Faisalabad,Punjab,2016,10,10.3,10.3,0.0,19.0,9,6.1,0.33
+Faisalabad,Punjab,2016,11,1.5,1.5,0.0,4.0,2,1.2,0.05
+Faisalabad,Punjab,2016,12,0.0,0.0,0.0,0.0,0,0.0,0.0
+Faisalabad,Punjab,2017,1,29.9,29.9,0.0,99.0,16,8.0,0.96
+Faisalabad,Punjab,2017,2,15.3,15.3,0.0,19.0,3,13.8,0.55
+Faisalabad,Punjab,2017,3,15.0,15.0,0.0,44.0,13,3.8,0.48
+Faisalabad,Punjab,2017,4,27.7,27.7,0.0,37.0,11,8.4,0.92
+Faisalabad,Punjab,2017,5,15.5,15.5,0.0,22.0,12,4.4,0.5
+Faisalabad,Punjab,2017,6,46.5,46.5,0.0,53.0,13,10.6,1.55
+Faisalabad,Punjab,2017,7,55.3,55.3,0.0,99.0,23,10.8,1.78
+Faisalabad,Punjab,2017,8,89.1,89.1,0.0,95.0,21,25.8,2.87
+Faisalabad,Punjab,2017,9,35.2,35.2,0.0,44.0,9,10.0,1.17
+Faisalabad,Punjab,2017,10,1.1,1.1,0.0,2.0,2,0.6,0.04
+Faisalabad,Punjab,2017,11,10.9,10.9,0.0,16.0,2,7.4,0.36
+Faisalabad,Punjab,2017,12,2.9,2.9,0.0,11.0,3,2.1,0.09
+Faisalabad,Punjab,2018,1,1.0,1.0,0.0,2.0,1,1.0,0.03
+Faisalabad,Punjab,2018,2,13.8,13.8,0.0,39.0,6,6.9,0.49
+Faisalabad,Punjab,2018,3,16.9,16.9,0.0,37.0,10,5.6,0.55
+Faisalabad,Punjab,2018,4,25.9,25.9,0.0,40.0,15,11.5,0.86
+Faisalabad,Punjab,2018,5,14.3,14.3,0.0,22.0,15,3.2,0.46
+Faisalabad,Punjab,2018,6,87.9,87.9,0.0,64.0,13,21.4,2.93
+Faisalabad,Punjab,2018,7,77.7,77.7,0.0,145.0,21,14.0,2.51
+Faisalabad,Punjab,2018,8,42.0,42.0,0.0,77.0,17,13.2,1.35
+Faisalabad,Punjab,2018,9,7.3,7.3,0.0,13.0,5,5.9,0.24
+Faisalabad,Punjab,2018,10,0.3,0.3,0.0,3.0,1,0.3,0.01
+Faisalabad,Punjab,2018,11,6.7,6.7,0.0,11.0,2,3.4,0.22
+Faisalabad,Punjab,2018,12,5.9,5.9,0.0,22.0,4,3.9,0.19
+Faisalabad,Punjab,2019,1,39.5,39.5,0.0,101.0,14,10.7,1.27
+Faisalabad,Punjab,2019,2,47.5,47.5,0.0,76.0,15,17.0,1.7
+Faisalabad,Punjab,2019,3,31.2,31.2,0.0,70.0,12,11.1,1.01
+Faisalabad,Punjab,2019,4,25.2,25.2,0.0,40.0,10,9.8,0.84
+Faisalabad,Punjab,2019,5,7.7,7.7,0.0,7.0,3,7.4,0.25
+Faisalabad,Punjab,2019,6,22.2,22.2,0.0,26.0,9,11.7,0.74
+Faisalabad,Punjab,2019,7,79.3,79.3,0.0,136.0,19,15.8,2.56
+Faisalabad,Punjab,2019,8,54.1,54.1,0.0,101.0,25,7.9,1.75
+Faisalabad,Punjab,2019,9,55.6,55.6,0.0,55.0,12,18.7,1.85
+Faisalabad,Punjab,2019,10,38.5,38.5,0.0,24.0,7,14.0,1.24
+Faisalabad,Punjab,2019,11,9.7,9.7,0.0,19.0,8,3.2,0.32
+Faisalabad,Punjab,2019,12,14.0,14.0,0.0,31.0,4,8.2,0.45
+Faisalabad,Punjab,2020,1,52.2,52.2,0.0,112.0,15,15.8,1.68
+Faisalabad,Punjab,2020,2,37.8,37.8,0.0,27.0,8,26.0,1.3
+Faisalabad,Punjab,2020,3,101.2,101.2,0.0,147.0,19,27.0,3.26
+Faisalabad,Punjab,2020,4,20.6,20.6,0.0,23.0,9,11.6,0.69
+Faisalabad,Punjab,2020,5,28.3,28.3,0.0,29.0,10,7.5,0.91
+Faisalabad,Punjab,2020,6,56.7,56.7,0.0,31.0,11,20.2,1.89
+Faisalabad,Punjab,2020,7,46.3,46.3,0.0,52.0,15,21.6,1.49
+Faisalabad,Punjab,2020,8,132.2,132.2,0.0,158.0,21,40.2,4.26
+Faisalabad,Punjab,2020,9,43.1,43.1,0.0,78.0,9,14.8,1.44
+Faisalabad,Punjab,2020,10,0.0,0.0,0.0,0.0,0,0.0,0.0
+Faisalabad,Punjab,2020,11,9.9,9.9,0.0,22.0,4,9.1,0.33
+Faisalabad,Punjab,2020,12,8.4,8.4,0.0,22.0,4,4.0,0.27
+Faisalabad,Punjab,2021,1,22.4,22.4,0.0,30.0,2,20.0,0.72
+Faisalabad,Punjab,2021,2,1.8,1.8,0.0,5.0,2,1.1,0.06
+Faisalabad,Punjab,2021,3,30.0,30.0,0.0,25.0,5,17.9,0.97
+Faisalabad,Punjab,2021,4,7.8,7.8,0.0,22.0,7,2.5,0.26
+Faisalabad,Punjab,2021,5,4.7,4.7,0.0,10.0,6,1.2,0.15
+Faisalabad,Punjab,2021,6,6.0,6.0,0.0,10.0,6,5.3,0.2
+Faisalabad,Punjab,2021,7,56.1,56.1,0.0,85.0,16,21.9,1.81
+Faisalabad,Punjab,2021,8,26.5,26.5,0.0,44.0,13,5.8,0.85
+Faisalabad,Punjab,2021,9,43.9,43.9,0.0,62.0,11,16.0,1.46
+Faisalabad,Punjab,2021,10,13.9,13.9,0.0,14.0,7,4.5,0.45
+Faisalabad,Punjab,2021,11,0.0,0.0,0.0,0.0,0,0.0,0.0
+Faisalabad,Punjab,2021,12,0.9,0.9,0.0,5.0,3,0.7,0.03
+Faisalabad,Punjab,2022,1,60.0,60.0,0.0,95.0,14,28.7,1.94
+Faisalabad,Punjab,2022,2,25.0,25.0,0.0,38.0,11,10.1,0.89
+Faisalabad,Punjab,2022,3,16.0,16.0,0.0,19.0,6,8.7,0.52
+Faisalabad,Punjab,2022,4,0.9,0.9,0.0,2.0,1,0.9,0.03
+Faisalabad,Punjab,2022,5,1.8,1.8,0.0,3.0,2,1.2,0.06
+Faisalabad,Punjab,2022,6,65.8,65.8,0.0,39.0,8,30.9,2.19
+Faisalabad,Punjab,2022,7,252.4,252.4,0.0,198.0,28,50.7,8.14
+Faisalabad,Punjab,2022,8,66.8,66.8,0.0,90.0,17,18.2,2.15
+Faisalabad,Punjab,2022,9,28.8,28.8,0.0,22.0,9,10.1,0.96
+Faisalabad,Punjab,2022,10,1.8,1.8,0.0,1.0,1,1.8,0.06
+Faisalabad,Punjab,2022,11,27.4,27.4,0.0,21.0,6,10.1,0.91
+Faisalabad,Punjab,2022,12,3.1,3.1,0.0,11.0,1,3.1,0.1
+Faisalabad,Punjab,2023,1,18.2,18.2,0.0,29.0,7,13.6,0.59
+Faisalabad,Punjab,2023,2,6.2,6.2,0.0,11.0,2,4.7,0.22
+Faisalabad,Punjab,2023,3,136.8,136.8,0.0,78.0,17,56.6,4.41
+Faisalabad,Punjab,2023,4,30.6,30.6,0.0,43.0,11,13.2,1.02
+Faisalabad,Punjab,2023,5,31.0,31.0,0.0,34.0,12,11.0,1.0
+Faisalabad,Punjab,2023,6,36.8,36.8,0.0,37.0,9,14.8,1.23
+Faisalabad,Punjab,2023,7,176.3,176.3,0.0,110.0,23,28.6,5.69
+Faisalabad,Punjab,2023,8,31.3,31.3,0.0,40.0,15,9.9,1.01
+Faisalabad,Punjab,2023,9,46.2,46.2,0.0,34.0,11,9.9,1.54
+Faisalabad,Punjab,2023,10,27.7,27.7,0.0,26.0,6,10.3,0.89
+Faisalabad,Punjab,2023,11,39.5,39.5,0.0,22.0,6,21.4,1.32
+Faisalabad,Punjab,2023,12,1.0,1.0,0.0,3.0,1,1.0,0.03
+Faisalabad,Punjab,2024,1,2.9,2.9,0.0,8.0,3,2.5,0.09
+Faisalabad,Punjab,2024,2,26.2,26.2,0.0,36.0,11,7.0,0.9
+Faisalabad,Punjab,2024,3,47.0,47.0,0.0,53.0,12,13.0,1.52
+Faisalabad,Punjab,2024,4,56.1,56.1,0.0,43.0,13,19.5,1.87
+Faisalabad,Punjab,2024,5,8.4,8.4,0.0,5.0,4,7.2,0.27
+Faisalabad,Punjab,2024,6,39.6,39.6,0.0,11.0,7,19.1,1.32
+Faisalabad,Punjab,2024,7,129.6,129.6,0.0,72.0,22,31.5,4.18
+Faisalabad,Punjab,2024,8,248.2,248.2,0.0,194.0,28,38.7,8.01
+Faisalabad,Punjab,2024,9,60.3,60.3,0.0,33.0,11,24.2,2.01
+Faisalabad,Punjab,2024,10,8.5,8.5,0.0,6.0,3,7.7,0.27
+Faisalabad,Punjab,2024,11,7.8,7.8,0.0,12.0,5,3.4,0.26
+Faisalabad,Punjab,2024,12,1.8,1.8,0.0,9.0,3,0.9,0.06
+Faisalabad,Punjab,2025,1,1.9,1.9,0.0,6.0,3,1.0,0.06
+Faisalabad,Punjab,2025,2,34.8,34.8,0.0,43.0,9,14.1,1.24
+Faisalabad,Punjab,2025,3,10.6,10.6,0.0,27.0,6,3.8,0.34
+Faisalabad,Punjab,2025,4,0.2,0.2,0.0,2.0,2,0.1,0.01
+Faisalabad,Punjab,2025,5,16.9,16.9,0.0,16.0,9,8.4,0.55
+Faisalabad,Punjab,2025,6,29.3,29.3,0.0,23.0,8,9.6,0.98
+Faisalabad,Punjab,2025,7,175.6,175.6,0.0,127.0,22,39.8,5.66
+Faisalabad,Punjab,2025,8,104.5,104.5,0.0,105.0,19,31.0,3.37
+Faisalabad,Punjab,2025,9,14.2,14.2,0.0,47.0,10,7.8,0.47
+Faisalabad,Punjab,2025,10,23.0,23.0,0.0,16.0,3,17.9,0.74
+Faisalabad,Punjab,2025,11,0.0,0.0,0.0,0.0,0,0.0,0.0
+Faisalabad,Punjab,2025,12,1.9,1.9,0.0,5.0,1,1.9,0.06
+Gujranwala,Punjab,2000,1,74.5,74.5,0.0,66.0,9,33.2,2.4
+Gujranwala,Punjab,2000,2,80.3,80.3,0.0,104.0,10,24.5,2.77
+Gujranwala,Punjab,2000,3,19.2,19.2,0.0,39.0,9,7.2,0.62
+Gujranwala,Punjab,2000,4,6.4,6.4,0.0,14.0,11,1.3,0.21
+Gujranwala,Punjab,2000,5,27.5,27.5,0.0,29.0,15,8.5,0.89
+Gujranwala,Punjab,2000,6,96.5,96.5,0.0,91.0,15,41.1,3.22
+Gujranwala,Punjab,2000,7,193.6,193.6,0.0,203.0,24,51.6,6.25
+Gujranwala,Punjab,2000,8,216.0,216.0,0.0,206.0,27,27.2,6.97
+Gujranwala,Punjab,2000,9,65.4,65.4,0.0,71.0,12,27.1,2.18
+Gujranwala,Punjab,2000,10,0.6,0.6,0.0,2.0,2,0.4,0.02
+Gujranwala,Punjab,2000,11,0.5,0.5,0.0,3.0,2,0.3,0.02
+Gujranwala,Punjab,2000,12,4.0,4.0,0.0,16.0,5,2.5,0.13
+Gujranwala,Punjab,2001,1,19.7,19.7,0.0,22.0,4,11.9,0.64
+Gujranwala,Punjab,2001,2,8.0,8.0,0.0,15.0,4,5.3,0.29
+Gujranwala,Punjab,2001,3,32.9,32.9,0.0,43.0,9,14.2,1.06
+Gujranwala,Punjab,2001,4,72.1,72.1,0.0,99.0,16,17.4,2.4
+Gujranwala,Punjab,2001,5,24.6,24.6,0.0,31.0,14,4.5,0.79
+Gujranwala,Punjab,2001,6,244.8,244.8,0.0,168.0,24,61.7,8.16
+Gujranwala,Punjab,2001,7,458.5,458.5,0.0,307.0,28,137.0,14.79
+Gujranwala,Punjab,2001,8,127.7,127.7,0.0,173.0,23,23.7,4.12
+Gujranwala,Punjab,2001,9,83.4,83.4,0.0,53.0,8,46.8,2.78
+Gujranwala,Punjab,2001,10,5.5,5.5,0.0,11.0,4,2.7,0.18
+Gujranwala,Punjab,2001,11,16.7,16.7,0.0,8.0,1,16.7,0.56
+Gujranwala,Punjab,2001,12,22.9,22.9,0.0,42.0,4,8.8,0.74
+Gujranwala,Punjab,2002,1,7.9,7.9,0.0,33.0,6,2.9,0.25
+Gujranwala,Punjab,2002,2,48.0,48.0,0.0,54.0,9,27.8,1.71
+Gujranwala,Punjab,2002,3,41.6,41.6,0.0,61.0,9,14.4,1.34
+Gujranwala,Punjab,2002,4,21.9,21.9,0.0,39.0,11,7.9,0.73
+Gujranwala,Punjab,2002,5,24.2,24.2,0.0,23.0,8,14.8,0.78
+Gujranwala,Punjab,2002,6,91.6,91.6,0.0,65.0,16,31.1,3.05
+Gujranwala,Punjab,2002,7,115.9,115.9,0.0,116.0,25,23.3,3.74
+Gujranwala,Punjab,2002,8,421.8,421.8,0.0,186.0,25,180.2,13.61
+Gujranwala,Punjab,2002,9,60.4,60.4,0.0,79.0,16,17.8,2.01
+Gujranwala,Punjab,2002,10,6.0,6.0,0.0,14.0,4,2.0,0.19
+Gujranwala,Punjab,2002,11,2.2,2.2,0.0,8.0,5,0.6,0.07
+Gujranwala,Punjab,2002,12,15.8,15.8,0.0,41.0,5,11.8,0.51
+Gujranwala,Punjab,2003,1,21.4,21.4,0.0,44.0,5,13.6,0.69
+Gujranwala,Punjab,2003,2,172.2,172.2,0.0,126.0,10,72.6,6.15
+Gujranwala,Punjab,2003,3,98.8,98.8,0.0,74.0,10,46.9,3.19
+Gujranwala,Punjab,2003,4,25.4,25.4,0.0,44.0,11,6.6,0.85
+Gujranwala,Punjab,2003,5,10.1,10.1,0.0,21.0,14,3.7,0.33
+Gujranwala,Punjab,2003,6,57.7,57.7,0.0,63.0,16,11.9,1.92
+Gujranwala,Punjab,2003,7,260.8,260.8,0.0,246.0,28,54.6,8.41
+Gujranwala,Punjab,2003,8,191.6,191.6,0.0,210.0,29,29.3,6.18
+Gujranwala,Punjab,2003,9,124.7,124.7,0.0,102.0,21,37.9,4.16
+Gujranwala,Punjab,2003,10,1.9,1.9,0.0,5.0,2,1.2,0.06
+Gujranwala,Punjab,2003,11,27.4,27.4,0.0,32.0,2,23.1,0.91
+Gujranwala,Punjab,2003,12,35.4,35.4,0.0,61.0,9,19.6,1.14
+Gujranwala,Punjab,2004,1,87.1,87.1,0.0,135.0,13,25.3,2.81
+Gujranwala,Punjab,2004,2,31.2,31.2,0.0,32.0,5,16.2,1.08
+Gujranwala,Punjab,2004,3,1.3,1.3,0.0,2.0,1,1.3,0.04
+Gujranwala,Punjab,2004,4,123.0,123.0,0.0,60.0,12,81.7,4.1
+Gujranwala,Punjab,2004,5,24.4,24.4,0.0,22.0,7,13.0,0.79
+Gujranwala,Punjab,2004,6,62.0,62.0,0.0,61.0,19,13.8,2.07
+Gujranwala,Punjab,2004,7,105.9,105.9,0.0,116.0,24,18.9,3.42
+Gujranwala,Punjab,2004,8,160.9,160.9,0.0,207.0,25,22.2,5.19
+Gujranwala,Punjab,2004,9,35.5,35.5,0.0,45.0,11,22.8,1.18
+Gujranwala,Punjab,2004,10,49.2,49.2,0.0,51.0,7,22.8,1.59
+Gujranwala,Punjab,2004,11,28.8,28.8,0.0,16.0,3,23.6,0.96
+Gujranwala,Punjab,2004,12,35.7,35.7,0.0,28.0,3,26.0,1.15
+Gujranwala,Punjab,2005,1,46.6,46.6,0.0,60.0,9,15.4,1.5
+Gujranwala,Punjab,2005,2,148.3,148.3,0.0,202.0,19,28.0,5.3
+Gujranwala,Punjab,2005,3,108.7,108.7,0.0,132.0,17,20.4,3.51
+Gujranwala,Punjab,2005,4,8.0,8.0,0.0,10.0,6,3.2,0.27
+Gujranwala,Punjab,2005,5,34.4,34.4,0.0,40.0,11,21.4,1.11
+Gujranwala,Punjab,2005,6,72.0,72.0,0.0,38.0,10,59.7,2.4
+Gujranwala,Punjab,2005,7,151.6,151.6,0.0,205.0,30,27.2,4.89
+Gujranwala,Punjab,2005,8,161.8,161.8,0.0,142.0,25,60.0,5.22
+Gujranwala,Punjab,2005,9,90.8,90.8,0.0,87.0,18,32.2,3.03
+Gujranwala,Punjab,2005,10,5.5,5.5,0.0,7.0,5,2.2,0.18
+Gujranwala,Punjab,2005,11,0.1,0.1,0.0,1.0,1,0.1,0.0
+Gujranwala,Punjab,2005,12,1.3,1.3,0.0,4.0,1,1.3,0.04
+Gujranwala,Punjab,2006,1,68.8,68.8,0.0,75.0,8,38.5,2.22
+Gujranwala,Punjab,2006,2,10.2,10.2,0.0,27.0,7,5.4,0.36
+Gujranwala,Punjab,2006,3,57.9,57.9,0.0,95.0,12,16.7,1.87
+Gujranwala,Punjab,2006,4,4.4,4.4,0.0,10.0,6,2.7,0.15
+Gujranwala,Punjab,2006,5,17.1,17.1,0.0,37.0,17,3.2,0.55
+Gujranwala,Punjab,2006,6,41.1,41.1,0.0,43.0,9,9.3,1.37
+Gujranwala,Punjab,2006,7,169.0,169.0,0.0,203.0,24,30.3,5.45
+Gujranwala,Punjab,2006,8,254.5,254.5,0.0,270.0,29,45.8,8.21
+Gujranwala,Punjab,2006,9,85.1,85.1,0.0,95.0,17,24.5,2.84
+Gujranwala,Punjab,2006,10,29.3,29.3,0.0,20.0,10,12.5,0.95
+Gujranwala,Punjab,2006,11,36.0,36.0,0.0,38.0,7,11.6,1.2
+Gujranwala,Punjab,2006,12,33.3,33.3,0.0,57.0,7,13.5,1.07
+Gujranwala,Punjab,2007,1,1.1,1.1,0.0,4.0,2,0.9,0.04
+Gujranwala,Punjab,2007,2,151.6,151.6,0.0,164.0,18,42.0,5.41
+Gujranwala,Punjab,2007,3,76.2,76.2,0.0,104.0,10,20.3,2.46
+Gujranwala,Punjab,2007,4,7.6,7.6,0.0,12.0,8,2.2,0.25
+Gujranwala,Punjab,2007,5,10.6,10.6,0.0,20.0,12,3.2,0.34
+Gujranwala,Punjab,2007,6,201.0,201.0,0.0,121.0,17,56.4,6.7
+Gujranwala,Punjab,2007,7,192.0,192.0,0.0,197.0,28,41.2,6.19
+Gujranwala,Punjab,2007,8,146.3,146.3,0.0,210.0,28,23.9,4.72
+Gujranwala,Punjab,2007,9,46.0,46.0,0.0,57.0,20,13.6,1.53
+Gujranwala,Punjab,2007,10,1.8,1.8,0.0,4.0,4,0.9,0.06
+Gujranwala,Punjab,2007,11,2.2,2.2,0.0,10.0,2,1.3,0.07
+Gujranwala,Punjab,2007,12,4.3,4.3,0.0,15.0,5,1.5,0.14
+Gujranwala,Punjab,2008,1,60.0,60.0,0.0,91.0,9,13.7,1.94
+Gujranwala,Punjab,2008,2,45.8,45.8,0.0,87.0,11,15.4,1.58
+Gujranwala,Punjab,2008,3,6.1,6.1,0.0,13.0,10,2.6,0.2
+Gujranwala,Punjab,2008,4,100.0,100.0,0.0,72.0,15,57.9,3.33
+Gujranwala,Punjab,2008,5,38.5,38.5,0.0,40.0,17,11.4,1.24
+Gujranwala,Punjab,2008,6,185.3,185.3,0.0,163.0,25,36.2,6.18
+Gujranwala,Punjab,2008,7,217.2,217.2,0.0,250.0,30,30.2,7.01
+Gujranwala,Punjab,2008,8,259.3,259.3,0.0,230.0,30,71.4,8.36
+Gujranwala,Punjab,2008,9,93.7,93.7,0.0,64.0,16,56.5,3.12
+Gujranwala,Punjab,2008,10,29.6,29.6,0.0,23.0,8,11.1,0.95
+Gujranwala,Punjab,2008,11,37.0,37.0,0.0,25.0,3,27.8,1.23
+Gujranwala,Punjab,2008,12,48.4,48.4,0.0,55.0,6,12.2,1.56
+Gujranwala,Punjab,2009,1,35.4,35.4,0.0,64.0,8,14.6,1.14
+Gujranwala,Punjab,2009,2,43.1,43.1,0.0,62.0,17,14.8,1.54
+Gujranwala,Punjab,2009,3,41.9,41.9,0.0,43.0,8,11.4,1.35
+Gujranwala,Punjab,2009,4,36.8,36.8,0.0,57.0,13,15.4,1.23
+Gujranwala,Punjab,2009,5,23.5,23.5,0.0,28.0,11,10.4,0.76
+Gujranwala,Punjab,2009,6,12.9,12.9,0.0,24.0,10,4.3,0.43
+Gujranwala,Punjab,2009,7,175.1,175.1,0.0,147.0,26,42.1,5.65
+Gujranwala,Punjab,2009,8,239.9,239.9,0.0,200.0,28,136.2,7.74
+Gujranwala,Punjab,2009,9,76.8,76.8,0.0,42.0,8,60.2,2.56
+Gujranwala,Punjab,2009,10,23.5,23.5,0.0,12.0,4,20.5,0.76
+Gujranwala,Punjab,2009,11,28.4,28.4,0.0,18.0,3,27.9,0.95
+Gujranwala,Punjab,2009,12,3.8,3.8,0.0,14.0,5,2.2,0.12
+Gujranwala,Punjab,2010,1,18.2,18.2,0.0,21.0,4,14.8,0.59
+Gujranwala,Punjab,2010,2,38.7,38.7,0.0,58.0,12,21.9,1.38
+Gujranwala,Punjab,2010,3,9.4,9.4,0.0,22.0,7,4.0,0.3
+Gujranwala,Punjab,2010,4,11.4,11.4,0.0,27.0,14,4.0,0.38
+Gujranwala,Punjab,2010,5,13.7,13.7,0.0,22.0,11,6.1,0.44
+Gujranwala,Punjab,2010,6,24.7,24.7,0.0,41.0,18,3.6,0.82
+Gujranwala,Punjab,2010,7,287.2,287.2,0.0,208.0,24,51.9,9.26
+Gujranwala,Punjab,2010,8,278.2,278.2,0.0,260.0,25,62.3,8.97
+Gujranwala,Punjab,2010,9,100.4,100.4,0.0,151.0,21,15.4,3.35
+Gujranwala,Punjab,2010,10,57.8,57.8,0.0,19.0,9,45.0,1.86
+Gujranwala,Punjab,2010,11,0.0,0.0,0.0,0.0,0,0.0,0.0
+Gujranwala,Punjab,2010,12,15.9,15.9,0.0,25.0,3,8.5,0.51
+Gujranwala,Punjab,2011,1,25.8,25.8,0.0,19.0,3,24.9,0.83
+Gujranwala,Punjab,2011,2,81.7,81.7,0.0,121.0,14,16.1,2.92
+Gujranwala,Punjab,2011,3,39.6,39.6,0.0,57.0,9,11.3,1.28
+Gujranwala,Punjab,2011,4,52.6,52.6,0.0,58.0,17,26.3,1.75
+Gujranwala,Punjab,2011,5,20.3,20.3,0.0,35.0,14,4.0,0.65
+Gujranwala,Punjab,2011,6,71.6,71.6,0.0,94.0,22,13.3,2.39
+Gujranwala,Punjab,2011,7,138.1,138.1,0.0,169.0,25,29.0,4.45
+Gujranwala,Punjab,2011,8,202.0,202.0,0.0,206.0,30,42.0,6.52
+Gujranwala,Punjab,2011,9,120.8,120.8,0.0,132.0,20,34.6,4.03
+Gujranwala,Punjab,2011,10,9.7,9.7,0.0,22.0,9,2.8,0.31
+Gujranwala,Punjab,2011,11,1.2,1.2,0.0,6.0,3,0.8,0.04
+Gujranwala,Punjab,2011,12,6.2,6.2,0.0,14.0,3,4.5,0.2
+Gujranwala,Punjab,2012,1,57.4,57.4,0.0,82.0,11,20.9,1.85
+Gujranwala,Punjab,2012,2,31.7,31.7,0.0,69.0,10,8.8,1.09
+Gujranwala,Punjab,2012,3,14.8,14.8,0.0,16.0,5,7.5,0.48
+Gujranwala,Punjab,2012,4,59.4,59.4,0.0,73.0,21,11.7,1.98
+Gujranwala,Punjab,2012,5,12.6,12.6,0.0,23.0,14,3.8,0.41
+Gujranwala,Punjab,2012,6,11.7,11.7,0.0,19.0,11,2.9,0.39
+Gujranwala,Punjab,2012,7,121.4,121.4,0.0,143.0,26,20.7,3.92
+Gujranwala,Punjab,2012,8,169.8,169.8,0.0,239.0,30,18.2,5.48
+Gujranwala,Punjab,2012,9,131.1,131.1,0.0,153.0,16,17.9,4.37
+Gujranwala,Punjab,2012,10,17.1,17.1,0.0,21.0,8,5.8,0.55
+Gujranwala,Punjab,2012,11,14.6,14.6,0.0,19.0,5,10.9,0.49
+Gujranwala,Punjab,2012,12,64.6,64.6,0.0,70.0,7,25.7,2.08
+Gujranwala,Punjab,2013,1,18.2,18.2,0.0,36.0,6,12.6,0.59
+Gujranwala,Punjab,2013,2,164.8,164.8,0.0,160.0,14,40.9,5.89
+Gujranwala,Punjab,2013,3,62.7,62.7,0.0,50.0,6,24.2,2.02
+Gujranwala,Punjab,2013,4,15.7,15.7,0.0,25.0,14,3.5,0.52
+Gujranwala,Punjab,2013,5,9.7,9.7,0.0,22.0,7,3.6,0.31
+Gujranwala,Punjab,2013,6,141.2,141.2,0.0,87.0,13,93.1,4.71
+Gujranwala,Punjab,2013,7,159.0,159.0,0.0,190.0,28,40.0,5.13
+Gujranwala,Punjab,2013,8,311.2,311.2,0.0,322.0,31,42.9,10.04
+Gujranwala,Punjab,2013,9,28.0,28.0,0.0,77.0,15,5.7,0.93
+Gujranwala,Punjab,2013,10,49.2,49.2,0.0,62.0,12,15.0,1.59
+Gujranwala,Punjab,2013,11,12.7,12.7,0.0,19.0,3,11.6,0.42
+Gujranwala,Punjab,2013,12,8.2,8.2,0.0,20.0,4,3.6,0.26
+Gujranwala,Punjab,2014,1,13.6,13.6,0.0,33.0,7,8.8,0.44
+Gujranwala,Punjab,2014,2,42.8,42.8,0.0,78.0,12,15.8,1.53
+Gujranwala,Punjab,2014,3,165.9,165.9,0.0,136.0,16,53.0,5.35
+Gujranwala,Punjab,2014,4,59.2,59.2,0.0,65.0,14,26.2,1.97
+Gujranwala,Punjab,2014,5,55.9,55.9,0.0,58.0,19,15.9,1.8
+Gujranwala,Punjab,2014,6,28.6,28.6,0.0,47.0,15,8.4,0.95
+Gujranwala,Punjab,2014,7,255.0,255.0,0.0,166.0,22,100.1,8.23
+Gujranwala,Punjab,2014,8,116.1,116.1,0.0,132.0,18,41.3,3.75
+Gujranwala,Punjab,2014,9,267.7,267.7,0.0,126.0,15,106.5,8.92
+Gujranwala,Punjab,2014,10,34.8,34.8,0.0,28.0,9,25.1,1.12
+Gujranwala,Punjab,2014,11,16.0,16.0,0.0,19.0,3,8.9,0.53
+Gujranwala,Punjab,2014,12,0.1,0.1,0.0,1.0,1,0.1,0.0
+Gujranwala,Punjab,2015,1,34.9,34.9,0.0,57.0,6,14.2,1.13
+Gujranwala,Punjab,2015,2,123.3,123.3,0.0,111.0,13,38.5,4.4
+Gujranwala,Punjab,2015,3,198.3,198.3,0.0,186.0,15,35.0,6.4
+Gujranwala,Punjab,2015,4,92.4,92.4,0.0,100.0,12,26.6,3.08
+Gujranwala,Punjab,2015,5,20.2,20.2,0.0,42.0,16,7.2,0.65
+Gujranwala,Punjab,2015,6,81.1,81.1,0.0,63.0,17,24.6,2.7
+Gujranwala,Punjab,2015,7,234.4,234.4,0.0,236.0,26,31.4,7.56
+Gujranwala,Punjab,2015,8,158.3,158.3,0.0,217.0,27,35.5,5.11
+Gujranwala,Punjab,2015,9,92.2,92.2,0.0,36.0,13,83.9,3.07
+Gujranwala,Punjab,2015,10,77.0,77.0,0.0,57.0,7,30.4,2.48
+Gujranwala,Punjab,2015,11,53.5,53.5,0.0,26.0,5,38.9,1.78
+Gujranwala,Punjab,2015,12,32.6,32.6,0.0,37.0,6,14.9,1.05
+Gujranwala,Punjab,2016,1,29.3,29.3,0.0,47.0,8,13.1,0.95
+Gujranwala,Punjab,2016,2,52.7,52.7,0.0,32.0,4,17.2,1.82
+Gujranwala,Punjab,2016,3,119.8,119.8,0.0,99.0,12,37.5,3.86
+Gujranwala,Punjab,2016,4,7.4,7.4,0.0,17.0,10,2.3,0.25
+Gujranwala,Punjab,2016,5,19.1,19.1,0.0,32.0,10,3.3,0.62
+Gujranwala,Punjab,2016,6,46.8,46.8,0.0,52.0,14,10.7,1.56
+Gujranwala,Punjab,2016,7,233.4,233.4,0.0,229.0,28,47.2,7.53
+Gujranwala,Punjab,2016,8,143.9,143.9,0.0,190.0,25,24.5,4.64
+Gujranwala,Punjab,2016,9,23.2,23.2,0.0,45.0,13,4.8,0.77
+Gujranwala,Punjab,2016,10,2.6,2.6,0.0,7.0,5,0.9,0.08
+Gujranwala,Punjab,2016,11,9.6,9.6,0.0,11.0,1,9.6,0.32
+Gujranwala,Punjab,2016,12,0.5,0.5,0.0,3.0,2,0.3,0.02
+Gujranwala,Punjab,2017,1,97.3,97.3,0.0,131.0,18,32.7,3.14
+Gujranwala,Punjab,2017,2,23.0,23.0,0.0,43.0,7,10.0,0.82
+Gujranwala,Punjab,2017,3,31.6,31.6,0.0,49.0,8,13.6,1.02
+Gujranwala,Punjab,2017,4,46.0,46.0,0.0,39.0,14,22.4,1.53
+Gujranwala,Punjab,2017,5,15.2,15.2,0.0,28.0,15,2.4,0.49
+Gujranwala,Punjab,2017,6,84.8,84.8,0.0,73.0,16,30.7,2.83
+Gujranwala,Punjab,2017,7,122.0,122.0,0.0,169.0,27,17.6,3.94
+Gujranwala,Punjab,2017,8,170.8,170.8,0.0,189.0,23,30.2,5.51
+Gujranwala,Punjab,2017,9,23.7,23.7,0.0,37.0,10,9.9,0.79
+Gujranwala,Punjab,2017,10,4.2,4.2,0.0,8.0,6,2.5,0.14
+Gujranwala,Punjab,2017,11,21.1,21.1,0.0,17.0,3,13.2,0.7
+Gujranwala,Punjab,2017,12,23.4,23.4,0.0,31.0,4,17.8,0.75
+Gujranwala,Punjab,2018,1,6.6,6.6,0.0,18.0,3,3.3,0.21
+Gujranwala,Punjab,2018,2,38.1,38.1,0.0,31.0,6,31.8,1.36
+Gujranwala,Punjab,2018,3,16.7,16.7,0.0,42.0,10,8.2,0.54
+Gujranwala,Punjab,2018,4,44.1,44.1,0.0,45.0,17,16.5,1.47
+Gujranwala,Punjab,2018,5,22.7,22.7,0.0,32.0,13,8.7,0.73
+Gujranwala,Punjab,2018,6,107.1,107.1,0.0,71.0,11,46.8,3.57
+Gujranwala,Punjab,2018,7,178.7,178.7,0.0,191.0,24,21.9,5.76
+Gujranwala,Punjab,2018,8,93.8,93.8,0.0,175.0,26,11.9,3.03
+Gujranwala,Punjab,2018,9,78.8,78.8,0.0,69.0,15,53.6,2.63
+Gujranwala,Punjab,2018,10,4.6,4.6,0.0,9.0,5,4.2,0.15
+Gujranwala,Punjab,2018,11,29.1,29.1,0.0,20.0,5,15.8,0.97
+Gujranwala,Punjab,2018,12,11.2,11.2,0.0,28.0,4,9.0,0.36
+Gujranwala,Punjab,2019,1,57.4,57.4,0.0,122.0,18,12.2,1.85
+Gujranwala,Punjab,2019,2,91.1,91.1,0.0,126.0,18,21.5,3.25
+Gujranwala,Punjab,2019,3,34.4,34.4,0.0,66.0,12,13.8,1.11
+Gujranwala,Punjab,2019,4,19.6,19.6,0.0,34.0,8,12.2,0.65
+Gujranwala,Punjab,2019,5,7.7,7.7,0.0,13.0,5,5.5,0.25
+Gujranwala,Punjab,2019,6,13.7,13.7,0.0,16.0,5,9.7,0.46
+Gujranwala,Punjab,2019,7,229.6,229.6,0.0,209.0,28,44.3,7.41
+Gujranwala,Punjab,2019,8,86.4,86.4,0.0,157.0,27,21.6,2.79
+Gujranwala,Punjab,2019,9,67.8,67.8,0.0,101.0,23,9.2,2.26
+Gujranwala,Punjab,2019,10,20.7,20.7,0.0,17.0,8,9.9,0.67
+Gujranwala,Punjab,2019,11,37.4,37.4,0.0,64.0,11,16.2,1.25
+Gujranwala,Punjab,2019,12,23.5,23.5,0.0,40.0,6,11.4,0.76
+Gujranwala,Punjab,2020,1,71.8,71.8,0.0,107.0,12,22.8,2.32
+Gujranwala,Punjab,2020,2,59.6,59.6,0.0,47.0,6,34.0,2.06
+Gujranwala,Punjab,2020,3,151.6,151.6,0.0,149.0,17,38.1,4.89
+Gujranwala,Punjab,2020,4,29.8,29.8,0.0,30.0,9,11.0,0.99
+Gujranwala,Punjab,2020,5,31.6,31.6,0.0,32.0,11,14.9,1.02
+Gujranwala,Punjab,2020,6,47.7,47.7,0.0,43.0,9,21.1,1.59
+Gujranwala,Punjab,2020,7,106.6,106.6,0.0,87.0,18,25.6,3.44
+Gujranwala,Punjab,2020,8,202.2,202.2,0.0,214.0,28,30.1,6.52
+Gujranwala,Punjab,2020,9,50.3,50.3,0.0,63.0,8,29.8,1.68
+Gujranwala,Punjab,2020,10,0.0,0.0,0.0,0.0,0,0.0,0.0
+Gujranwala,Punjab,2020,11,26.5,26.5,0.0,39.0,6,9.6,0.88
+Gujranwala,Punjab,2020,12,20.1,20.1,0.0,26.0,5,12.6,0.65
+Gujranwala,Punjab,2021,1,85.0,85.0,0.0,78.0,7,56.8,2.74
+Gujranwala,Punjab,2021,2,4.9,4.9,0.0,10.0,4,2.2,0.18
+Gujranwala,Punjab,2021,3,25.9,25.9,0.0,45.0,8,12.5,0.84
+Gujranwala,Punjab,2021,4,18.2,18.2,0.0,28.0,8,6.9,0.61
+Gujranwala,Punjab,2021,5,7.6,7.6,0.0,20.0,11,1.3,0.25
+Gujranwala,Punjab,2021,6,5.0,5.0,0.0,16.0,8,2.4,0.17
+Gujranwala,Punjab,2021,7,156.8,156.8,0.0,164.0,24,42.6,5.06
+Gujranwala,Punjab,2021,8,52.5,52.5,0.0,72.0,17,9.7,1.69
+Gujranwala,Punjab,2021,9,82.8,82.8,0.0,117.0,21,24.6,2.76
+Gujranwala,Punjab,2021,10,51.8,51.8,0.0,58.0,9,16.0,1.67
+Gujranwala,Punjab,2021,11,0.3,0.3,0.0,2.0,1,0.3,0.01
+Gujranwala,Punjab,2021,12,7.1,7.1,0.0,10.0,5,3.9,0.23
+Gujranwala,Punjab,2022,1,140.6,140.6,0.0,144.0,13,37.6,4.54
+Gujranwala,Punjab,2022,2,49.3,49.3,0.0,59.0,11,11.4,1.76
+Gujranwala,Punjab,2022,3,18.4,18.4,0.0,18.0,2,13.0,0.59
+Gujranwala,Punjab,2022,4,1.7,1.7,0.0,4.0,3,1.5,0.06
+Gujranwala,Punjab,2022,5,11.9,11.9,0.0,13.0,8,4.9,0.38
+Gujranwala,Punjab,2022,6,36.0,36.0,0.0,22.0,7,28.3,1.2
+Gujranwala,Punjab,2022,7,293.5,293.5,0.0,234.0,27,79.5,9.47
+Gujranwala,Punjab,2022,8,112.6,112.6,0.0,139.0,22,24.9,3.63
+Gujranwala,Punjab,2022,9,42.7,42.7,0.0,57.0,15,19.4,1.42
+Gujranwala,Punjab,2022,10,12.2,12.2,0.0,10.0,2,7.6,0.39
+Gujranwala,Punjab,2022,11,64.1,64.1,0.0,35.0,10,25.1,2.14
+Gujranwala,Punjab,2022,12,11.3,11.3,0.0,20.0,4,7.8,0.36
+Gujranwala,Punjab,2023,1,43.5,43.5,0.0,55.0,9,19.7,1.4
+Gujranwala,Punjab,2023,2,6.7,6.7,0.0,20.0,6,2.1,0.24
+Gujranwala,Punjab,2023,3,54.1,54.1,0.0,73.0,13,22.4,1.75
+Gujranwala,Punjab,2023,4,54.3,54.3,0.0,48.0,13,33.6,1.81
+Gujranwala,Punjab,2023,5,67.5,67.5,0.0,55.0,15,14.0,2.18
+Gujranwala,Punjab,2023,6,79.4,79.4,0.0,49.0,14,24.7,2.65
+Gujranwala,Punjab,2023,7,205.8,205.8,0.0,180.0,27,64.4,6.64
+Gujranwala,Punjab,2023,8,106.2,106.2,0.0,100.0,24,18.8,3.43
+Gujranwala,Punjab,2023,9,84.3,84.3,0.0,42.0,11,27.6,2.81
+Gujranwala,Punjab,2023,10,83.0,83.0,0.0,40.0,5,32.5,2.68
+Gujranwala,Punjab,2023,11,41.4,41.4,0.0,29.0,8,20.4,1.38
+Gujranwala,Punjab,2023,12,1.2,1.2,0.0,3.0,2,1.1,0.04
+Gujranwala,Punjab,2024,1,25.8,25.8,0.0,17.0,4,19.2,0.83
+Gujranwala,Punjab,2024,2,35.0,35.0,0.0,49.0,10,14.3,1.21
+Gujranwala,Punjab,2024,3,72.1,72.1,0.0,66.0,14,35.7,2.33
+Gujranwala,Punjab,2024,4,57.0,57.0,0.0,34.0,14,33.2,1.9
+Gujranwala,Punjab,2024,5,10.6,10.6,0.0,5.0,3,5.9,0.34
+Gujranwala,Punjab,2024,6,10.5,10.5,0.0,13.0,8,6.6,0.35
+Gujranwala,Punjab,2024,7,212.5,212.5,0.0,112.0,24,48.6,6.85
+Gujranwala,Punjab,2024,8,288.2,288.2,0.0,255.0,30,45.9,9.3
+Gujranwala,Punjab,2024,9,90.7,90.7,0.0,79.0,13,32.7,3.02
+Gujranwala,Punjab,2024,10,10.7,10.7,0.0,8.0,2,10.6,0.35
+Gujranwala,Punjab,2024,11,13.3,13.3,0.0,13.0,6,7.8,0.44
+Gujranwala,Punjab,2024,12,1.3,1.3,0.0,7.0,2,0.8,0.04
+Gujranwala,Punjab,2025,1,3.6,3.6,0.0,10.0,6,1.9,0.12
+Gujranwala,Punjab,2025,2,113.7,113.7,0.0,77.0,11,40.9,4.06
+Gujranwala,Punjab,2025,3,12.9,12.9,0.0,20.0,6,4.1,0.42
+Gujranwala,Punjab,2025,4,3.4,3.4,0.0,4.0,4,3.0,0.11
+Gujranwala,Punjab,2025,5,39.7,39.7,0.0,33.0,16,22.3,1.28
+Gujranwala,Punjab,2025,6,57.1,57.1,0.0,53.0,13,20.8,1.9
+Gujranwala,Punjab,2025,7,231.2,231.2,0.0,189.0,23,51.0,7.46
+Gujranwala,Punjab,2025,8,210.2,210.2,0.0,185.0,29,54.4,6.78
+Gujranwala,Punjab,2025,9,86.7,86.7,0.0,81.0,14,39.6,2.89
+Gujranwala,Punjab,2025,10,45.8,45.8,0.0,24.0,5,15.9,1.48
+Gujranwala,Punjab,2025,11,0.0,0.0,0.0,0.0,0,0.0,0.0
+Gujranwala,Punjab,2025,12,2.2,2.2,0.0,5.0,2,1.6,0.07
+Khanewal,Punjab,2000,1,23.0,23.0,0.0,30.0,4,11.6,0.74
+Khanewal,Punjab,2000,2,17.9,17.9,0.0,35.0,3,12.6,0.62
+Khanewal,Punjab,2000,3,0.0,0.0,0.0,0.0,0,0.0,0.0
+Khanewal,Punjab,2000,4,2.0,2.0,0.0,2.0,1,2.0,0.07
+Khanewal,Punjab,2000,5,4.5,4.5,0.0,9.0,7,2.2,0.15
+Khanewal,Punjab,2000,6,6.9,6.9,0.0,15.0,7,1.6,0.23
+Khanewal,Punjab,2000,7,78.7,78.7,0.0,105.0,20,21.8,2.54
+Khanewal,Punjab,2000,8,13.5,13.5,0.0,25.0,8,4.1,0.44
+Khanewal,Punjab,2000,9,2.2,2.2,0.0,5.0,3,1.3,0.07
+Khanewal,Punjab,2000,10,1.3,1.3,0.0,3.0,3,0.9,0.04
+Khanewal,Punjab,2000,11,0.3,0.3,0.0,1.0,1,0.3,0.01
+Khanewal,Punjab,2000,12,10.3,10.3,0.0,17.0,2,10.0,0.33
+Khanewal,Punjab,2001,1,0.9,0.9,0.0,5.0,2,0.6,0.03
+Khanewal,Punjab,2001,2,1.7,1.7,0.0,11.0,3,0.8,0.06
+Khanewal,Punjab,2001,3,0.1,0.1,0.0,1.0,1,0.1,0.0
+Khanewal,Punjab,2001,4,25.6,25.6,0.0,31.0,7,6.8,0.85
+Khanewal,Punjab,2001,5,17.5,17.5,0.0,29.0,12,3.3,0.56
+Khanewal,Punjab,2001,6,82.8,82.8,0.0,66.0,15,22.4,2.76
+Khanewal,Punjab,2001,7,72.3,72.3,0.0,107.0,17,17.0,2.33
+Khanewal,Punjab,2001,8,22.8,22.8,0.0,41.0,10,6.8,0.74
+Khanewal,Punjab,2001,9,13.5,13.5,0.0,26.0,8,3.6,0.45
+Khanewal,Punjab,2001,10,2.3,2.3,0.0,4.0,2,1.9,0.07
+Khanewal,Punjab,2001,11,0.3,0.3,0.0,1.0,1,0.3,0.01
+Khanewal,Punjab,2001,12,0.5,0.5,0.0,3.0,1,0.5,0.02
+Khanewal,Punjab,2002,1,0.0,0.0,0.0,0.0,0,0.0,0.0
+Khanewal,Punjab,2002,2,2.2,2.2,0.0,10.0,6,0.7,0.08
+Khanewal,Punjab,2002,3,11.9,11.9,0.0,28.0,4,9.0,0.38
+Khanewal,Punjab,2002,4,2.6,2.6,0.0,9.0,4,1.2,0.09
+Khanewal,Punjab,2002,5,25.9,25.9,0.0,19.0,6,16.2,0.84
+Khanewal,Punjab,2002,6,12.4,12.4,0.0,22.0,8,4.6,0.41
+Khanewal,Punjab,2002,7,2.0,2.0,0.0,7.0,3,1.0,0.06
+Khanewal,Punjab,2002,8,8.6,8.6,0.0,15.0,8,3.4,0.28
+Khanewal,Punjab,2002,9,43.6,43.6,0.0,63.0,17,12.3,1.45
+Khanewal,Punjab,2002,10,0.5,0.5,0.0,3.0,2,0.3,0.02
+Khanewal,Punjab,2002,11,10.3,10.3,0.0,19.0,6,9.3,0.34
+Khanewal,Punjab,2002,12,7.1,7.1,0.0,22.0,3,5.8,0.23
+Khanewal,Punjab,2003,1,3.6,3.6,0.0,7.0,3,2.9,0.12
+Khanewal,Punjab,2003,2,29.1,29.1,0.0,48.0,8,18.8,1.04
+Khanewal,Punjab,2003,3,4.2,4.2,0.0,11.0,3,2.2,0.14
+Khanewal,Punjab,2003,4,2.0,2.0,0.0,4.0,3,0.9,0.07
+Khanewal,Punjab,2003,5,2.7,2.7,0.0,7.0,4,1.5,0.09
+Khanewal,Punjab,2003,6,6.6,6.6,0.0,10.0,6,5.1,0.22
+Khanewal,Punjab,2003,7,152.1,152.1,0.0,143.0,25,44.5,4.91
+Khanewal,Punjab,2003,8,40.5,40.5,0.0,66.0,16,13.3,1.31
+Khanewal,Punjab,2003,9,22.2,22.2,0.0,31.0,11,13.0,0.74
+Khanewal,Punjab,2003,10,0.0,0.0,0.0,0.0,0,0.0,0.0
+Khanewal,Punjab,2003,11,3.2,3.2,0.0,9.0,2,3.1,0.11
+Khanewal,Punjab,2003,12,0.6,0.6,0.0,5.0,1,0.6,0.02
+Khanewal,Punjab,2004,1,17.3,17.3,0.0,46.0,3,7.3,0.56
+Khanewal,Punjab,2004,2,5.6,5.6,0.0,7.0,2,5.5,0.19
+Khanewal,Punjab,2004,3,0.0,0.0,0.0,0.0,0,0.0,0.0
+Khanewal,Punjab,2004,4,7.8,7.8,0.0,18.0,5,4.5,0.26
+Khanewal,Punjab,2004,5,6.0,6.0,0.0,6.0,4,2.9,0.19
+Khanewal,Punjab,2004,6,12.5,12.5,0.0,27.0,12,4.1,0.42
+Khanewal,Punjab,2004,7,17.2,17.2,0.0,24.0,9,8.6,0.55
+Khanewal,Punjab,2004,8,62.5,62.5,0.0,96.0,21,19.8,2.02
+Khanewal,Punjab,2004,9,2.6,2.6,0.0,11.0,5,0.9,0.09
+Khanewal,Punjab,2004,10,22.0,22.0,0.0,28.0,6,17.7,0.71
+Khanewal,Punjab,2004,11,6.9,6.9,0.0,11.0,3,4.6,0.23
+Khanewal,Punjab,2004,12,32.9,32.9,0.0,27.0,2,28.5,1.06
+Khanewal,Punjab,2005,1,9.2,9.2,0.0,27.0,6,4.0,0.3
+Khanewal,Punjab,2005,2,56.4,56.4,0.0,110.0,14,15.4,2.01
+Khanewal,Punjab,2005,3,86.5,86.5,0.0,63.0,11,26.5,2.79
+Khanewal,Punjab,2005,4,3.1,3.1,0.0,11.0,6,1.2,0.1
+Khanewal,Punjab,2005,5,7.8,7.8,0.0,20.0,6,3.0,0.25
+Khanewal,Punjab,2005,6,6.7,6.7,0.0,17.0,9,1.7,0.22
+Khanewal,Punjab,2005,7,115.0,115.0,0.0,95.0,15,22.5,3.71
+Khanewal,Punjab,2005,8,13.5,13.5,0.0,17.0,8,10.0,0.44
+Khanewal,Punjab,2005,9,28.1,28.1,0.0,47.0,11,10.8,0.94
+Khanewal,Punjab,2005,10,0.2,0.2,0.0,1.0,1,0.2,0.01
+Khanewal,Punjab,2005,11,0.1,0.1,0.0,1.0,1,0.1,0.0
+Khanewal,Punjab,2005,12,0.1,0.1,0.0,1.0,1,0.1,0.0
+Khanewal,Punjab,2006,1,8.0,8.0,0.0,21.0,3,3.5,0.26
+Khanewal,Punjab,2006,2,1.8,1.8,0.0,3.0,1,1.8,0.06
+Khanewal,Punjab,2006,3,16.2,16.2,0.0,42.0,11,6.0,0.52
+Khanewal,Punjab,2006,4,0.9,0.9,0.0,4.0,4,0.3,0.03
+Khanewal,Punjab,2006,5,10.0,10.0,0.0,17.0,11,2.8,0.32
+Khanewal,Punjab,2006,6,49.0,49.0,0.0,37.0,15,18.1,1.63
+Khanewal,Punjab,2006,7,40.6,40.6,0.0,69.0,15,10.0,1.31
+Khanewal,Punjab,2006,8,89.7,89.7,0.0,100.0,18,25.3,2.89
+Khanewal,Punjab,2006,9,6.0,6.0,0.0,11.0,5,2.3,0.2
+Khanewal,Punjab,2006,10,25.6,25.6,0.0,11.0,4,11.1,0.83
+Khanewal,Punjab,2006,11,14.2,14.2,0.0,23.0,8,4.8,0.47
+Khanewal,Punjab,2006,12,27.8,27.8,0.0,44.0,5,9.1,0.9
+Khanewal,Punjab,2007,1,0.0,0.0,0.0,0.0,0,0.0,0.0
+Khanewal,Punjab,2007,2,49.6,49.6,0.0,78.0,11,13.8,1.77
+Khanewal,Punjab,2007,3,25.0,25.0,0.0,48.0,7,7.8,0.81
+Khanewal,Punjab,2007,4,2.0,2.0,0.0,4.0,3,1.4,0.07
+Khanewal,Punjab,2007,5,6.0,6.0,0.0,12.0,7,2.1,0.19
+Khanewal,Punjab,2007,6,38.6,38.6,0.0,58.0,12,12.7,1.29
+Khanewal,Punjab,2007,7,46.2,46.2,0.0,76.0,16,13.9,1.49
+Khanewal,Punjab,2007,8,34.5,34.5,0.0,55.0,17,15.4,1.11
+Khanewal,Punjab,2007,9,31.4,31.4,0.0,39.0,14,12.0,1.05
+Khanewal,Punjab,2007,10,0.0,0.0,0.0,0.0,0,0.0,0.0
+Khanewal,Punjab,2007,11,0.0,0.0,0.0,0.0,0,0.0,0.0
+Khanewal,Punjab,2007,12,13.0,13.0,0.0,19.0,2,12.1,0.42
+Khanewal,Punjab,2008,1,13.1,13.1,0.0,29.0,7,9.8,0.42
+Khanewal,Punjab,2008,2,10.3,10.3,0.0,34.0,3,6.4,0.36
+Khanewal,Punjab,2008,3,0.7,0.7,0.0,2.0,2,0.4,0.02
+Khanewal,Punjab,2008,4,40.9,40.9,0.0,43.0,11,24.5,1.36
+Khanewal,Punjab,2008,5,33.4,33.4,0.0,37.0,14,13.8,1.08
+Khanewal,Punjab,2008,6,61.0,61.0,0.0,49.0,15,14.4,2.03
+Khanewal,Punjab,2008,7,55.1,55.1,0.0,57.0,12,19.8,1.78
+Khanewal,Punjab,2008,8,120.1,120.1,0.0,128.0,20,57.5,3.87
+Khanewal,Punjab,2008,9,14.2,14.2,0.0,25.0,7,5.6,0.47
+Khanewal,Punjab,2008,10,0.4,0.4,0.0,1.0,1,0.4,0.01
+Khanewal,Punjab,2008,11,0.0,0.0,0.0,0.0,0,0.0,0.0
+Khanewal,Punjab,2008,12,33.9,33.9,0.0,54.0,7,12.2,1.09
+Khanewal,Punjab,2009,1,20.1,20.1,0.0,36.0,6,12.3,0.65
+Khanewal,Punjab,2009,2,1.5,1.5,0.0,4.0,2,0.9,0.05
+Khanewal,Punjab,2009,3,20.3,20.3,0.0,25.0,6,9.2,0.65
+Khanewal,Punjab,2009,4,20.5,20.5,0.0,17.0,4,11.7,0.68
+Khanewal,Punjab,2009,5,9.7,9.7,0.0,22.0,10,1.9,0.31
+Khanewal,Punjab,2009,6,10.9,10.9,0.0,19.0,10,2.6,0.36
+Khanewal,Punjab,2009,7,37.6,37.6,0.0,43.0,10,16.2,1.21
+Khanewal,Punjab,2009,8,27.8,27.8,0.0,42.0,12,6.5,0.9
+Khanewal,Punjab,2009,9,7.6,7.6,0.0,16.0,6,3.1,0.25
+Khanewal,Punjab,2009,10,3.4,3.4,0.0,5.0,2,3.1,0.11
+Khanewal,Punjab,2009,11,0.0,0.0,0.0,0.0,0,0.0,0.0
+Khanewal,Punjab,2009,12,0.2,0.2,0.0,1.0,1,0.2,0.01
+Khanewal,Punjab,2010,1,1.5,1.5,0.0,6.0,2,1.1,0.05
+Khanewal,Punjab,2010,2,0.6,0.6,0.0,3.0,2,0.4,0.02
+Khanewal,Punjab,2010,3,24.6,24.6,0.0,25.0,3,11.3,0.79
+Khanewal,Punjab,2010,4,5.8,5.8,0.0,9.0,7,2.8,0.19
+Khanewal,Punjab,2010,5,5.4,5.4,0.0,13.0,4,3.3,0.17
+Khanewal,Punjab,2010,6,18.2,18.2,0.0,27.0,13,6.5,0.61
+Khanewal,Punjab,2010,7,71.7,71.7,0.0,83.0,17,35.2,2.31
+Khanewal,Punjab,2010,8,201.9,201.9,0.0,199.0,22,27.3,6.51
+Khanewal,Punjab,2010,9,23.6,23.6,0.0,46.0,9,7.7,0.79
+Khanewal,Punjab,2010,10,0.5,0.5,0.0,3.0,3,0.2,0.02
+Khanewal,Punjab,2010,11,0.0,0.0,0.0,0.0,0,0.0,0.0
+Khanewal,Punjab,2010,12,0.3,0.3,0.0,3.0,2,0.2,0.01
+Khanewal,Punjab,2011,1,0.9,0.9,0.0,5.0,3,0.3,0.03
+Khanewal,Punjab,2011,2,19.9,19.9,0.0,55.0,14,4.7,0.71
+Khanewal,Punjab,2011,3,8.8,8.8,0.0,23.0,6,3.2,0.28
+Khanewal,Punjab,2011,4,12.1,12.1,0.0,21.0,5,8.1,0.4
+Khanewal,Punjab,2011,5,6.8,6.8,0.0,16.0,9,1.9,0.22
+Khanewal,Punjab,2011,6,18.6,18.6,0.0,26.0,8,14.9,0.62
+Khanewal,Punjab,2011,7,59.6,59.6,0.0,84.0,20,22.9,1.92
+Khanewal,Punjab,2011,8,89.0,89.0,0.0,129.0,23,13.8,2.87
+Khanewal,Punjab,2011,9,89.6,89.6,0.0,112.0,18,19.8,2.99
+Khanewal,Punjab,2011,10,0.2,0.2,0.0,2.0,1,0.2,0.01
+Khanewal,Punjab,2011,11,0.0,0.0,0.0,0.0,0,0.0,0.0
+Khanewal,Punjab,2011,12,0.3,0.3,0.0,2.0,1,0.3,0.01
+Khanewal,Punjab,2012,1,5.9,5.9,0.0,9.0,4,3.8,0.19
+Khanewal,Punjab,2012,2,5.3,5.3,0.0,18.0,4,2.4,0.18
+Khanewal,Punjab,2012,3,1.4,1.4,0.0,4.0,1,1.4,0.05
+Khanewal,Punjab,2012,4,19.3,19.3,0.0,28.0,15,4.7,0.64
+Khanewal,Punjab,2012,5,5.1,5.1,0.0,13.0,7,1.4,0.16
+Khanewal,Punjab,2012,6,15.0,15.0,0.0,21.0,11,5.0,0.5
+Khanewal,Punjab,2012,7,27.3,27.3,0.0,41.0,11,9.9,0.88
+Khanewal,Punjab,2012,8,56.9,56.9,0.0,87.0,19,15.0,1.84
+Khanewal,Punjab,2012,9,132.6,132.6,0.0,142.0,13,29.7,4.42
+Khanewal,Punjab,2012,10,11.7,11.7,0.0,11.0,5,9.9,0.38
+Khanewal,Punjab,2012,11,0.6,0.6,0.0,2.0,2,0.4,0.02
+Khanewal,Punjab,2012,12,5.9,5.9,0.0,11.0,1,5.9,0.19
+Khanewal,Punjab,2013,1,0.9,0.9,0.0,4.0,3,0.6,0.03
+Khanewal,Punjab,2013,2,90.0,90.0,0.0,96.0,12,29.8,3.21
+Khanewal,Punjab,2013,3,21.6,21.6,0.0,34.0,8,6.8,0.7
+Khanewal,Punjab,2013,4,3.7,3.7,0.0,11.0,8,1.2,0.12
+Khanewal,Punjab,2013,5,6.1,6.1,0.0,9.0,5,2.5,0.2
+Khanewal,Punjab,2013,6,26.5,26.5,0.0,37.0,9,14.1,0.88
+Khanewal,Punjab,2013,7,33.1,33.1,0.0,56.0,13,9.9,1.07
+Khanewal,Punjab,2013,8,114.1,114.1,0.0,127.0,15,23.3,3.68
+Khanewal,Punjab,2013,9,3.1,3.1,0.0,7.0,5,1.7,0.1
+Khanewal,Punjab,2013,10,2.5,2.5,0.0,7.0,4,1.5,0.08
+Khanewal,Punjab,2013,11,1.7,1.7,0.0,5.0,1,1.7,0.06
+Khanewal,Punjab,2013,12,0.2,0.2,0.0,1.0,1,0.2,0.01
+Khanewal,Punjab,2014,1,0.1,0.1,0.0,1.0,1,0.1,0.0
+Khanewal,Punjab,2014,2,12.7,12.7,0.0,37.0,10,5.0,0.45
+Khanewal,Punjab,2014,3,18.2,18.2,0.0,33.0,7,8.9,0.59
+Khanewal,Punjab,2014,4,22.1,22.1,0.0,27.0,7,13.3,0.74
+Khanewal,Punjab,2014,5,38.5,38.5,0.0,38.0,14,12.2,1.24
+Khanewal,Punjab,2014,6,2.5,2.5,0.0,8.0,5,0.9,0.08
+Khanewal,Punjab,2014,7,42.9,42.9,0.0,57.0,13,9.8,1.38
+Khanewal,Punjab,2014,8,18.4,18.4,0.0,25.0,9,5.8,0.59
+Khanewal,Punjab,2014,9,43.0,43.0,0.0,55.0,8,16.5,1.43
+Khanewal,Punjab,2014,10,16.2,16.2,0.0,20.0,7,7.4,0.52
+Khanewal,Punjab,2014,11,0.5,0.5,0.0,3.0,1,0.5,0.02
+Khanewal,Punjab,2014,12,0.0,0.0,0.0,0.0,0,0.0,0.0
+Khanewal,Punjab,2015,1,10.9,10.9,0.0,21.0,3,9.5,0.35
+Khanewal,Punjab,2015,2,22.6,22.6,0.0,39.0,9,11.5,0.81
+Khanewal,Punjab,2015,3,63.8,63.8,0.0,85.0,12,22.4,2.06
+Khanewal,Punjab,2015,4,49.9,49.9,0.0,34.0,8,14.1,1.66
+Khanewal,Punjab,2015,5,11.8,11.8,0.0,21.0,11,3.0,0.38
+Khanewal,Punjab,2015,6,29.8,29.8,0.0,42.0,16,18.2,0.99
+Khanewal,Punjab,2015,7,151.1,151.1,0.0,159.0,26,20.4,4.87
+Khanewal,Punjab,2015,8,49.2,49.2,0.0,96.0,17,19.7,1.59
+Khanewal,Punjab,2015,9,27.3,27.3,0.0,25.0,9,17.7,0.91
+Khanewal,Punjab,2015,10,4.9,4.9,0.0,10.0,6,1.8,0.16
+Khanewal,Punjab,2015,11,0.1,0.1,0.0,1.0,1,0.1,0.0
+Khanewal,Punjab,2015,12,0.9,0.9,0.0,2.0,1,0.9,0.03
+Khanewal,Punjab,2016,1,4.8,4.8,0.0,15.0,3,2.9,0.15
+Khanewal,Punjab,2016,2,4.6,4.6,0.0,14.0,1,4.6,0.16
+Khanewal,Punjab,2016,3,30.3,30.3,0.0,65.0,14,8.6,0.98
+Khanewal,Punjab,2016,4,2.9,2.9,0.0,11.0,7,1.1,0.1
+Khanewal,Punjab,2016,5,6.8,6.8,0.0,12.0,8,2.1,0.22
+Khanewal,Punjab,2016,6,12.7,12.7,0.0,13.0,7,8.9,0.42
+Khanewal,Punjab,2016,7,72.2,72.2,0.0,101.0,18,21.3,2.33
+Khanewal,Punjab,2016,8,116.3,116.3,0.0,134.0,26,21.7,3.75
+Khanewal,Punjab,2016,9,1.3,1.3,0.0,5.0,3,1.1,0.04
+Khanewal,Punjab,2016,10,0.6,0.6,0.0,3.0,3,0.4,0.02
+Khanewal,Punjab,2016,11,0.0,0.0,0.0,0.0,0,0.0,0.0
+Khanewal,Punjab,2016,12,0.0,0.0,0.0,0.0,0,0.0,0.0
+Khanewal,Punjab,2017,1,18.8,18.8,0.0,54.0,11,7.8,0.61
+Khanewal,Punjab,2017,2,5.4,5.4,0.0,14.0,5,3.2,0.19
+Khanewal,Punjab,2017,3,6.7,6.7,0.0,23.0,10,1.8,0.22
+Khanewal,Punjab,2017,4,6.6,6.6,0.0,10.0,5,3.6,0.22
+Khanewal,Punjab,2017,5,20.2,20.2,0.0,19.0,14,6.2,0.65
+Khanewal,Punjab,2017,6,103.4,103.4,0.0,67.0,16,31.8,3.45
+Khanewal,Punjab,2017,7,28.8,28.8,0.0,50.0,13,8.1,0.93
+Khanewal,Punjab,2017,8,50.4,50.4,0.0,47.0,10,18.6,1.63
+Khanewal,Punjab,2017,9,25.8,25.8,0.0,44.0,8,8.4,0.86
+Khanewal,Punjab,2017,10,0.0,0.0,0.0,0.0,0,0.0,0.0
+Khanewal,Punjab,2017,11,4.4,4.4,0.0,13.0,4,2.5,0.15
+Khanewal,Punjab,2017,12,20.1,20.1,0.0,23.0,4,15.5,0.65
+Khanewal,Punjab,2018,1,0.1,0.1,0.0,1.0,1,0.1,0.0
+Khanewal,Punjab,2018,2,21.2,21.2,0.0,30.0,5,13.9,0.76
+Khanewal,Punjab,2018,3,4.9,4.9,0.0,14.0,5,3.3,0.16
+Khanewal,Punjab,2018,4,12.6,12.6,0.0,28.0,11,3.9,0.42
+Khanewal,Punjab,2018,5,7.8,7.8,0.0,15.0,10,3.7,0.25
+Khanewal,Punjab,2018,6,78.4,78.4,0.0,46.0,8,39.2,2.61
+Khanewal,Punjab,2018,7,69.5,69.5,0.0,85.0,17,28.2,2.24
+Khanewal,Punjab,2018,8,17.9,17.9,0.0,35.0,9,7.4,0.58
+Khanewal,Punjab,2018,9,0.7,0.7,0.0,2.0,1,0.7,0.02
+Khanewal,Punjab,2018,10,0.0,0.0,0.0,0.0,0,0.0,0.0
+Khanewal,Punjab,2018,11,0.3,0.3,0.0,1.0,1,0.3,0.01
+Khanewal,Punjab,2018,12,0.3,0.3,0.0,3.0,2,0.2,0.01
+Khanewal,Punjab,2019,1,20.2,20.2,0.0,56.0,9,6.1,0.65
+Khanewal,Punjab,2019,2,37.1,37.1,0.0,59.0,13,18.2,1.32
+Khanewal,Punjab,2019,3,29.9,29.9,0.0,63.0,10,7.4,0.96
+Khanewal,Punjab,2019,4,16.0,16.0,0.0,20.0,7,8.6,0.53
+Khanewal,Punjab,2019,5,23.1,23.1,0.0,12.0,4,20.0,0.75
+Khanewal,Punjab,2019,6,22.8,22.8,0.0,19.0,5,16.5,0.76
+Khanewal,Punjab,2019,7,36.2,36.2,0.0,53.0,13,13.8,1.17
+Khanewal,Punjab,2019,8,58.9,58.9,0.0,84.0,20,11.1,1.9
+Khanewal,Punjab,2019,9,23.2,23.2,0.0,22.0,4,11.3,0.77
+Khanewal,Punjab,2019,10,47.5,47.5,0.0,31.0,9,19.5,1.53
+Khanewal,Punjab,2019,11,19.2,19.2,0.0,25.0,9,9.7,0.64
+Khanewal,Punjab,2019,12,11.3,11.3,0.0,20.0,3,9.9,0.36
+Khanewal,Punjab,2020,1,38.5,38.5,0.0,77.0,12,11.2,1.24
+Khanewal,Punjab,2020,2,23.3,23.3,0.0,11.0,3,14.5,0.8
+Khanewal,Punjab,2020,3,103.1,103.1,0.0,106.0,15,23.7,3.33
+Khanewal,Punjab,2020,4,5.7,5.7,0.0,12.0,4,3.6,0.19
+Khanewal,Punjab,2020,5,11.0,11.0,0.0,17.0,7,5.4,0.35
+Khanewal,Punjab,2020,6,14.5,14.5,0.0,15.0,6,7.8,0.48
+Khanewal,Punjab,2020,7,12.2,12.2,0.0,14.0,7,6.9,0.39
+Khanewal,Punjab,2020,8,72.5,72.5,0.0,94.0,11,33.1,2.34
+Khanewal,Punjab,2020,9,26.2,26.2,0.0,61.0,7,11.0,0.87
+Khanewal,Punjab,2020,10,0.0,0.0,0.0,0.0,0,0.0,0.0
+Khanewal,Punjab,2020,11,5.9,5.9,0.0,14.0,3,2.4,0.2
+Khanewal,Punjab,2020,12,22.0,22.0,0.0,22.0,3,16.1,0.71
+Khanewal,Punjab,2021,1,10.5,10.5,0.0,16.0,4,8.8,0.34
+Khanewal,Punjab,2021,2,0.2,0.2,0.0,1.0,1,0.2,0.01
+Khanewal,Punjab,2021,3,5.1,5.1,0.0,9.0,5,3.6,0.16
+Khanewal,Punjab,2021,4,8.8,8.8,0.0,16.0,2,7.0,0.29
+Khanewal,Punjab,2021,5,0.5,0.5,0.0,1.0,1,0.5,0.02
+Khanewal,Punjab,2021,6,11.2,11.2,0.0,14.0,7,7.4,0.37
+Khanewal,Punjab,2021,7,50.7,50.7,0.0,57.0,13,12.6,1.64
+Khanewal,Punjab,2021,8,11.8,11.8,0.0,22.0,7,2.8,0.38
+Khanewal,Punjab,2021,9,20.5,20.5,0.0,42.0,11,9.5,0.68
+Khanewal,Punjab,2021,10,0.8,0.8,0.0,3.0,1,0.8,0.03
+Khanewal,Punjab,2021,11,0.0,0.0,0.0,0.0,0,0.0,0.0
+Khanewal,Punjab,2021,12,1.6,1.6,0.0,6.0,3,0.8,0.05
+Khanewal,Punjab,2022,1,16.0,16.0,0.0,40.0,9,5.2,0.52
+Khanewal,Punjab,2022,2,1.0,1.0,0.0,6.0,4,0.5,0.04
+Khanewal,Punjab,2022,3,20.9,20.9,0.0,18.0,2,10.8,0.67
+Khanewal,Punjab,2022,4,0.2,0.2,0.0,1.0,1,0.2,0.01
+Khanewal,Punjab,2022,5,0.0,0.0,0.0,0.0,0,0.0,0.0
+Khanewal,Punjab,2022,6,74.9,74.9,0.0,32.0,9,53.4,2.5
+Khanewal,Punjab,2022,7,204.3,204.3,0.0,208.0,28,26.7,6.59
+Khanewal,Punjab,2022,8,70.3,70.3,0.0,116.0,24,21.4,2.27
+Khanewal,Punjab,2022,9,14.2,14.2,0.0,6.0,5,12.9,0.47
+Khanewal,Punjab,2022,10,0.0,0.0,0.0,0.0,0,0.0,0.0
+Khanewal,Punjab,2022,11,1.2,1.2,0.0,2.0,1,1.2,0.04
+Khanewal,Punjab,2022,12,2.4,2.4,0.0,8.0,3,1.1,0.08
+Khanewal,Punjab,2023,1,2.6,2.6,0.0,9.0,4,1.6,0.08
+Khanewal,Punjab,2023,2,2.0,2.0,0.0,4.0,2,1.9,0.07
+Khanewal,Punjab,2023,3,30.6,30.6,0.0,49.0,15,8.8,0.99
+Khanewal,Punjab,2023,4,33.0,33.0,0.0,24.0,9,15.8,1.1
+Khanewal,Punjab,2023,5,52.2,52.2,0.0,39.0,12,12.2,1.68
+Khanewal,Punjab,2023,6,17.3,17.3,0.0,17.0,8,11.5,0.58
+Khanewal,Punjab,2023,7,153.5,153.5,0.0,99.0,21,34.3,4.95
+Khanewal,Punjab,2023,8,12.6,12.6,0.0,8.0,2,7.1,0.41
+Khanewal,Punjab,2023,9,6.1,6.1,0.0,6.0,4,4.6,0.2
+Khanewal,Punjab,2023,10,37.6,37.6,0.0,21.0,8,18.3,1.21
+Khanewal,Punjab,2023,11,1.8,1.8,0.0,4.0,4,1.2,0.06
+Khanewal,Punjab,2023,12,0.0,0.0,0.0,0.0,0,0.0,0.0
+Khanewal,Punjab,2024,1,0.4,0.4,0.0,2.0,1,0.4,0.01
+Khanewal,Punjab,2024,2,3.2,3.2,0.0,13.0,6,1.6,0.11
+Khanewal,Punjab,2024,3,17.1,17.1,0.0,26.0,8,4.9,0.55
+Khanewal,Punjab,2024,4,13.5,13.5,0.0,15.0,5,4.9,0.45
+Khanewal,Punjab,2024,5,3.0,3.0,0.0,2.0,1,3.0,0.1
+Khanewal,Punjab,2024,6,11.2,11.2,0.0,12.0,4,6.8,0.37
+Khanewal,Punjab,2024,7,87.3,87.3,0.0,46.0,13,22.0,2.82
+Khanewal,Punjab,2024,8,149.5,149.5,0.0,180.0,25,24.1,4.82
+Khanewal,Punjab,2024,9,3.9,3.9,0.0,15.0,5,1.3,0.13
+Khanewal,Punjab,2024,10,5.6,5.6,0.0,3.0,2,4.7,0.18
+Khanewal,Punjab,2024,11,0.6,0.6,0.0,3.0,2,0.4,0.02
+Khanewal,Punjab,2024,12,8.9,8.9,0.0,10.0,3,4.9,0.29
+Khanewal,Punjab,2025,1,0.0,0.0,0.0,0.0,0,0.0,0.0
+Khanewal,Punjab,2025,2,12.4,12.4,0.0,22.0,8,7.7,0.44
+Khanewal,Punjab,2025,3,8.0,8.0,0.0,9.0,4,5.3,0.26
+Khanewal,Punjab,2025,4,0.0,0.0,0.0,0.0,0,0.0,0.0
+Khanewal,Punjab,2025,5,8.7,8.7,0.0,8.0,3,4.5,0.28
+Khanewal,Punjab,2025,6,12.5,12.5,0.0,4.0,3,11.9,0.42
+Khanewal,Punjab,2025,7,77.7,77.7,0.0,61.0,17,16.1,2.51
+Khanewal,Punjab,2025,8,31.6,31.6,0.0,51.0,11,18.5,1.02
+Khanewal,Punjab,2025,9,34.2,34.2,0.0,48.0,10,15.0,1.14
+Khanewal,Punjab,2025,10,8.6,8.6,0.0,15.0,2,8.1,0.28
+Khanewal,Punjab,2025,11,0.0,0.0,0.0,0.0,0,0.0,0.0
+Khanewal,Punjab,2025,12,6.4,6.4,0.0,11.0,1,6.4,0.21
+Lahore,Punjab,2000,1,53.8,53.8,0.0,60.0,10,29.4,1.74
+Lahore,Punjab,2000,2,36.8,36.8,0.0,65.0,10,10.6,1.27
+Lahore,Punjab,2000,3,5.0,5.0,0.0,15.0,7,1.2,0.16
+Lahore,Punjab,2000,4,3.6,3.6,0.0,11.0,7,1.0,0.12
+Lahore,Punjab,2000,5,21.0,21.0,0.0,29.0,16,4.1,0.68
+Lahore,Punjab,2000,6,36.9,36.9,0.0,41.0,11,15.0,1.23
+Lahore,Punjab,2000,7,113.5,113.5,0.0,147.0,26,19.1,3.66
+Lahore,Punjab,2000,8,97.4,97.4,0.0,139.0,21,11.7,3.14
+Lahore,Punjab,2000,9,43.9,43.9,0.0,40.0,12,10.1,1.46
+Lahore,Punjab,2000,10,2.5,2.5,0.0,4.0,2,1.5,0.08
+Lahore,Punjab,2000,11,3.6,3.6,0.0,7.0,3,2.8,0.12
+Lahore,Punjab,2000,12,5.3,5.3,0.0,13.0,2,5.1,0.17
+Lahore,Punjab,2001,1,10.0,10.0,0.0,20.0,2,8.3,0.32
+Lahore,Punjab,2001,2,6.5,6.5,0.0,13.0,4,3.2,0.23
+Lahore,Punjab,2001,3,22.2,22.2,0.0,26.0,7,12.2,0.72
+Lahore,Punjab,2001,4,37.6,37.6,0.0,64.0,16,7.0,1.25
+Lahore,Punjab,2001,5,21.7,21.7,0.0,35.0,17,4.2,0.7
+Lahore,Punjab,2001,6,162.3,162.3,0.0,122.0,20,41.5,5.41
+Lahore,Punjab,2001,7,233.7,233.7,0.0,249.0,27,31.5,7.54
+Lahore,Punjab,2001,8,70.3,70.3,0.0,103.0,17,20.7,2.27
+Lahore,Punjab,2001,9,51.0,51.0,0.0,50.0,13,16.5,1.7
+Lahore,Punjab,2001,10,3.8,3.8,0.0,8.0,5,1.9,0.12
+Lahore,Punjab,2001,11,0.2,0.2,0.0,1.0,1,0.2,0.01
+Lahore,Punjab,2001,12,9.9,9.9,0.0,17.0,2,6.7,0.32
+Lahore,Punjab,2002,1,0.6,0.6,0.0,4.0,4,0.2,0.02
+Lahore,Punjab,2002,2,25.9,25.9,0.0,47.0,9,14.0,0.92
+Lahore,Punjab,2002,3,31.9,31.9,0.0,62.0,9,9.9,1.03
+Lahore,Punjab,2002,4,7.2,7.2,0.0,15.0,10,3.2,0.24
+Lahore,Punjab,2002,5,15.8,15.8,0.0,19.0,8,11.3,0.51
+Lahore,Punjab,2002,6,73.5,73.5,0.0,53.0,18,34.5,2.45
+Lahore,Punjab,2002,7,72.4,72.4,0.0,65.0,18,26.9,2.34
+Lahore,Punjab,2002,8,98.0,98.0,0.0,109.0,24,21.3,3.16
+Lahore,Punjab,2002,9,50.5,50.5,0.0,64.0,16,21.2,1.68
+Lahore,Punjab,2002,10,6.5,6.5,0.0,12.0,6,2.2,0.21
+Lahore,Punjab,2002,11,2.8,2.8,0.0,9.0,5,1.2,0.09
+Lahore,Punjab,2002,12,9.4,9.4,0.0,29.0,2,7.3,0.3
+Lahore,Punjab,2003,1,13.1,13.1,0.0,40.0,6,4.9,0.42
+Lahore,Punjab,2003,2,111.8,111.8,0.0,90.0,8,46.7,3.99
+Lahore,Punjab,2003,3,49.5,49.5,0.0,43.0,12,34.8,1.6
+Lahore,Punjab,2003,4,10.4,10.4,0.0,21.0,8,5.4,0.35
+Lahore,Punjab,2003,5,2.4,2.4,0.0,11.0,7,0.6,0.08
+Lahore,Punjab,2003,6,39.0,39.0,0.0,39.0,14,10.5,1.3
+Lahore,Punjab,2003,7,167.5,167.5,0.0,183.0,24,34.5,5.4
+Lahore,Punjab,2003,8,120.0,120.0,0.0,162.0,29,16.3,3.87
+Lahore,Punjab,2003,9,67.0,67.0,0.0,93.0,18,16.7,2.23
+Lahore,Punjab,2003,10,0.2,0.2,0.0,1.0,1,0.2,0.01
+Lahore,Punjab,2003,11,14.4,14.4,0.0,18.0,2,10.3,0.48
+Lahore,Punjab,2003,12,15.1,15.1,0.0,24.0,4,10.3,0.49
+Lahore,Punjab,2004,1,37.0,37.0,0.0,82.0,9,10.1,1.19
+Lahore,Punjab,2004,2,13.3,13.3,0.0,19.0,4,11.5,0.46
+Lahore,Punjab,2004,3,0.4,0.4,0.0,1.0,1,0.4,0.01
+Lahore,Punjab,2004,4,84.7,84.7,0.0,37.0,9,66.6,2.82
+Lahore,Punjab,2004,5,6.2,6.2,0.0,18.0,10,1.5,0.2
+Lahore,Punjab,2004,6,53.7,53.7,0.0,41.0,13,24.8,1.79
+Lahore,Punjab,2004,7,65.2,65.2,0.0,74.0,19,15.8,2.1
+Lahore,Punjab,2004,8,103.4,103.4,0.0,155.0,25,17.0,3.34
+Lahore,Punjab,2004,9,12.8,12.8,0.0,20.0,9,4.3,0.43
+Lahore,Punjab,2004,10,35.1,35.1,0.0,32.0,9,22.1,1.13
+Lahore,Punjab,2004,11,12.9,12.9,0.0,14.0,3,11.9,0.43
+Lahore,Punjab,2004,12,29.6,29.6,0.0,25.0,3,24.2,0.95
+Lahore,Punjab,2005,1,29.3,29.3,0.0,37.0,6,16.9,0.95
+Lahore,Punjab,2005,2,89.7,89.7,0.0,137.0,19,24.0,3.2
+Lahore,Punjab,2005,3,64.2,64.2,0.0,91.0,16,17.9,2.07
+Lahore,Punjab,2005,4,18.7,18.7,0.0,16.0,6,12.7,0.62
+Lahore,Punjab,2005,5,28.9,28.9,0.0,36.0,13,19.1,0.93
+Lahore,Punjab,2005,6,38.5,38.5,0.0,32.0,10,28.9,1.28
+Lahore,Punjab,2005,7,135.1,135.1,0.0,184.0,29,23.8,4.36
+Lahore,Punjab,2005,8,91.0,91.0,0.0,120.0,21,28.0,2.94
+Lahore,Punjab,2005,9,54.8,54.8,0.0,79.0,17,11.0,1.83
+Lahore,Punjab,2005,10,1.4,1.4,0.0,5.0,2,0.9,0.05
+Lahore,Punjab,2005,11,0.5,0.5,0.0,2.0,2,0.3,0.02
+Lahore,Punjab,2005,12,0.0,0.0,0.0,0.0,0,0.0,0.0
+Lahore,Punjab,2006,1,37.2,37.2,0.0,48.0,6,23.4,1.2
+Lahore,Punjab,2006,2,6.1,6.1,0.0,7.0,1,6.1,0.22
+Lahore,Punjab,2006,3,34.2,34.2,0.0,57.0,11,20.1,1.1
+Lahore,Punjab,2006,4,2.1,2.1,0.0,7.0,5,0.8,0.07
+Lahore,Punjab,2006,5,13.5,13.5,0.0,21.0,14,3.2,0.44
+Lahore,Punjab,2006,6,48.3,48.3,0.0,50.0,14,18.4,1.61
+Lahore,Punjab,2006,7,146.9,146.9,0.0,166.0,21,36.8,4.74
+Lahore,Punjab,2006,8,132.2,132.2,0.0,170.0,27,34.3,4.26
+Lahore,Punjab,2006,9,61.8,61.8,0.0,77.0,14,19.0,2.06
+Lahore,Punjab,2006,10,13.7,13.7,0.0,12.0,3,13.1,0.44
+Lahore,Punjab,2006,11,12.3,12.3,0.0,24.0,6,5.0,0.41
+Lahore,Punjab,2006,12,21.4,21.4,0.0,35.0,5,9.0,0.69
+Lahore,Punjab,2007,1,0.3,0.3,0.0,1.0,1,0.3,0.01
+Lahore,Punjab,2007,2,109.6,109.6,0.0,119.0,15,28.4,3.91
+Lahore,Punjab,2007,3,41.4,41.4,0.0,58.0,9,17.6,1.34
+Lahore,Punjab,2007,4,3.2,3.2,0.0,8.0,7,1.2,0.11
+Lahore,Punjab,2007,5,13.9,13.9,0.0,21.0,14,3.7,0.45
+Lahore,Punjab,2007,6,110.0,110.0,0.0,108.0,16,22.1,3.67
+Lahore,Punjab,2007,7,145.9,145.9,0.0,187.0,28,26.4,4.71
+Lahore,Punjab,2007,8,103.9,103.9,0.0,148.0,27,18.8,3.35
+Lahore,Punjab,2007,9,37.3,37.3,0.0,54.0,20,12.7,1.24
+Lahore,Punjab,2007,10,1.1,1.1,0.0,3.0,3,0.6,0.04
+Lahore,Punjab,2007,11,3.4,3.4,0.0,8.0,3,1.9,0.11
+Lahore,Punjab,2007,12,8.8,8.8,0.0,17.0,4,4.4,0.28
+Lahore,Punjab,2008,1,28.8,28.8,0.0,57.0,8,7.0,0.93
+Lahore,Punjab,2008,2,14.9,14.9,0.0,38.0,5,6.3,0.51
+Lahore,Punjab,2008,3,3.1,3.1,0.0,10.0,7,0.9,0.1
+Lahore,Punjab,2008,4,56.6,56.6,0.0,58.0,12,30.3,1.89
+Lahore,Punjab,2008,5,28.5,28.5,0.0,34.0,14,6.5,0.92
+Lahore,Punjab,2008,6,122.2,122.2,0.0,131.0,23,20.7,4.07
+Lahore,Punjab,2008,7,131.4,131.4,0.0,168.0,24,27.2,4.24
+Lahore,Punjab,2008,8,290.2,290.2,0.0,186.0,26,129.5,9.36
+Lahore,Punjab,2008,9,33.1,33.1,0.0,40.0,11,18.7,1.1
+Lahore,Punjab,2008,10,20.6,20.6,0.0,14.0,6,14.3,0.66
+Lahore,Punjab,2008,11,0.5,0.5,0.0,1.0,1,0.5,0.02
+Lahore,Punjab,2008,12,18.4,18.4,0.0,35.0,5,6.5,0.59
+Lahore,Punjab,2009,1,31.2,31.2,0.0,42.0,8,19.0,1.01
+Lahore,Punjab,2009,2,13.1,13.1,0.0,27.0,9,7.4,0.47
+Lahore,Punjab,2009,3,19.2,19.2,0.0,26.0,8,8.5,0.62
+Lahore,Punjab,2009,4,11.5,11.5,0.0,27.0,8,3.6,0.38
+Lahore,Punjab,2009,5,17.6,17.6,0.0,26.0,13,10.0,0.57
+Lahore,Punjab,2009,6,6.4,6.4,0.0,14.0,6,2.1,0.21
+Lahore,Punjab,2009,7,81.2,81.2,0.0,115.0,24,15.4,2.62
+Lahore,Punjab,2009,8,141.4,141.4,0.0,127.0,24,52.2,4.56
+Lahore,Punjab,2009,9,44.1,44.1,0.0,33.0,6,31.4,1.47
+Lahore,Punjab,2009,10,15.7,15.7,0.0,13.0,5,14.0,0.51
+Lahore,Punjab,2009,11,7.9,7.9,0.0,17.0,2,6.0,0.26
+Lahore,Punjab,2009,12,0.0,0.0,0.0,0.0,0,0.0,0.0
+Lahore,Punjab,2010,1,4.5,4.5,0.0,15.0,4,1.5,0.15
+Lahore,Punjab,2010,2,12.2,12.2,0.0,28.0,7,7.6,0.44
+Lahore,Punjab,2010,3,4.1,4.1,0.0,10.0,5,1.6,0.13
+Lahore,Punjab,2010,4,9.3,9.3,0.0,16.0,8,3.4,0.31
+Lahore,Punjab,2010,5,12.2,12.2,0.0,17.0,10,3.1,0.39
+Lahore,Punjab,2010,6,29.5,29.5,0.0,42.0,14,8.0,0.98
+Lahore,Punjab,2010,7,180.6,180.6,0.0,168.0,24,39.3,5.83
+Lahore,Punjab,2010,8,226.7,226.7,0.0,255.0,27,27.8,7.31
+Lahore,Punjab,2010,9,64.2,64.2,0.0,120.0,19,13.2,2.14
+Lahore,Punjab,2010,10,10.9,10.9,0.0,14.0,6,4.9,0.35
+Lahore,Punjab,2010,11,0.0,0.0,0.0,0.0,0,0.0,0.0
+Lahore,Punjab,2010,12,16.1,16.1,0.0,21.0,2,11.2,0.52
+Lahore,Punjab,2011,1,6.6,6.6,0.0,8.0,2,6.4,0.21
+Lahore,Punjab,2011,2,22.9,22.9,0.0,64.0,13,3.7,0.82
+Lahore,Punjab,2011,3,14.4,14.4,0.0,24.0,10,8.1,0.46
+Lahore,Punjab,2011,4,30.9,30.9,0.0,39.0,11,19.1,1.03
+Lahore,Punjab,2011,5,23.9,23.9,0.0,35.0,13,8.1,0.77
+Lahore,Punjab,2011,6,61.6,61.6,0.0,74.0,18,16.8,2.05
+Lahore,Punjab,2011,7,115.7,115.7,0.0,134.0,24,28.4,3.73
+Lahore,Punjab,2011,8,195.4,195.4,0.0,212.0,29,36.2,6.3
+Lahore,Punjab,2011,9,123.7,123.7,0.0,128.0,17,28.2,4.12
+Lahore,Punjab,2011,10,8.6,8.6,0.0,8.0,5,5.4,0.28
+Lahore,Punjab,2011,11,0.2,0.2,0.0,2.0,2,0.1,0.01
+Lahore,Punjab,2011,12,2.2,2.2,0.0,10.0,2,1.8,0.07
+Lahore,Punjab,2012,1,31.4,31.4,0.0,47.0,9,12.4,1.01
+Lahore,Punjab,2012,2,15.3,15.3,0.0,44.0,8,5.2,0.53
+Lahore,Punjab,2012,3,2.5,2.5,0.0,10.0,3,1.5,0.08
+Lahore,Punjab,2012,4,37.6,37.6,0.0,55.0,19,15.1,1.25
+Lahore,Punjab,2012,5,7.3,7.3,0.0,17.0,12,1.5,0.24
+Lahore,Punjab,2012,6,17.6,17.6,0.0,18.0,10,8.1,0.59
+Lahore,Punjab,2012,7,60.6,60.6,0.0,88.0,22,16.5,1.95
+Lahore,Punjab,2012,8,97.0,97.0,0.0,169.0,29,19.2,3.13
+Lahore,Punjab,2012,9,133.1,133.1,0.0,154.0,18,28.5,4.44
+Lahore,Punjab,2012,10,10.1,10.1,0.0,16.0,8,6.2,0.33
+Lahore,Punjab,2012,11,9.5,9.5,0.0,18.0,5,3.4,0.32
+Lahore,Punjab,2012,12,36.3,36.3,0.0,42.0,5,22.0,1.17
+Lahore,Punjab,2013,1,15.7,15.7,0.0,29.0,6,9.5,0.51
+Lahore,Punjab,2013,2,137.0,137.0,0.0,130.0,12,36.1,4.89
+Lahore,Punjab,2013,3,16.7,16.7,0.0,30.0,7,6.7,0.54
+Lahore,Punjab,2013,4,7.4,7.4,0.0,14.0,9,1.9,0.25
+Lahore,Punjab,2013,5,14.1,14.1,0.0,23.0,8,3.6,0.45
+Lahore,Punjab,2013,6,141.6,141.6,0.0,74.0,11,95.5,4.72
+Lahore,Punjab,2013,7,92.0,92.0,0.0,136.0,24,24.0,2.97
+Lahore,Punjab,2013,8,213.7,213.7,0.0,248.0,27,39.4,6.89
+Lahore,Punjab,2013,9,25.0,25.0,0.0,48.0,18,8.6,0.83
+Lahore,Punjab,2013,10,25.3,25.3,0.0,44.0,13,8.4,0.82
+Lahore,Punjab,2013,11,10.9,10.9,0.0,19.0,2,9.5,0.36
+Lahore,Punjab,2013,12,1.4,1.4,0.0,4.0,2,0.9,0.05
+Lahore,Punjab,2014,1,6.6,6.6,0.0,24.0,7,3.3,0.21
+Lahore,Punjab,2014,2,33.9,33.9,0.0,66.0,10,13.1,1.21
+Lahore,Punjab,2014,3,82.2,82.2,0.0,95.0,14,30.6,2.65
+Lahore,Punjab,2014,4,23.7,23.7,0.0,46.0,11,10.9,0.79
+Lahore,Punjab,2014,5,43.7,43.7,0.0,44.0,20,18.2,1.41
+Lahore,Punjab,2014,6,25.0,25.0,0.0,49.0,15,9.1,0.83
+Lahore,Punjab,2014,7,104.2,104.2,0.0,143.0,23,22.6,3.36
+Lahore,Punjab,2014,8,65.2,65.2,0.0,100.0,18,14.7,2.1
+Lahore,Punjab,2014,9,237.3,237.3,0.0,119.0,14,94.9,7.91
+Lahore,Punjab,2014,10,22.1,22.1,0.0,17.0,8,13.7,0.71
+Lahore,Punjab,2014,11,4.4,4.4,0.0,7.0,2,4.0,0.15
+Lahore,Punjab,2014,12,0.8,0.8,0.0,5.0,1,0.8,0.03
+Lahore,Punjab,2015,1,38.2,38.2,0.0,56.0,7,16.8,1.23
+Lahore,Punjab,2015,2,72.8,72.8,0.0,76.0,10,16.9,2.6
+Lahore,Punjab,2015,3,139.5,139.5,0.0,112.0,12,41.6,4.5
+Lahore,Punjab,2015,4,51.4,51.4,0.0,68.0,10,14.6,1.71
+Lahore,Punjab,2015,5,6.0,6.0,0.0,15.0,9,2.9,0.19
+Lahore,Punjab,2015,6,49.0,49.0,0.0,56.0,17,16.5,1.63
+Lahore,Punjab,2015,7,183.1,183.1,0.0,200.0,25,28.4,5.91
+Lahore,Punjab,2015,8,134.9,134.9,0.0,214.0,28,19.9,4.35
+Lahore,Punjab,2015,9,62.5,62.5,0.0,41.0,12,50.5,2.08
+Lahore,Punjab,2015,10,28.1,28.1,0.0,31.0,7,15.3,0.91
+Lahore,Punjab,2015,11,7.4,7.4,0.0,15.0,4,5.9,0.25
+Lahore,Punjab,2015,12,5.7,5.7,0.0,17.0,5,2.6,0.18
+Lahore,Punjab,2016,1,26.2,26.2,0.0,45.0,7,12.2,0.85
+Lahore,Punjab,2016,2,15.3,15.3,0.0,19.0,4,9.4,0.53
+Lahore,Punjab,2016,3,87.8,87.8,0.0,69.0,14,37.8,2.83
+Lahore,Punjab,2016,4,2.9,2.9,0.0,10.0,6,1.2,0.1
+Lahore,Punjab,2016,5,11.2,11.2,0.0,26.0,13,3.1,0.36
+Lahore,Punjab,2016,6,47.5,47.5,0.0,43.0,14,18.2,1.58
+Lahore,Punjab,2016,7,155.5,155.5,0.0,190.0,27,32.9,5.02
+Lahore,Punjab,2016,8,149.5,149.5,0.0,161.0,27,20.9,4.82
+Lahore,Punjab,2016,9,3.7,3.7,0.0,12.0,6,1.2,0.12
+Lahore,Punjab,2016,10,7.7,7.7,0.0,8.0,4,5.2,0.25
+Lahore,Punjab,2016,11,0.9,0.9,0.0,6.0,1,0.9,0.03
+Lahore,Punjab,2016,12,0.4,0.4,0.0,2.0,1,0.4,0.01
+Lahore,Punjab,2017,1,62.0,62.0,0.0,92.0,15,24.3,2.0
+Lahore,Punjab,2017,2,15.5,15.5,0.0,27.0,6,6.8,0.55
+Lahore,Punjab,2017,3,23.6,23.6,0.0,43.0,13,5.4,0.76
+Lahore,Punjab,2017,4,15.4,15.4,0.0,25.0,14,4.1,0.51
+Lahore,Punjab,2017,5,14.0,14.0,0.0,26.0,17,5.2,0.45
+Lahore,Punjab,2017,6,76.1,76.1,0.0,82.0,18,28.2,2.54
+Lahore,Punjab,2017,7,87.9,87.9,0.0,139.0,27,10.1,2.84
+Lahore,Punjab,2017,8,258.7,258.7,0.0,174.0,25,141.6,8.35
+Lahore,Punjab,2017,9,15.0,15.0,0.0,38.0,9,5.3,0.5
+Lahore,Punjab,2017,10,0.6,0.6,0.0,2.0,2,0.4,0.02
+Lahore,Punjab,2017,11,6.9,6.9,0.0,11.0,2,6.4,0.23
+Lahore,Punjab,2017,12,21.7,21.7,0.0,24.0,3,18.2,0.7
+Lahore,Punjab,2018,1,11.7,11.7,0.0,12.0,2,11.6,0.38
+Lahore,Punjab,2018,2,20.0,20.0,0.0,30.0,4,11.1,0.71
+Lahore,Punjab,2018,3,16.9,16.9,0.0,34.0,10,7.9,0.55
+Lahore,Punjab,2018,4,15.2,15.2,0.0,29.0,17,4.2,0.51
+Lahore,Punjab,2018,5,19.7,19.7,0.0,33.0,17,3.2,0.64
+Lahore,Punjab,2018,6,125.9,125.9,0.0,70.0,13,61.9,4.2
+Lahore,Punjab,2018,7,151.9,151.9,0.0,179.0,23,31.1,4.9
+Lahore,Punjab,2018,8,88.0,88.0,0.0,120.0,21,20.7,2.84
+Lahore,Punjab,2018,9,120.3,120.3,0.0,64.0,14,100.3,4.01
+Lahore,Punjab,2018,10,3.9,3.9,0.0,9.0,6,2.8,0.13
+Lahore,Punjab,2018,11,7.3,7.3,0.0,20.0,4,2.8,0.24
+Lahore,Punjab,2018,12,4.4,4.4,0.0,18.0,4,3.2,0.14
+Lahore,Punjab,2019,1,34.5,34.5,0.0,81.0,14,8.0,1.11
+Lahore,Punjab,2019,2,77.4,77.4,0.0,94.0,16,16.7,2.76
+Lahore,Punjab,2019,3,22.2,22.2,0.0,42.0,10,11.3,0.72
+Lahore,Punjab,2019,4,35.1,35.1,0.0,35.0,7,26.1,1.17
+Lahore,Punjab,2019,5,14.2,14.2,0.0,13.0,6,9.4,0.46
+Lahore,Punjab,2019,6,7.3,7.3,0.0,17.0,7,4.5,0.24
+Lahore,Punjab,2019,7,161.8,161.8,0.0,196.0,25,31.6,5.22
+Lahore,Punjab,2019,8,90.6,90.6,0.0,145.0,24,21.1,2.92
+Lahore,Punjab,2019,9,35.3,35.3,0.0,68.0,17,7.1,1.18
+Lahore,Punjab,2019,10,21.3,21.3,0.0,16.0,6,10.2,0.69
+Lahore,Punjab,2019,11,33.3,33.3,0.0,60.0,11,16.4,1.11
+Lahore,Punjab,2019,12,24.8,24.8,0.0,33.0,5,20.6,0.8
+Lahore,Punjab,2020,1,61.1,61.1,0.0,95.0,13,16.4,1.97
+Lahore,Punjab,2020,2,28.4,28.4,0.0,34.0,8,21.3,0.98
+Lahore,Punjab,2020,3,129.7,129.7,0.0,122.0,15,23.2,4.18
+Lahore,Punjab,2020,4,18.8,18.8,0.0,34.0,12,7.4,0.63
+Lahore,Punjab,2020,5,18.9,18.9,0.0,26.0,12,11.6,0.61
+Lahore,Punjab,2020,6,18.1,18.1,0.0,30.0,11,7.8,0.6
+Lahore,Punjab,2020,7,73.1,73.1,0.0,83.0,19,15.2,2.36
+Lahore,Punjab,2020,8,108.0,108.0,0.0,183.0,24,23.7,3.48
+Lahore,Punjab,2020,9,53.2,53.2,0.0,60.0,6,22.7,1.77
+Lahore,Punjab,2020,10,0.0,0.0,0.0,0.0,0,0.0,0.0
+Lahore,Punjab,2020,11,9.8,9.8,0.0,24.0,3,5.5,0.33
+Lahore,Punjab,2020,12,15.2,15.2,0.0,21.0,4,6.2,0.49
+Lahore,Punjab,2021,1,40.4,40.4,0.0,55.0,6,23.1,1.3
+Lahore,Punjab,2021,2,1.1,1.1,0.0,1.0,1,1.1,0.04
+Lahore,Punjab,2021,3,10.1,10.1,0.0,21.0,8,3.9,0.33
+Lahore,Punjab,2021,4,19.7,19.7,0.0,32.0,8,7.8,0.66
+Lahore,Punjab,2021,5,5.6,5.6,0.0,18.0,9,1.5,0.18
+Lahore,Punjab,2021,6,10.7,10.7,0.0,16.0,9,4.0,0.36
+Lahore,Punjab,2021,7,92.8,92.8,0.0,152.0,22,20.8,2.99
+Lahore,Punjab,2021,8,33.0,33.0,0.0,54.0,17,7.3,1.06
+Lahore,Punjab,2021,9,82.6,82.6,0.0,103.0,20,18.9,2.75
+Lahore,Punjab,2021,10,52.2,52.2,0.0,34.0,9,42.6,1.68
+Lahore,Punjab,2021,11,0.9,0.9,0.0,2.0,1,0.9,0.03
+Lahore,Punjab,2021,12,2.8,2.8,0.0,8.0,4,1.3,0.09
+Lahore,Punjab,2022,1,91.6,91.6,0.0,112.0,14,25.7,2.95
+Lahore,Punjab,2022,2,67.7,67.7,0.0,48.0,13,29.6,2.42
+Lahore,Punjab,2022,3,11.5,11.5,0.0,10.0,2,10.2,0.37
+Lahore,Punjab,2022,4,0.7,0.7,0.0,4.0,3,0.3,0.02
+Lahore,Punjab,2022,5,7.1,7.1,0.0,11.0,6,3.6,0.23
+Lahore,Punjab,2022,6,27.7,27.7,0.0,36.0,8,9.1,0.92
+Lahore,Punjab,2022,7,251.5,251.5,0.0,208.0,28,39.8,8.11
+Lahore,Punjab,2022,8,111.4,111.4,0.0,134.0,23,21.9,3.59
+Lahore,Punjab,2022,9,51.6,51.6,0.0,36.0,12,29.9,1.72
+Lahore,Punjab,2022,10,14.3,14.3,0.0,13.0,3,7.8,0.46
+Lahore,Punjab,2022,11,20.8,20.8,0.0,21.0,6,10.6,0.69
+Lahore,Punjab,2022,12,6.6,6.6,0.0,8.0,1,6.6,0.21
+Lahore,Punjab,2023,1,15.3,15.3,0.0,37.0,7,6.6,0.49
+Lahore,Punjab,2023,2,2.7,2.7,0.0,8.0,3,1.7,0.1
+Lahore,Punjab,2023,3,73.6,73.6,0.0,74.0,15,20.2,2.37
+Lahore,Punjab,2023,4,46.5,46.5,0.0,46.0,11,15.1,1.55
+Lahore,Punjab,2023,5,51.2,51.2,0.0,47.0,12,16.3,1.65
+Lahore,Punjab,2023,6,76.8,76.8,0.0,47.0,16,20.1,2.56
+Lahore,Punjab,2023,7,214.5,214.5,0.0,183.0,27,38.3,6.92
+Lahore,Punjab,2023,8,90.1,90.1,0.0,76.0,23,26.7,2.91
+Lahore,Punjab,2023,9,147.0,147.0,0.0,56.0,11,37.0,4.9
+Lahore,Punjab,2023,10,36.9,36.9,0.0,23.0,4,13.2,1.19
+Lahore,Punjab,2023,11,27.8,27.8,0.0,24.0,7,11.9,0.93
+Lahore,Punjab,2023,12,0.1,0.1,0.0,1.0,1,0.1,0.0
+Lahore,Punjab,2024,1,24.9,24.9,0.0,13.0,3,22.6,0.8
+Lahore,Punjab,2024,2,27.4,27.4,0.0,35.0,6,10.6,0.94
+Lahore,Punjab,2024,3,33.0,33.0,0.0,39.0,11,13.8,1.06
+Lahore,Punjab,2024,4,25.3,25.3,0.0,24.0,10,10.1,0.84
+Lahore,Punjab,2024,5,1.2,1.2,0.0,5.0,2,1.1,0.04
+Lahore,Punjab,2024,6,14.9,14.9,0.0,20.0,10,7.3,0.5
+Lahore,Punjab,2024,7,124.9,124.9,0.0,89.0,26,26.4,4.03
+Lahore,Punjab,2024,8,323.4,323.4,0.0,226.0,28,93.9,10.43
+Lahore,Punjab,2024,9,56.6,56.6,0.0,64.0,12,13.0,1.89
+Lahore,Punjab,2024,10,12.7,12.7,0.0,7.0,3,11.5,0.41
+Lahore,Punjab,2024,11,3.6,3.6,0.0,4.0,3,1.6,0.12
+Lahore,Punjab,2024,12,5.8,5.8,0.0,16.0,4,2.7,0.19
+Lahore,Punjab,2025,1,37.4,37.4,0.0,11.0,2,36.6,1.21
+Lahore,Punjab,2025,2,67.9,67.9,0.0,55.0,10,40.4,2.43
+Lahore,Punjab,2025,3,13.8,13.8,0.0,18.0,5,7.6,0.45
+Lahore,Punjab,2025,4,0.4,0.4,0.0,2.0,2,0.2,0.01
+Lahore,Punjab,2025,5,40.1,40.1,0.0,28.0,14,14.0,1.29
+Lahore,Punjab,2025,6,63.7,63.7,0.0,56.0,14,17.8,2.12
+Lahore,Punjab,2025,7,253.1,253.1,0.0,203.0,28,38.8,8.16
+Lahore,Punjab,2025,8,310.7,310.7,0.0,211.0,29,55.7,10.02
+Lahore,Punjab,2025,9,104.8,104.8,0.0,76.0,11,63.1,3.49
+Lahore,Punjab,2025,10,36.1,36.1,0.0,26.0,6,15.5,1.16
+Lahore,Punjab,2025,11,2.2,2.2,0.0,2.0,1,2.2,0.07
+Lahore,Punjab,2025,12,1.7,1.7,0.0,6.0,2,1.1,0.05
+Lodhran,Punjab,2000,1,7.0,7.0,0.0,14.0,2,6.3,0.23
+Lodhran,Punjab,2000,2,5.0,5.0,0.0,12.0,4,4.3,0.17
+Lodhran,Punjab,2000,3,0.1,0.1,0.0,1.0,1,0.1,0.0
+Lodhran,Punjab,2000,4,0.6,0.6,0.0,1.0,1,0.6,0.02
+Lodhran,Punjab,2000,5,1.5,1.5,0.0,6.0,4,0.6,0.05
+Lodhran,Punjab,2000,6,1.3,1.3,0.0,7.0,4,0.5,0.04
+Lodhran,Punjab,2000,7,90.1,90.1,0.0,99.0,16,22.0,2.91
+Lodhran,Punjab,2000,8,4.2,4.2,0.0,9.0,8,1.3,0.14
+Lodhran,Punjab,2000,9,0.1,0.1,0.0,1.0,1,0.1,0.0
+Lodhran,Punjab,2000,10,0.5,0.5,0.0,1.0,1,0.5,0.02
+Lodhran,Punjab,2000,11,0.0,0.0,0.0,0.0,0,0.0,0.0
+Lodhran,Punjab,2000,12,3.1,3.1,0.0,12.0,2,2.9,0.1
+Lodhran,Punjab,2001,1,0.2,0.2,0.0,2.0,1,0.2,0.01
+Lodhran,Punjab,2001,2,0.7,0.7,0.0,5.0,3,0.4,0.02
+Lodhran,Punjab,2001,3,0.8,0.8,0.0,3.0,2,0.7,0.03
+Lodhran,Punjab,2001,4,18.6,18.6,0.0,22.0,6,9.0,0.62
+Lodhran,Punjab,2001,5,6.6,6.6,0.0,15.0,8,1.2,0.21
+Lodhran,Punjab,2001,6,39.9,39.9,0.0,33.0,11,15.9,1.33
+Lodhran,Punjab,2001,7,71.2,71.2,0.0,98.0,17,14.0,2.3
+Lodhran,Punjab,2001,8,34.4,34.4,0.0,46.0,9,11.2,1.11
+Lodhran,Punjab,2001,9,1.5,1.5,0.0,7.0,4,0.7,0.05
+Lodhran,Punjab,2001,10,0.1,0.1,0.0,1.0,1,0.1,0.0
+Lodhran,Punjab,2001,11,0.0,0.0,0.0,0.0,0,0.0,0.0
+Lodhran,Punjab,2001,12,1.2,1.2,0.0,5.0,1,1.2,0.04
+Lodhran,Punjab,2002,1,0.2,0.2,0.0,1.0,1,0.2,0.01
+Lodhran,Punjab,2002,2,1.7,1.7,0.0,5.0,3,1.3,0.06
+Lodhran,Punjab,2002,3,9.1,9.1,0.0,30.0,4,4.2,0.29
+Lodhran,Punjab,2002,4,1.0,1.0,0.0,4.0,2,0.7,0.03
+Lodhran,Punjab,2002,5,17.2,17.2,0.0,14.0,6,13.5,0.55
+Lodhran,Punjab,2002,6,3.4,3.4,0.0,14.0,8,1.3,0.11
+Lodhran,Punjab,2002,7,0.0,0.0,0.0,0.0,0,0.0,0.0
+Lodhran,Punjab,2002,8,3.8,3.8,0.0,7.0,6,1.6,0.12
+Lodhran,Punjab,2002,9,22.4,22.4,0.0,29.0,13,7.8,0.75
+Lodhran,Punjab,2002,10,0.0,0.0,0.0,0.0,0,0.0,0.0
+Lodhran,Punjab,2002,11,16.5,16.5,0.0,21.0,4,14.5,0.55
+Lodhran,Punjab,2002,12,4.1,4.1,0.0,13.0,2,3.8,0.13
+Lodhran,Punjab,2003,1,4.3,4.3,0.0,10.0,2,3.9,0.14
+Lodhran,Punjab,2003,2,28.7,28.7,0.0,46.0,5,15.0,1.02
+Lodhran,Punjab,2003,3,2.8,2.8,0.0,9.0,3,1.8,0.09
+Lodhran,Punjab,2003,4,1.2,1.2,0.0,2.0,2,0.8,0.04
+Lodhran,Punjab,2003,5,3.3,3.3,0.0,6.0,5,1.7,0.11
+Lodhran,Punjab,2003,6,3.1,3.1,0.0,5.0,4,1.2,0.1
+Lodhran,Punjab,2003,7,205.0,205.0,0.0,143.0,24,73.9,6.61
+Lodhran,Punjab,2003,8,82.6,82.6,0.0,97.0,14,21.0,2.66
+Lodhran,Punjab,2003,9,4.7,4.7,0.0,18.0,9,1.6,0.16
+Lodhran,Punjab,2003,10,0.0,0.0,0.0,0.0,0,0.0,0.0
+Lodhran,Punjab,2003,11,0.0,0.0,0.0,0.0,0,0.0,0.0
+Lodhran,Punjab,2003,12,1.1,1.1,0.0,8.0,2,0.7,0.04
+Lodhran,Punjab,2004,1,15.1,15.1,0.0,48.0,5,6.1,0.49
+Lodhran,Punjab,2004,2,2.9,2.9,0.0,4.0,1,2.9,0.1
+Lodhran,Punjab,2004,3,0.0,0.0,0.0,0.0,0,0.0,0.0
+Lodhran,Punjab,2004,4,4.9,4.9,0.0,16.0,4,2.5,0.16
+Lodhran,Punjab,2004,5,0.8,0.8,0.0,3.0,3,0.4,0.03
+Lodhran,Punjab,2004,6,14.1,14.1,0.0,14.0,6,9.8,0.47
+Lodhran,Punjab,2004,7,3.4,3.4,0.0,7.0,5,2.0,0.11
+Lodhran,Punjab,2004,8,51.2,51.2,0.0,63.0,17,19.8,1.65
+Lodhran,Punjab,2004,9,6.3,6.3,0.0,11.0,8,3.5,0.21
+Lodhran,Punjab,2004,10,5.4,5.4,0.0,17.0,3,4.4,0.17
+Lodhran,Punjab,2004,11,1.7,1.7,0.0,2.0,1,1.7,0.06
+Lodhran,Punjab,2004,12,25.9,25.9,0.0,25.0,2,24.2,0.84
+Lodhran,Punjab,2005,1,2.8,2.8,0.0,11.0,4,1.1,0.09
+Lodhran,Punjab,2005,2,55.0,55.0,0.0,105.0,13,11.7,1.96
+Lodhran,Punjab,2005,3,48.6,48.6,0.0,55.0,9,18.0,1.57
+Lodhran,Punjab,2005,4,0.9,0.9,0.0,3.0,2,0.7,0.03
+Lodhran,Punjab,2005,5,12.4,12.4,0.0,15.0,9,9.3,0.4
+Lodhran,Punjab,2005,6,7.4,7.4,0.0,16.0,8,2.3,0.25
+Lodhran,Punjab,2005,7,60.5,60.5,0.0,77.0,16,9.9,1.95
+Lodhran,Punjab,2005,8,7.1,7.1,0.0,9.0,3,4.0,0.23
+Lodhran,Punjab,2005,9,39.9,39.9,0.0,47.0,10,12.2,1.33
+Lodhran,Punjab,2005,10,0.0,0.0,0.0,0.0,0,0.0,0.0
+Lodhran,Punjab,2005,11,0.0,0.0,0.0,0.0,0,0.0,0.0
+Lodhran,Punjab,2005,12,0.0,0.0,0.0,0.0,0,0.0,0.0
+Lodhran,Punjab,2006,1,8.6,8.6,0.0,17.0,4,4.0,0.28
+Lodhran,Punjab,2006,2,0.1,0.1,0.0,1.0,1,0.1,0.0
+Lodhran,Punjab,2006,3,15.6,15.6,0.0,38.0,11,6.3,0.5
+Lodhran,Punjab,2006,4,3.3,3.3,0.0,5.0,3,1.6,0.11
+Lodhran,Punjab,2006,5,3.0,3.0,0.0,8.0,6,1.1,0.1
+Lodhran,Punjab,2006,6,33.5,33.5,0.0,35.0,13,12.8,1.12
+Lodhran,Punjab,2006,7,18.4,18.4,0.0,39.0,11,3.6,0.59
+Lodhran,Punjab,2006,8,82.1,82.1,0.0,93.0,19,19.2,2.65
+Lodhran,Punjab,2006,9,3.7,3.7,0.0,7.0,3,2.9,0.12
+Lodhran,Punjab,2006,10,21.5,21.5,0.0,8.0,3,18.5,0.69
+Lodhran,Punjab,2006,11,7.4,7.4,0.0,19.0,7,4.1,0.25
+Lodhran,Punjab,2006,12,23.8,23.8,0.0,37.0,5,11.0,0.77
+Lodhran,Punjab,2007,1,0.0,0.0,0.0,0.0,0,0.0,0.0
+Lodhran,Punjab,2007,2,31.0,31.0,0.0,68.0,11,11.7,1.11
+Lodhran,Punjab,2007,3,20.4,20.4,0.0,34.0,6,6.9,0.66
+Lodhran,Punjab,2007,4,3.8,3.8,0.0,8.0,5,1.6,0.13
+Lodhran,Punjab,2007,5,7.1,7.1,0.0,14.0,9,2.1,0.23
+Lodhran,Punjab,2007,6,22.9,22.9,0.0,46.0,11,9.1,0.76
+Lodhran,Punjab,2007,7,37.0,37.0,0.0,55.0,14,8.0,1.19
+Lodhran,Punjab,2007,8,15.5,15.5,0.0,32.0,14,4.8,0.5
+Lodhran,Punjab,2007,9,35.2,35.2,0.0,57.0,18,13.2,1.17
+Lodhran,Punjab,2007,10,0.0,0.0,0.0,0.0,0,0.0,0.0
+Lodhran,Punjab,2007,11,0.0,0.0,0.0,0.0,0,0.0,0.0
+Lodhran,Punjab,2007,12,10.6,10.6,0.0,9.0,1,10.6,0.34
+Lodhran,Punjab,2008,1,7.8,7.8,0.0,26.0,8,2.2,0.25
+Lodhran,Punjab,2008,2,7.7,7.7,0.0,33.0,5,3.4,0.27
+Lodhran,Punjab,2008,3,0.5,0.5,0.0,2.0,1,0.5,0.02
+Lodhran,Punjab,2008,4,32.8,32.8,0.0,39.0,8,19.6,1.09
+Lodhran,Punjab,2008,5,8.3,8.3,0.0,25.0,15,1.3,0.27
+Lodhran,Punjab,2008,6,32.6,32.6,0.0,32.0,12,14.5,1.09
+Lodhran,Punjab,2008,7,38.7,38.7,0.0,40.0,9,14.2,1.25
+Lodhran,Punjab,2008,8,114.2,114.2,0.0,121.0,14,57.3,3.68
+Lodhran,Punjab,2008,9,6.5,6.5,0.0,16.0,8,1.6,0.22
+Lodhran,Punjab,2008,10,0.0,0.0,0.0,0.0,0,0.0,0.0
+Lodhran,Punjab,2008,11,0.0,0.0,0.0,0.0,0,0.0,0.0
+Lodhran,Punjab,2008,12,22.7,22.7,0.0,47.0,8,11.6,0.73
+Lodhran,Punjab,2009,1,24.2,24.2,0.0,35.0,4,12.0,0.78
+Lodhran,Punjab,2009,2,1.2,1.2,0.0,9.0,2,1.0,0.04
+Lodhran,Punjab,2009,3,7.4,7.4,0.0,14.0,7,3.2,0.24
+Lodhran,Punjab,2009,4,11.2,11.2,0.0,18.0,6,8.0,0.37
+Lodhran,Punjab,2009,5,9.5,9.5,0.0,23.0,10,2.3,0.31
+Lodhran,Punjab,2009,6,9.2,9.2,0.0,15.0,10,2.0,0.31
+Lodhran,Punjab,2009,7,18.1,18.1,0.0,34.0,8,5.0,0.58
+Lodhran,Punjab,2009,8,10.3,10.3,0.0,20.0,8,3.5,0.33
+Lodhran,Punjab,2009,9,3.3,3.3,0.0,11.0,4,1.8,0.11
+Lodhran,Punjab,2009,10,1.3,1.3,0.0,4.0,2,0.7,0.04
+Lodhran,Punjab,2009,11,0.3,0.3,0.0,2.0,2,0.2,0.01
+Lodhran,Punjab,2009,12,0.1,0.1,0.0,1.0,1,0.1,0.0
+Lodhran,Punjab,2010,1,5.6,5.6,0.0,18.0,3,3.3,0.18
+Lodhran,Punjab,2010,2,0.2,0.2,0.0,1.0,1,0.2,0.01
+Lodhran,Punjab,2010,3,6.7,6.7,0.0,13.0,2,5.5,0.22
+Lodhran,Punjab,2010,4,2.5,2.5,0.0,7.0,4,1.1,0.08
+Lodhran,Punjab,2010,5,6.7,6.7,0.0,9.0,6,2.0,0.22
+Lodhran,Punjab,2010,6,13.2,13.2,0.0,22.0,6,7.0,0.44
+Lodhran,Punjab,2010,7,56.4,56.4,0.0,66.0,15,33.2,1.82
+Lodhran,Punjab,2010,8,170.5,170.5,0.0,164.0,17,30.1,5.5
+Lodhran,Punjab,2010,9,34.3,34.3,0.0,61.0,12,11.9,1.14
+Lodhran,Punjab,2010,10,0.0,0.0,0.0,0.0,0,0.0,0.0
+Lodhran,Punjab,2010,11,0.0,0.0,0.0,0.0,0,0.0,0.0
+Lodhran,Punjab,2010,12,0.0,0.0,0.0,0.0,0,0.0,0.0
+Lodhran,Punjab,2011,1,0.2,0.2,0.0,1.0,1,0.2,0.01
+Lodhran,Punjab,2011,2,16.6,16.6,0.0,38.0,10,5.3,0.59
+Lodhran,Punjab,2011,3,13.5,13.5,0.0,29.0,4,7.2,0.44
+Lodhran,Punjab,2011,4,15.2,15.2,0.0,19.0,5,13.4,0.51
+Lodhran,Punjab,2011,5,4.7,4.7,0.0,10.0,5,1.9,0.15
+Lodhran,Punjab,2011,6,3.5,3.5,0.0,11.0,5,1.6,0.12
+Lodhran,Punjab,2011,7,34.3,34.3,0.0,56.0,15,9.7,1.11
+Lodhran,Punjab,2011,8,101.0,101.0,0.0,126.0,23,17.9,3.26
+Lodhran,Punjab,2011,9,115.1,115.1,0.0,122.0,17,29.8,3.84
+Lodhran,Punjab,2011,10,1.0,1.0,0.0,2.0,2,0.9,0.03
+Lodhran,Punjab,2011,11,0.1,0.1,0.0,1.0,1,0.1,0.0
+Lodhran,Punjab,2011,12,0.0,0.0,0.0,0.0,0,0.0,0.0
+Lodhran,Punjab,2012,1,4.7,4.7,0.0,10.0,2,3.6,0.15
+Lodhran,Punjab,2012,2,1.7,1.7,0.0,10.0,4,1.0,0.06
+Lodhran,Punjab,2012,3,0.0,0.0,0.0,0.0,0,0.0,0.0
+Lodhran,Punjab,2012,4,17.8,17.8,0.0,27.0,12,6.2,0.59
+Lodhran,Punjab,2012,5,4.4,4.4,0.0,7.0,4,2.0,0.14
+Lodhran,Punjab,2012,6,10.8,10.8,0.0,14.0,7,5.3,0.36
+Lodhran,Punjab,2012,7,17.5,17.5,0.0,24.0,10,9.2,0.56
+Lodhran,Punjab,2012,8,69.3,69.3,0.0,91.0,16,17.8,2.24
+Lodhran,Punjab,2012,9,96.3,96.3,0.0,132.0,15,31.4,3.21
+Lodhran,Punjab,2012,10,4.6,4.6,0.0,11.0,4,2.3,0.15
+Lodhran,Punjab,2012,11,0.0,0.0,0.0,0.0,0,0.0,0.0
+Lodhran,Punjab,2012,12,3.7,3.7,0.0,9.0,1,3.7,0.12
+Lodhran,Punjab,2013,1,0.8,0.8,0.0,5.0,2,0.5,0.03
+Lodhran,Punjab,2013,2,63.1,63.1,0.0,83.0,10,17.0,2.25
+Lodhran,Punjab,2013,3,15.2,15.2,0.0,23.0,7,10.7,0.49
+Lodhran,Punjab,2013,4,5.4,5.4,0.0,13.0,7,1.7,0.18
+Lodhran,Punjab,2013,5,3.6,3.6,0.0,6.0,3,2.0,0.12
+Lodhran,Punjab,2013,6,18.6,18.6,0.0,29.0,8,9.0,0.62
+Lodhran,Punjab,2013,7,28.0,28.0,0.0,46.0,12,10.1,0.9
+Lodhran,Punjab,2013,8,117.4,117.4,0.0,125.0,14,22.5,3.79
+Lodhran,Punjab,2013,9,0.7,0.7,0.0,4.0,4,0.3,0.02
+Lodhran,Punjab,2013,10,2.1,2.1,0.0,3.0,2,1.9,0.07
+Lodhran,Punjab,2013,11,0.8,0.8,0.0,4.0,2,0.6,0.03
+Lodhran,Punjab,2013,12,0.0,0.0,0.0,0.0,0,0.0,0.0
+Lodhran,Punjab,2014,1,0.0,0.0,0.0,0.0,0,0.0,0.0
+Lodhran,Punjab,2014,2,2.5,2.5,0.0,13.0,7,0.7,0.09
+Lodhran,Punjab,2014,3,9.9,9.9,0.0,29.0,8,3.8,0.32
+Lodhran,Punjab,2014,4,11.5,11.5,0.0,15.0,4,10.5,0.38
+Lodhran,Punjab,2014,5,29.0,29.0,0.0,36.0,17,6.8,0.94
+Lodhran,Punjab,2014,6,1.3,1.3,0.0,4.0,3,1.0,0.04
+Lodhran,Punjab,2014,7,28.6,28.6,0.0,52.0,13,7.6,0.92
+Lodhran,Punjab,2014,8,10.8,10.8,0.0,34.0,11,2.1,0.35
+Lodhran,Punjab,2014,9,27.5,27.5,0.0,40.0,8,11.2,0.92
+Lodhran,Punjab,2014,10,8.7,8.7,0.0,11.0,2,6.3,0.28
+Lodhran,Punjab,2014,11,0.3,0.3,0.0,1.0,1,0.3,0.01
+Lodhran,Punjab,2014,12,0.0,0.0,0.0,0.0,0,0.0,0.0
+Lodhran,Punjab,2015,1,2.5,2.5,0.0,8.0,1,2.5,0.08
+Lodhran,Punjab,2015,2,5.2,5.2,0.0,17.0,5,3.0,0.19
+Lodhran,Punjab,2015,3,49.9,49.9,0.0,58.0,8,18.3,1.61
+Lodhran,Punjab,2015,4,28.8,28.8,0.0,24.0,6,13.1,0.96
+Lodhran,Punjab,2015,5,9.7,9.7,0.0,17.0,8,3.8,0.31
+Lodhran,Punjab,2015,6,8.9,8.9,0.0,23.0,10,4.1,0.3
+Lodhran,Punjab,2015,7,210.9,210.9,0.0,194.0,24,63.6,6.8
+Lodhran,Punjab,2015,8,67.7,67.7,0.0,80.0,12,29.3,2.18
+Lodhran,Punjab,2015,9,37.3,37.3,0.0,27.0,5,18.0,1.24
+Lodhran,Punjab,2015,10,6.9,6.9,0.0,12.0,2,5.8,0.22
+Lodhran,Punjab,2015,11,0.0,0.0,0.0,0.0,0,0.0,0.0
+Lodhran,Punjab,2015,12,0.0,0.0,0.0,0.0,0,0.0,0.0
+Lodhran,Punjab,2016,1,1.4,1.4,0.0,7.0,2,1.1,0.05
+Lodhran,Punjab,2016,2,5.7,5.7,0.0,13.0,1,5.7,0.2
+Lodhran,Punjab,2016,3,27.9,27.9,0.0,40.0,13,10.9,0.9
+Lodhran,Punjab,2016,4,0.7,0.7,0.0,5.0,4,0.2,0.02
+Lodhran,Punjab,2016,5,6.9,6.9,0.0,15.0,7,2.2,0.22
+Lodhran,Punjab,2016,6,9.8,9.8,0.0,21.0,8,3.2,0.33
+Lodhran,Punjab,2016,7,30.5,30.5,0.0,47.0,16,7.2,0.98
+Lodhran,Punjab,2016,8,74.9,74.9,0.0,104.0,19,10.1,2.42
+Lodhran,Punjab,2016,9,0.3,0.3,0.0,1.0,1,0.3,0.01
+Lodhran,Punjab,2016,10,0.8,0.8,0.0,3.0,3,0.3,0.03
+Lodhran,Punjab,2016,11,0.0,0.0,0.0,0.0,0,0.0,0.0
+Lodhran,Punjab,2016,12,0.0,0.0,0.0,0.0,0,0.0,0.0
+Lodhran,Punjab,2017,1,26.4,26.4,0.0,42.0,8,13.4,0.85
+Lodhran,Punjab,2017,2,2.2,2.2,0.0,10.0,6,1.0,0.08
+Lodhran,Punjab,2017,3,2.9,2.9,0.0,13.0,6,1.1,0.09
+Lodhran,Punjab,2017,4,4.2,4.2,0.0,5.0,5,2.2,0.14
+Lodhran,Punjab,2017,5,17.8,17.8,0.0,19.0,13,4.9,0.57
+Lodhran,Punjab,2017,6,61.1,61.1,0.0,65.0,15,19.1,2.04
+Lodhran,Punjab,2017,7,57.6,57.6,0.0,59.0,18,17.9,1.86
+Lodhran,Punjab,2017,8,62.8,62.8,0.0,41.0,7,33.2,2.03
+Lodhran,Punjab,2017,9,25.0,25.0,0.0,27.0,5,17.9,0.83
+Lodhran,Punjab,2017,10,0.0,0.0,0.0,0.0,0,0.0,0.0
+Lodhran,Punjab,2017,11,6.3,6.3,0.0,6.0,2,5.2,0.21
+Lodhran,Punjab,2017,12,19.9,19.9,0.0,24.0,4,16.3,0.64
+Lodhran,Punjab,2018,1,0.0,0.0,0.0,0.0,0,0.0,0.0
+Lodhran,Punjab,2018,2,4.4,4.4,0.0,17.0,5,1.7,0.16
+Lodhran,Punjab,2018,3,3.5,3.5,0.0,12.0,6,1.3,0.11
+Lodhran,Punjab,2018,4,4.3,4.3,0.0,18.0,7,1.8,0.14
+Lodhran,Punjab,2018,5,6.3,6.3,0.0,11.0,7,3.6,0.2
+Lodhran,Punjab,2018,6,49.5,49.5,0.0,41.0,8,21.9,1.65
+Lodhran,Punjab,2018,7,18.7,18.7,0.0,24.0,8,5.8,0.6
+Lodhran,Punjab,2018,8,11.2,11.2,0.0,17.0,4,8.4,0.36
+Lodhran,Punjab,2018,9,0.5,0.5,0.0,5.0,1,0.5,0.02
+Lodhran,Punjab,2018,10,0.0,0.0,0.0,0.0,0,0.0,0.0
+Lodhran,Punjab,2018,11,0.0,0.0,0.0,0.0,0,0.0,0.0
+Lodhran,Punjab,2018,12,1.8,1.8,0.0,5.0,2,1.1,0.06
+Lodhran,Punjab,2019,1,18.8,18.8,0.0,41.0,8,13.1,0.61
+Lodhran,Punjab,2019,2,35.0,35.0,0.0,50.0,10,19.1,1.25
+Lodhran,Punjab,2019,3,19.6,19.6,0.0,49.0,15,6.9,0.63
+Lodhran,Punjab,2019,4,16.3,16.3,0.0,13.0,7,12.6,0.54
+Lodhran,Punjab,2019,5,11.0,11.0,0.0,8.0,5,10.1,0.35
+Lodhran,Punjab,2019,6,4.4,4.4,0.0,14.0,4,2.7,0.15
+Lodhran,Punjab,2019,7,29.4,29.4,0.0,29.0,9,11.6,0.95
+Lodhran,Punjab,2019,8,46.8,46.8,0.0,72.0,16,20.1,1.51
+Lodhran,Punjab,2019,9,22.6,22.6,0.0,24.0,5,8.4,0.75
+Lodhran,Punjab,2019,10,38.7,38.7,0.0,23.0,7,17.7,1.25
+Lodhran,Punjab,2019,11,12.9,12.9,0.0,27.0,8,5.8,0.43
+Lodhran,Punjab,2019,12,7.9,7.9,0.0,16.0,3,7.6,0.25
+Lodhran,Punjab,2020,1,26.7,26.7,0.0,56.0,10,13.8,0.86
+Lodhran,Punjab,2020,2,1.5,1.5,0.0,5.0,1,1.5,0.05
+Lodhran,Punjab,2020,3,70.7,70.7,0.0,84.0,15,20.8,2.28
+Lodhran,Punjab,2020,4,0.7,0.7,0.0,2.0,2,0.6,0.02
+Lodhran,Punjab,2020,5,17.0,17.0,0.0,11.0,6,10.5,0.55
+Lodhran,Punjab,2020,6,5.5,5.5,0.0,5.0,4,3.0,0.18
+Lodhran,Punjab,2020,7,9.2,9.2,0.0,20.0,7,2.3,0.3
+Lodhran,Punjab,2020,8,128.9,128.9,0.0,95.0,17,94.8,4.16
+Lodhran,Punjab,2020,9,78.5,78.5,0.0,59.0,6,47.9,2.62
+Lodhran,Punjab,2020,10,0.0,0.0,0.0,0.0,0,0.0,0.0
+Lodhran,Punjab,2020,11,4.1,4.1,0.0,11.0,3,1.7,0.14
+Lodhran,Punjab,2020,12,5.6,5.6,0.0,16.0,2,4.2,0.18
+Lodhran,Punjab,2021,1,0.8,0.8,0.0,5.0,3,0.4,0.03
+Lodhran,Punjab,2021,2,0.0,0.0,0.0,0.0,0,0.0,0.0
+Lodhran,Punjab,2021,3,5.6,5.6,0.0,4.0,2,5.5,0.18
+Lodhran,Punjab,2021,4,8.8,8.8,0.0,13.0,3,8.4,0.29
+Lodhran,Punjab,2021,5,0.3,0.3,0.0,3.0,3,0.1,0.01
+Lodhran,Punjab,2021,6,14.7,14.7,0.0,17.0,7,11.6,0.49
+Lodhran,Punjab,2021,7,19.7,19.7,0.0,29.0,10,4.3,0.64
+Lodhran,Punjab,2021,8,5.3,5.3,0.0,10.0,3,3.9,0.17
+Lodhran,Punjab,2021,9,10.4,10.4,0.0,46.0,10,3.7,0.35
+Lodhran,Punjab,2021,10,0.3,0.3,0.0,2.0,1,0.3,0.01
+Lodhran,Punjab,2021,11,0.0,0.0,0.0,0.0,0,0.0,0.0
+Lodhran,Punjab,2021,12,0.1,0.1,0.0,1.0,1,0.1,0.0
+Lodhran,Punjab,2022,1,15.8,15.8,0.0,31.0,6,9.1,0.51
+Lodhran,Punjab,2022,2,1.3,1.3,0.0,6.0,2,1.1,0.05
+Lodhran,Punjab,2022,3,13.4,13.4,0.0,16.0,3,8.5,0.43
+Lodhran,Punjab,2022,4,0.0,0.0,0.0,0.0,0,0.0,0.0
+Lodhran,Punjab,2022,5,0.1,0.1,0.0,1.0,1,0.1,0.0
+Lodhran,Punjab,2022,6,37.1,37.1,0.0,19.0,3,35.1,1.24
+Lodhran,Punjab,2022,7,291.6,291.6,0.0,222.0,29,33.6,9.41
+Lodhran,Punjab,2022,8,61.1,61.1,0.0,133.0,27,14.5,1.97
+Lodhran,Punjab,2022,9,0.4,0.4,0.0,3.0,3,0.2,0.01
+Lodhran,Punjab,2022,10,0.0,0.0,0.0,0.0,0,0.0,0.0
+Lodhran,Punjab,2022,11,0.0,0.0,0.0,0.0,0,0.0,0.0
+Lodhran,Punjab,2022,12,2.9,2.9,0.0,3.0,1,2.9,0.09
+Lodhran,Punjab,2023,1,9.8,9.8,0.0,19.0,5,4.6,0.32
+Lodhran,Punjab,2023,2,0.4,0.4,0.0,1.0,1,0.4,0.01
+Lodhran,Punjab,2023,3,10.1,10.1,0.0,31.0,15,2.4,0.33
+Lodhran,Punjab,2023,4,15.2,15.2,0.0,15.0,8,6.4,0.51
+Lodhran,Punjab,2023,5,21.6,21.6,0.0,23.0,10,6.7,0.7
+Lodhran,Punjab,2023,6,4.0,4.0,0.0,7.0,6,1.5,0.13
+Lodhran,Punjab,2023,7,122.8,122.8,0.0,105.0,20,21.9,3.96
+Lodhran,Punjab,2023,8,3.6,3.6,0.0,4.0,2,3.3,0.12
+Lodhran,Punjab,2023,9,4.9,4.9,0.0,16.0,6,2.1,0.16
+Lodhran,Punjab,2023,10,31.0,31.0,0.0,13.0,5,17.9,1.0
+Lodhran,Punjab,2023,11,1.1,1.1,0.0,7.0,4,0.6,0.04
+Lodhran,Punjab,2023,12,0.6,0.6,0.0,3.0,1,0.6,0.02
+Lodhran,Punjab,2024,1,2.1,2.1,0.0,6.0,3,1.2,0.07
+Lodhran,Punjab,2024,2,12.3,12.3,0.0,17.0,4,4.6,0.42
+Lodhran,Punjab,2024,3,4.2,4.2,0.0,11.0,5,1.8,0.14
+Lodhran,Punjab,2024,4,10.2,10.2,0.0,11.0,4,7.4,0.34
+Lodhran,Punjab,2024,5,0.3,0.3,0.0,2.0,2,0.2,0.01
+Lodhran,Punjab,2024,6,2.5,2.5,0.0,5.0,5,2.0,0.08
+Lodhran,Punjab,2024,7,53.7,53.7,0.0,32.0,11,20.2,1.73
+Lodhran,Punjab,2024,8,212.8,212.8,0.0,189.0,24,43.5,6.86
+Lodhran,Punjab,2024,9,7.1,7.1,0.0,13.0,6,3.2,0.24
+Lodhran,Punjab,2024,10,6.5,6.5,0.0,5.0,2,6.2,0.21
+Lodhran,Punjab,2024,11,0.1,0.1,0.0,1.0,1,0.1,0.0
+Lodhran,Punjab,2024,12,2.5,2.5,0.0,6.0,2,2.3,0.08
+Lodhran,Punjab,2025,1,0.2,0.2,0.0,2.0,1,0.2,0.01
+Lodhran,Punjab,2025,2,17.8,17.8,0.0,27.0,7,11.5,0.64
+Lodhran,Punjab,2025,3,1.0,1.0,0.0,7.0,7,0.3,0.03
+Lodhran,Punjab,2025,4,0.0,0.0,0.0,0.0,0,0.0,0.0
+Lodhran,Punjab,2025,5,3.2,3.2,0.0,5.0,3,2.2,0.1
+Lodhran,Punjab,2025,6,16.6,16.6,0.0,12.0,5,10.1,0.55
+Lodhran,Punjab,2025,7,25.0,25.0,0.0,30.0,11,12.9,0.81
+Lodhran,Punjab,2025,8,31.8,31.8,0.0,47.0,14,22.5,1.03
+Lodhran,Punjab,2025,9,41.9,41.9,0.0,30.0,4,20.7,1.4
+Lodhran,Punjab,2025,10,1.3,1.3,0.0,9.0,2,1.2,0.04
+Lodhran,Punjab,2025,11,0.0,0.0,0.0,0.0,0,0.0,0.0
+Lodhran,Punjab,2025,12,2.8,2.8,0.0,6.0,1,2.8,0.09
+Multan,Punjab,2000,1,25.7,25.7,0.0,29.0,4,14.0,0.83
+Multan,Punjab,2000,2,21.9,21.9,0.0,34.0,3,16.0,0.76
+Multan,Punjab,2000,3,0.3,0.3,0.0,1.0,1,0.3,0.01
+Multan,Punjab,2000,4,1.7,1.7,0.0,4.0,3,1.4,0.06
+Multan,Punjab,2000,5,6.7,6.7,0.0,9.0,7,3.0,0.22
+Multan,Punjab,2000,6,5.6,5.6,0.0,8.0,6,2.6,0.19
+Multan,Punjab,2000,7,85.8,85.8,0.0,92.0,18,26.6,2.77
+Multan,Punjab,2000,8,6.6,6.6,0.0,17.0,7,2.1,0.21
+Multan,Punjab,2000,9,3.2,3.2,0.0,6.0,4,2.5,0.11
+Multan,Punjab,2000,10,2.2,2.2,0.0,2.0,2,1.4,0.07
+Multan,Punjab,2000,11,0.0,0.0,0.0,0.0,0,0.0,0.0
+Multan,Punjab,2000,12,7.0,7.0,0.0,14.0,1,7.0,0.23
+Multan,Punjab,2001,1,0.0,0.0,0.0,0.0,0,0.0,0.0
+Multan,Punjab,2001,2,1.8,1.8,0.0,11.0,4,0.8,0.06
+Multan,Punjab,2001,3,2.2,2.2,0.0,5.0,3,1.9,0.07
+Multan,Punjab,2001,4,29.9,29.9,0.0,24.0,6,16.2,1.0
+Multan,Punjab,2001,5,22.1,22.1,0.0,33.0,14,5.4,0.71
+Multan,Punjab,2001,6,59.5,59.5,0.0,55.0,15,21.2,1.98
+Multan,Punjab,2001,7,85.3,85.3,0.0,100.0,20,29.2,2.75
+Multan,Punjab,2001,8,24.0,24.0,0.0,40.0,11,7.1,0.77
+Multan,Punjab,2001,9,18.7,18.7,0.0,31.0,8,6.2,0.62
+Multan,Punjab,2001,10,1.2,1.2,0.0,2.0,2,0.7,0.04
+Multan,Punjab,2001,11,0.0,0.0,0.0,0.0,0,0.0,0.0
+Multan,Punjab,2001,12,0.5,0.5,0.0,3.0,1,0.5,0.02
+Multan,Punjab,2002,1,0.0,0.0,0.0,0.0,0,0.0,0.0
+Multan,Punjab,2002,2,4.3,4.3,0.0,16.0,5,1.8,0.15
+Multan,Punjab,2002,3,13.1,13.1,0.0,26.0,4,9.2,0.42
+Multan,Punjab,2002,4,4.6,4.6,0.0,11.0,3,2.5,0.15
+Multan,Punjab,2002,5,15.5,15.5,0.0,15.0,7,7.5,0.5
+Multan,Punjab,2002,6,15.3,15.3,0.0,28.0,12,3.4,0.51
+Multan,Punjab,2002,7,2.8,2.8,0.0,7.0,3,2.3,0.09
+Multan,Punjab,2002,8,15.0,15.0,0.0,15.0,6,6.8,0.48
+Multan,Punjab,2002,9,64.5,64.5,0.0,55.0,14,21.5,2.15
+Multan,Punjab,2002,10,2.6,2.6,0.0,4.0,2,1.5,0.08
+Multan,Punjab,2002,11,8.9,8.9,0.0,15.0,3,7.6,0.3
+Multan,Punjab,2002,12,8.2,8.2,0.0,17.0,3,7.2,0.26
+Multan,Punjab,2003,1,1.5,1.5,0.0,5.0,2,1.0,0.05
+Multan,Punjab,2003,2,31.3,31.3,0.0,54.0,8,17.1,1.12
+Multan,Punjab,2003,3,6.4,6.4,0.0,14.0,4,3.7,0.21
+Multan,Punjab,2003,4,3.8,3.8,0.0,4.0,3,2.3,0.13
+Multan,Punjab,2003,5,3.2,3.2,0.0,10.0,4,1.1,0.1
+Multan,Punjab,2003,6,9.9,9.9,0.0,15.0,6,3.6,0.33
+Multan,Punjab,2003,7,144.6,144.6,0.0,148.0,23,31.9,4.66
+Multan,Punjab,2003,8,64.9,64.9,0.0,91.0,16,14.8,2.09
+Multan,Punjab,2003,9,24.0,24.0,0.0,44.0,12,9.0,0.8
+Multan,Punjab,2003,10,0.0,0.0,0.0,0.0,0,0.0,0.0
+Multan,Punjab,2003,11,2.3,2.3,0.0,8.0,1,2.3,0.08
+Multan,Punjab,2003,12,0.2,0.2,0.0,2.0,2,0.1,0.01
+Multan,Punjab,2004,1,17.6,17.6,0.0,49.0,5,7.9,0.57
+Multan,Punjab,2004,2,2.1,2.1,0.0,5.0,1,2.1,0.07
+Multan,Punjab,2004,3,0.0,0.0,0.0,0.0,0,0.0,0.0
+Multan,Punjab,2004,4,3.3,3.3,0.0,12.0,5,1.3,0.11
+Multan,Punjab,2004,5,2.4,2.4,0.0,5.0,4,1.7,0.08
+Multan,Punjab,2004,6,18.8,18.8,0.0,19.0,11,5.5,0.63
+Multan,Punjab,2004,7,11.9,11.9,0.0,20.0,7,5.5,0.38
+Multan,Punjab,2004,8,69.8,69.8,0.0,91.0,19,21.3,2.25
+Multan,Punjab,2004,9,5.6,5.6,0.0,8.0,4,5.0,0.19
+Multan,Punjab,2004,10,21.7,21.7,0.0,33.0,5,12.7,0.7
+Multan,Punjab,2004,11,4.4,4.4,0.0,8.0,3,2.4,0.15
+Multan,Punjab,2004,12,34.4,34.4,0.0,27.0,2,29.3,1.11
+Multan,Punjab,2005,1,7.3,7.3,0.0,28.0,5,3.4,0.24
+Multan,Punjab,2005,2,56.4,56.4,0.0,108.0,18,18.7,2.01
+Multan,Punjab,2005,3,65.9,65.9,0.0,67.0,12,16.6,2.13
+Multan,Punjab,2005,4,6.8,6.8,0.0,11.0,6,2.8,0.23
+Multan,Punjab,2005,5,10.5,10.5,0.0,24.0,10,4.7,0.34
+Multan,Punjab,2005,6,13.7,13.7,0.0,18.0,8,3.1,0.46
+Multan,Punjab,2005,7,127.5,127.5,0.0,98.0,18,20.2,4.11
+Multan,Punjab,2005,8,19.9,19.9,0.0,32.0,11,11.9,0.64
+Multan,Punjab,2005,9,35.5,35.5,0.0,57.0,12,9.9,1.18
+Multan,Punjab,2005,10,0.2,0.2,0.0,1.0,1,0.2,0.01
+Multan,Punjab,2005,11,0.8,0.8,0.0,5.0,1,0.8,0.03
+Multan,Punjab,2005,12,0.1,0.1,0.0,1.0,1,0.1,0.0
+Multan,Punjab,2006,1,6.9,6.9,0.0,19.0,4,2.7,0.22
+Multan,Punjab,2006,2,2.1,2.1,0.0,2.0,1,2.1,0.08
+Multan,Punjab,2006,3,30.3,30.3,0.0,48.0,11,9.6,0.98
+Multan,Punjab,2006,4,1.6,1.6,0.0,5.0,4,1.0,0.05
+Multan,Punjab,2006,5,12.1,12.1,0.0,22.0,13,3.1,0.39
+Multan,Punjab,2006,6,35.3,35.3,0.0,28.0,12,12.9,1.18
+Multan,Punjab,2006,7,45.0,45.0,0.0,65.0,14,8.1,1.45
+Multan,Punjab,2006,8,124.5,124.5,0.0,117.0,23,23.3,4.02
+Multan,Punjab,2006,9,8.9,8.9,0.0,16.0,6,3.2,0.3
+Multan,Punjab,2006,10,11.0,11.0,0.0,7.0,3,6.3,0.35
+Multan,Punjab,2006,11,14.7,14.7,0.0,23.0,7,3.8,0.49
+Multan,Punjab,2006,12,28.2,28.2,0.0,44.0,6,11.7,0.91
+Multan,Punjab,2007,1,0.7,0.7,0.0,5.0,2,0.6,0.02
+Multan,Punjab,2007,2,56.8,56.8,0.0,79.0,10,13.8,2.03
+Multan,Punjab,2007,3,27.4,27.4,0.0,45.0,8,11.5,0.88
+Multan,Punjab,2007,4,4.9,4.9,0.0,9.0,5,2.4,0.16
+Multan,Punjab,2007,5,3.5,3.5,0.0,11.0,7,1.3,0.11
+Multan,Punjab,2007,6,49.2,49.2,0.0,64.0,12,11.1,1.64
+Multan,Punjab,2007,7,58.4,58.4,0.0,73.0,15,19.0,1.88
+Multan,Punjab,2007,8,30.5,30.5,0.0,44.0,13,8.7,0.98
+Multan,Punjab,2007,9,44.4,44.4,0.0,44.0,14,12.3,1.48
+Multan,Punjab,2007,10,0.0,0.0,0.0,0.0,0,0.0,0.0
+Multan,Punjab,2007,11,0.0,0.0,0.0,0.0,0,0.0,0.0
+Multan,Punjab,2007,12,13.1,13.1,0.0,15.0,3,11.9,0.42
+Multan,Punjab,2008,1,23.4,23.4,0.0,38.0,7,12.8,0.75
+Multan,Punjab,2008,2,8.2,8.2,0.0,32.0,4,5.0,0.28
+Multan,Punjab,2008,3,1.7,1.7,0.0,4.0,2,1.1,0.05
+Multan,Punjab,2008,4,31.4,31.4,0.0,39.0,10,16.1,1.05
+Multan,Punjab,2008,5,19.9,19.9,0.0,21.0,12,8.0,0.64
+Multan,Punjab,2008,6,55.5,55.5,0.0,43.0,15,13.4,1.85
+Multan,Punjab,2008,7,55.1,55.1,0.0,55.0,11,18.7,1.78
+Multan,Punjab,2008,8,118.9,118.9,0.0,137.0,17,40.7,3.84
+Multan,Punjab,2008,9,17.9,17.9,0.0,22.0,8,6.1,0.6
+Multan,Punjab,2008,10,0.1,0.1,0.0,1.0,1,0.1,0.0
+Multan,Punjab,2008,11,0.0,0.0,0.0,0.0,0,0.0,0.0
+Multan,Punjab,2008,12,64.1,64.1,0.0,82.0,7,24.2,2.07
+Multan,Punjab,2009,1,19.1,19.1,0.0,35.0,5,11.5,0.62
+Multan,Punjab,2009,2,0.6,0.6,0.0,2.0,1,0.6,0.02
+Multan,Punjab,2009,3,26.1,26.1,0.0,27.0,8,12.3,0.84
+Multan,Punjab,2009,4,21.5,21.5,0.0,19.0,8,13.3,0.72
+Multan,Punjab,2009,5,10.0,10.0,0.0,17.0,10,2.6,0.32
+Multan,Punjab,2009,6,8.3,8.3,0.0,19.0,9,1.8,0.28
+Multan,Punjab,2009,7,54.2,54.2,0.0,53.0,11,14.9,1.75
+Multan,Punjab,2009,8,48.7,48.7,0.0,52.0,13,12.2,1.57
+Multan,Punjab,2009,9,9.9,9.9,0.0,19.0,4,4.6,0.33
+Multan,Punjab,2009,10,3.9,3.9,0.0,11.0,6,2.6,0.13
+Multan,Punjab,2009,11,0.0,0.0,0.0,0.0,0,0.0,0.0
+Multan,Punjab,2009,12,1.0,1.0,0.0,4.0,2,0.8,0.03
+Multan,Punjab,2010,1,2.9,2.9,0.0,11.0,3,1.2,0.09
+Multan,Punjab,2010,2,0.8,0.8,0.0,3.0,1,0.8,0.03
+Multan,Punjab,2010,3,23.1,23.1,0.0,27.0,4,10.9,0.75
+Multan,Punjab,2010,4,6.5,6.5,0.0,10.0,5,3.8,0.22
+Multan,Punjab,2010,5,3.6,3.6,0.0,14.0,6,2.3,0.12
+Multan,Punjab,2010,6,15.5,15.5,0.0,28.0,12,5.8,0.52
+Multan,Punjab,2010,7,94.6,94.6,0.0,104.0,17,50.6,3.05
+Multan,Punjab,2010,8,213.7,213.7,0.0,202.0,21,39.1,6.89
+Multan,Punjab,2010,9,27.8,27.8,0.0,52.0,10,7.6,0.93
+Multan,Punjab,2010,10,1.9,1.9,0.0,2.0,2,1.0,0.06
+Multan,Punjab,2010,11,0.0,0.0,0.0,0.0,0,0.0,0.0
+Multan,Punjab,2010,12,0.1,0.1,0.0,1.0,1,0.1,0.0
+Multan,Punjab,2011,1,0.6,0.6,0.0,4.0,2,0.4,0.02
+Multan,Punjab,2011,2,18.6,18.6,0.0,43.0,11,5.7,0.66
+Multan,Punjab,2011,3,8.7,8.7,0.0,15.0,4,3.8,0.28
+Multan,Punjab,2011,4,13.4,13.4,0.0,19.0,7,8.8,0.45
+Multan,Punjab,2011,5,11.2,11.2,0.0,17.0,8,5.5,0.36
+Multan,Punjab,2011,6,19.6,19.6,0.0,30.0,10,11.0,0.65
+Multan,Punjab,2011,7,69.7,69.7,0.0,77.0,16,22.7,2.25
+Multan,Punjab,2011,8,127.5,127.5,0.0,141.0,24,21.8,4.11
+Multan,Punjab,2011,9,101.9,101.9,0.0,116.0,18,20.1,3.4
+Multan,Punjab,2011,10,0.3,0.3,0.0,3.0,2,0.2,0.01
+Multan,Punjab,2011,11,0.0,0.0,0.0,0.0,0,0.0,0.0
+Multan,Punjab,2011,12,0.0,0.0,0.0,0.0,0,0.0,0.0
+Multan,Punjab,2012,1,4.2,4.2,0.0,10.0,4,2.0,0.14
+Multan,Punjab,2012,2,10.5,10.5,0.0,27.0,6,3.7,0.36
+Multan,Punjab,2012,3,2.4,2.4,0.0,5.0,1,2.4,0.08
+Multan,Punjab,2012,4,15.0,15.0,0.0,29.0,14,2.6,0.5
+Multan,Punjab,2012,5,3.7,3.7,0.0,7.0,6,1.9,0.12
+Multan,Punjab,2012,6,17.8,17.8,0.0,29.0,15,2.5,0.59
+Multan,Punjab,2012,7,43.7,43.7,0.0,44.0,12,19.5,1.41
+Multan,Punjab,2012,8,58.2,58.2,0.0,91.0,18,13.8,1.88
+Multan,Punjab,2012,9,198.6,198.6,0.0,169.0,16,38.0,6.62
+Multan,Punjab,2012,10,5.4,5.4,0.0,8.0,4,1.8,0.17
+Multan,Punjab,2012,11,1.6,1.6,0.0,5.0,3,0.7,0.05
+Multan,Punjab,2012,12,5.4,5.4,0.0,13.0,2,5.2,0.17
+Multan,Punjab,2013,1,1.1,1.1,0.0,3.0,2,0.8,0.04
+Multan,Punjab,2013,2,74.9,74.9,0.0,87.0,8,18.9,2.68
+Multan,Punjab,2013,3,20.6,20.6,0.0,29.0,8,6.6,0.66
+Multan,Punjab,2013,4,7.5,7.5,0.0,13.0,10,2.0,0.25
+Multan,Punjab,2013,5,3.5,3.5,0.0,7.0,4,1.5,0.11
+Multan,Punjab,2013,6,23.4,23.4,0.0,26.0,8,13.6,0.78
+Multan,Punjab,2013,7,50.4,50.4,0.0,59.0,15,13.8,1.63
+Multan,Punjab,2013,8,107.5,107.5,0.0,139.0,16,23.0,3.47
+Multan,Punjab,2013,9,2.2,2.2,0.0,4.0,4,1.7,0.07
+Multan,Punjab,2013,10,2.1,2.1,0.0,6.0,5,0.9,0.07
+Multan,Punjab,2013,11,4.2,4.2,0.0,9.0,2,4.1,0.14
+Multan,Punjab,2013,12,0.2,0.2,0.0,1.0,1,0.2,0.01
+Multan,Punjab,2014,1,0.0,0.0,0.0,0.0,0,0.0,0.0
+Multan,Punjab,2014,2,18.1,18.1,0.0,44.0,7,7.7,0.65
+Multan,Punjab,2014,3,22.5,22.5,0.0,33.0,8,11.0,0.73
+Multan,Punjab,2014,4,27.4,27.4,0.0,24.0,5,15.6,0.91
+Multan,Punjab,2014,5,36.6,36.6,0.0,30.0,14,10.9,1.18
+Multan,Punjab,2014,6,10.9,10.9,0.0,11.0,7,4.7,0.36
+Multan,Punjab,2014,7,52.2,52.2,0.0,57.0,16,11.7,1.68
+Multan,Punjab,2014,8,11.8,11.8,0.0,20.0,8,4.4,0.38
+Multan,Punjab,2014,9,29.6,29.6,0.0,43.0,9,8.6,0.99
+Multan,Punjab,2014,10,19.6,19.6,0.0,18.0,3,12.5,0.63
+Multan,Punjab,2014,11,0.5,0.5,0.0,4.0,1,0.5,0.02
+Multan,Punjab,2014,12,0.0,0.0,0.0,0.0,0,0.0,0.0
+Multan,Punjab,2015,1,8.6,8.6,0.0,21.0,4,7.9,0.28
+Multan,Punjab,2015,2,24.7,24.7,0.0,40.0,8,10.1,0.88
+Multan,Punjab,2015,3,59.7,59.7,0.0,76.0,11,20.0,1.93
+Multan,Punjab,2015,4,41.0,41.0,0.0,33.0,8,11.9,1.37
+Multan,Punjab,2015,5,10.9,10.9,0.0,24.0,11,2.7,0.35
+Multan,Punjab,2015,6,29.1,29.1,0.0,31.0,12,21.9,0.97
+Multan,Punjab,2015,7,213.4,213.4,0.0,195.0,24,35.5,6.88
+Multan,Punjab,2015,8,52.2,52.2,0.0,74.0,15,17.8,1.68
+Multan,Punjab,2015,9,11.1,11.1,0.0,18.0,8,5.3,0.37
+Multan,Punjab,2015,10,5.6,5.6,0.0,9.0,4,2.8,0.18
+Multan,Punjab,2015,11,0.2,0.2,0.0,1.0,1,0.2,0.01
+Multan,Punjab,2015,12,0.6,0.6,0.0,2.0,2,0.5,0.02
+Multan,Punjab,2016,1,6.9,6.9,0.0,17.0,4,4.2,0.22
+Multan,Punjab,2016,2,2.9,2.9,0.0,10.0,1,2.9,0.1
+Multan,Punjab,2016,3,22.8,22.8,0.0,49.0,10,6.5,0.74
+Multan,Punjab,2016,4,7.9,7.9,0.0,21.0,7,2.5,0.26
+Multan,Punjab,2016,5,10.5,10.5,0.0,14.0,9,4.2,0.34
+Multan,Punjab,2016,6,18.8,18.8,0.0,18.0,6,12.3,0.63
+Multan,Punjab,2016,7,47.2,47.2,0.0,80.0,17,8.0,1.52
+Multan,Punjab,2016,8,94.5,94.5,0.0,119.0,26,20.7,3.05
+Multan,Punjab,2016,9,2.3,2.3,0.0,8.0,3,1.3,0.08
+Multan,Punjab,2016,10,2.5,2.5,0.0,4.0,3,1.5,0.08
+Multan,Punjab,2016,11,0.0,0.0,0.0,0.0,0,0.0,0.0
+Multan,Punjab,2016,12,0.0,0.0,0.0,0.0,0,0.0,0.0
+Multan,Punjab,2017,1,33.1,33.1,0.0,56.0,8,8.3,1.07
+Multan,Punjab,2017,2,5.8,5.8,0.0,17.0,5,4.7,0.21
+Multan,Punjab,2017,3,5.4,5.4,0.0,13.0,6,2.0,0.17
+Multan,Punjab,2017,4,7.4,7.4,0.0,14.0,7,3.3,0.25
+Multan,Punjab,2017,5,11.2,11.2,0.0,19.0,15,2.0,0.36
+Multan,Punjab,2017,6,68.8,68.8,0.0,48.0,17,17.9,2.29
+Multan,Punjab,2017,7,45.9,45.9,0.0,62.0,18,14.6,1.48
+Multan,Punjab,2017,8,53.0,53.0,0.0,44.0,14,23.5,1.71
+Multan,Punjab,2017,9,29.7,29.7,0.0,39.0,10,17.0,0.99
+Multan,Punjab,2017,10,0.0,0.0,0.0,0.0,0,0.0,0.0
+Multan,Punjab,2017,11,10.7,10.7,0.0,13.0,3,7.3,0.36
+Multan,Punjab,2017,12,20.5,20.5,0.0,27.0,5,17.2,0.66
+Multan,Punjab,2018,1,0.0,0.0,0.0,0.0,0,0.0,0.0
+Multan,Punjab,2018,2,23.9,23.9,0.0,37.0,6,11.7,0.85
+Multan,Punjab,2018,3,4.2,4.2,0.0,17.0,5,1.2,0.14
+Multan,Punjab,2018,4,11.3,11.3,0.0,17.0,8,2.6,0.38
+Multan,Punjab,2018,5,13.8,13.8,0.0,14.0,9,3.0,0.45
+Multan,Punjab,2018,6,21.7,21.7,0.0,29.0,9,9.2,0.72
+Multan,Punjab,2018,7,39.8,39.8,0.0,59.0,12,8.8,1.28
+Multan,Punjab,2018,8,9.2,9.2,0.0,23.0,6,4.0,0.3
+Multan,Punjab,2018,9,1.3,1.3,0.0,2.0,2,0.9,0.04
+Multan,Punjab,2018,10,0.0,0.0,0.0,0.0,0,0.0,0.0
+Multan,Punjab,2018,11,0.2,0.2,0.0,1.0,1,0.2,0.01
+Multan,Punjab,2018,12,0.1,0.1,0.0,1.0,1,0.1,0.0
+Multan,Punjab,2019,1,18.5,18.5,0.0,50.0,9,7.3,0.6
+Multan,Punjab,2019,2,27.0,27.0,0.0,42.0,11,17.2,0.96
+Multan,Punjab,2019,3,33.7,33.7,0.0,57.0,10,10.2,1.09
+Multan,Punjab,2019,4,41.5,41.5,0.0,30.0,8,21.8,1.38
+Multan,Punjab,2019,5,20.1,20.1,0.0,11.0,5,16.0,0.65
+Multan,Punjab,2019,6,11.4,11.4,0.0,16.0,6,10.1,0.38
+Multan,Punjab,2019,7,37.3,37.3,0.0,54.0,12,11.1,1.2
+Multan,Punjab,2019,8,90.8,90.8,0.0,94.0,18,21.4,2.93
+Multan,Punjab,2019,9,28.0,28.0,0.0,26.0,5,12.3,0.93
+Multan,Punjab,2019,10,67.0,67.0,0.0,22.0,7,31.0,2.16
+Multan,Punjab,2019,11,14.3,14.3,0.0,26.0,9,4.6,0.48
+Multan,Punjab,2019,12,6.0,6.0,0.0,17.0,3,5.5,0.19
+Multan,Punjab,2020,1,38.0,38.0,0.0,68.0,11,11.2,1.23
+Multan,Punjab,2020,2,8.9,8.9,0.0,9.0,4,6.8,0.31
+Multan,Punjab,2020,3,95.4,95.4,0.0,121.0,15,29.9,3.08
+Multan,Punjab,2020,4,3.4,3.4,0.0,12.0,3,2.8,0.11
+Multan,Punjab,2020,5,9.9,9.9,0.0,17.0,7,3.5,0.32
+Multan,Punjab,2020,6,4.4,4.4,0.0,11.0,6,2.1,0.15
+Multan,Punjab,2020,7,19.2,19.2,0.0,15.0,6,14.5,0.62
+Multan,Punjab,2020,8,124.9,124.9,0.0,83.0,12,82.9,4.03
+Multan,Punjab,2020,9,29.2,29.2,0.0,46.0,5,15.2,0.97
+Multan,Punjab,2020,10,0.0,0.0,0.0,0.0,0,0.0,0.0
+Multan,Punjab,2020,11,4.0,4.0,0.0,14.0,3,2.6,0.13
+Multan,Punjab,2020,12,11.9,11.9,0.0,20.0,2,8.1,0.38
+Multan,Punjab,2021,1,1.8,1.8,0.0,7.0,3,1.4,0.06
+Multan,Punjab,2021,2,0.2,0.2,0.0,1.0,1,0.2,0.01
+Multan,Punjab,2021,3,7.2,7.2,0.0,6.0,2,6.8,0.23
+Multan,Punjab,2021,4,6.8,6.8,0.0,16.0,3,5.8,0.23
+Multan,Punjab,2021,5,0.1,0.1,0.0,1.0,1,0.1,0.0
+Multan,Punjab,2021,6,18.5,18.5,0.0,23.0,8,14.3,0.62
+Multan,Punjab,2021,7,42.1,42.1,0.0,49.0,11,9.0,1.36
+Multan,Punjab,2021,8,10.6,10.6,0.0,19.0,9,3.7,0.34
+Multan,Punjab,2021,9,10.4,10.4,0.0,35.0,7,2.2,0.35
+Multan,Punjab,2021,10,0.6,0.6,0.0,4.0,2,0.5,0.02
+Multan,Punjab,2021,11,0.0,0.0,0.0,0.0,0,0.0,0.0
+Multan,Punjab,2021,12,3.3,3.3,0.0,7.0,2,2.9,0.11
+Multan,Punjab,2022,1,21.9,21.9,0.0,32.0,6,9.7,0.71
+Multan,Punjab,2022,2,0.9,0.9,0.0,5.0,3,0.5,0.03
+Multan,Punjab,2022,3,21.7,21.7,0.0,18.0,3,13.9,0.7
+Multan,Punjab,2022,4,0.0,0.0,0.0,0.0,0,0.0,0.0
+Multan,Punjab,2022,5,0.0,0.0,0.0,0.0,0,0.0,0.0
+Multan,Punjab,2022,6,45.6,45.6,0.0,32.0,8,22.3,1.52
+Multan,Punjab,2022,7,274.4,274.4,0.0,236.0,28,25.1,8.85
+Multan,Punjab,2022,8,103.6,103.6,0.0,133.0,24,33.5,3.34
+Multan,Punjab,2022,9,9.5,9.5,0.0,10.0,6,7.1,0.32
+Multan,Punjab,2022,10,0.0,0.0,0.0,0.0,0,0.0,0.0
+Multan,Punjab,2022,11,3.9,3.9,0.0,5.0,2,3.6,0.13
+Multan,Punjab,2022,12,6.9,6.9,0.0,8.0,2,6.7,0.22
+Multan,Punjab,2023,1,2.1,2.1,0.0,9.0,2,2.0,0.07
+Multan,Punjab,2023,2,0.2,0.2,0.0,2.0,1,0.2,0.01
+Multan,Punjab,2023,3,29.6,29.6,0.0,52.0,14,10.3,0.95
+Multan,Punjab,2023,4,9.6,9.6,0.0,16.0,10,3.7,0.32
+Multan,Punjab,2023,5,36.6,36.6,0.0,33.0,10,8.0,1.18
+Multan,Punjab,2023,6,12.9,12.9,0.0,17.0,8,3.2,0.43
+Multan,Punjab,2023,7,140.0,140.0,0.0,87.0,17,27.5,4.52
+Multan,Punjab,2023,8,9.0,9.0,0.0,9.0,3,4.6,0.29
+Multan,Punjab,2023,9,2.6,2.6,0.0,10.0,5,1.3,0.09
+Multan,Punjab,2023,10,48.9,48.9,0.0,19.0,8,20.5,1.58
+Multan,Punjab,2023,11,3.6,3.6,0.0,11.0,7,2.3,0.12
+Multan,Punjab,2023,12,0.1,0.1,0.0,1.0,1,0.1,0.0
+Multan,Punjab,2024,1,0.4,0.4,0.0,4.0,1,0.4,0.01
+Multan,Punjab,2024,2,12.6,12.6,0.0,24.0,7,5.2,0.43
+Multan,Punjab,2024,3,20.6,20.6,0.0,25.0,9,10.7,0.66
+Multan,Punjab,2024,4,10.8,10.8,0.0,18.0,6,6.0,0.36
+Multan,Punjab,2024,5,4.7,4.7,0.0,3.0,3,4.5,0.15
+Multan,Punjab,2024,6,30.7,30.7,0.0,15.0,7,24.1,1.02
+Multan,Punjab,2024,7,57.0,57.0,0.0,35.0,11,25.0,1.84
+Multan,Punjab,2024,8,233.4,233.4,0.0,214.0,26,31.9,7.53
+Multan,Punjab,2024,9,14.6,14.6,0.0,21.0,8,7.9,0.49
+Multan,Punjab,2024,10,1.3,1.3,0.0,3.0,2,1.2,0.04
+Multan,Punjab,2024,11,2.7,2.7,0.0,6.0,2,2.3,0.09
+Multan,Punjab,2024,12,2.2,2.2,0.0,3.0,2,2.0,0.07
+Multan,Punjab,2025,1,0.0,0.0,0.0,0.0,0,0.0,0.0
+Multan,Punjab,2025,2,18.3,18.3,0.0,27.0,9,11.5,0.65
+Multan,Punjab,2025,3,0.2,0.2,0.0,2.0,2,0.1,0.01
+Multan,Punjab,2025,4,0.1,0.1,0.0,1.0,1,0.1,0.0
+Multan,Punjab,2025,5,1.8,1.8,0.0,5.0,5,0.7,0.06
+Multan,Punjab,2025,6,16.9,16.9,0.0,8.0,4,16.4,0.56
+Multan,Punjab,2025,7,52.1,52.1,0.0,37.0,14,22.7,1.68
+Multan,Punjab,2025,8,46.9,46.9,0.0,49.0,11,26.2,1.51
+Multan,Punjab,2025,9,56.6,56.6,0.0,37.0,9,31.4,1.89
+Multan,Punjab,2025,10,4.3,4.3,0.0,6.0,2,4.2,0.14
+Multan,Punjab,2025,11,0.0,0.0,0.0,0.0,0,0.0,0.0
+Multan,Punjab,2025,12,4.5,4.5,0.0,8.0,1,4.5,0.15
+Muzaffargarh,Punjab,2000,1,16.8,16.8,0.0,20.0,4,11.4,0.54
+Muzaffargarh,Punjab,2000,2,20.2,20.2,0.0,30.0,3,15.5,0.7
+Muzaffargarh,Punjab,2000,3,0.0,0.0,0.0,0.0,0,0.0,0.0
+Muzaffargarh,Punjab,2000,4,2.4,2.4,0.0,3.0,2,2.0,0.08
+Muzaffargarh,Punjab,2000,5,4.1,4.1,0.0,8.0,6,2.0,0.13
+Muzaffargarh,Punjab,2000,6,5.0,5.0,0.0,8.0,6,1.5,0.17
+Muzaffargarh,Punjab,2000,7,58.9,58.9,0.0,67.0,17,19.0,1.9
+Muzaffargarh,Punjab,2000,8,6.5,6.5,0.0,7.0,4,2.8,0.21
+Muzaffargarh,Punjab,2000,9,1.2,1.2,0.0,5.0,3,0.5,0.04
+Muzaffargarh,Punjab,2000,10,0.0,0.0,0.0,0.0,0,0.0,0.0
+Muzaffargarh,Punjab,2000,11,0.0,0.0,0.0,0.0,0,0.0,0.0
+Muzaffargarh,Punjab,2000,12,3.4,3.4,0.0,6.0,1,3.4,0.11
+Muzaffargarh,Punjab,2001,1,0.0,0.0,0.0,0.0,0,0.0,0.0
+Muzaffargarh,Punjab,2001,2,1.5,1.5,0.0,6.0,4,0.7,0.05
+Muzaffargarh,Punjab,2001,3,0.8,0.8,0.0,5.0,4,0.5,0.03
+Muzaffargarh,Punjab,2001,4,22.2,22.2,0.0,23.0,6,13.7,0.74
+Muzaffargarh,Punjab,2001,5,18.5,18.5,0.0,18.0,9,6.3,0.6
+Muzaffargarh,Punjab,2001,6,42.5,42.5,0.0,34.0,14,20.2,1.42
+Muzaffargarh,Punjab,2001,7,79.0,79.0,0.0,90.0,17,24.0,2.55
+Muzaffargarh,Punjab,2001,8,19.3,19.3,0.0,40.0,10,4.4,0.62
+Muzaffargarh,Punjab,2001,9,13.3,13.3,0.0,21.0,8,5.8,0.44
+Muzaffargarh,Punjab,2001,10,0.0,0.0,0.0,0.0,0,0.0,0.0
+Muzaffargarh,Punjab,2001,11,0.0,0.0,0.0,0.0,0,0.0,0.0
+Muzaffargarh,Punjab,2001,12,0.9,0.9,0.0,4.0,1,0.9,0.03
+Muzaffargarh,Punjab,2002,1,0.0,0.0,0.0,0.0,0,0.0,0.0
+Muzaffargarh,Punjab,2002,2,1.9,1.9,0.0,7.0,5,0.9,0.07
+Muzaffargarh,Punjab,2002,3,10.5,10.5,0.0,24.0,4,6.1,0.34
+Muzaffargarh,Punjab,2002,4,4.5,4.5,0.0,10.0,4,3.1,0.15
+Muzaffargarh,Punjab,2002,5,10.2,10.2,0.0,10.0,6,6.1,0.33
+Muzaffargarh,Punjab,2002,6,8.5,8.5,0.0,19.0,11,1.6,0.28
+Muzaffargarh,Punjab,2002,7,1.0,1.0,0.0,4.0,3,0.6,0.03
+Muzaffargarh,Punjab,2002,8,6.0,6.0,0.0,12.0,8,3.9,0.19
+Muzaffargarh,Punjab,2002,9,51.5,51.5,0.0,41.0,12,16.9,1.72
+Muzaffargarh,Punjab,2002,10,0.4,0.4,0.0,1.0,1,0.4,0.01
+Muzaffargarh,Punjab,2002,11,4.4,4.4,0.0,11.0,2,3.2,0.15
+Muzaffargarh,Punjab,2002,12,6.5,6.5,0.0,13.0,2,6.1,0.21
+Muzaffargarh,Punjab,2003,1,2.9,2.9,0.0,6.0,3,1.9,0.09
+Muzaffargarh,Punjab,2003,2,27.7,27.7,0.0,43.0,6,15.4,0.99
+Muzaffargarh,Punjab,2003,3,11.3,11.3,0.0,13.0,4,7.6,0.36
+Muzaffargarh,Punjab,2003,4,2.2,2.2,0.0,4.0,4,0.9,0.07
+Muzaffargarh,Punjab,2003,5,4.3,4.3,0.0,7.0,4,2.6,0.14
+Muzaffargarh,Punjab,2003,6,9.2,9.2,0.0,10.0,5,3.9,0.31
+Muzaffargarh,Punjab,2003,7,120.5,120.5,0.0,141.0,22,22.9,3.89
+Muzaffargarh,Punjab,2003,8,68.1,68.1,0.0,83.0,16,16.5,2.2
+Muzaffargarh,Punjab,2003,9,16.5,16.5,0.0,29.0,13,9.3,0.55
+Muzaffargarh,Punjab,2003,10,0.0,0.0,0.0,0.0,0,0.0,0.0
+Muzaffargarh,Punjab,2003,11,0.0,0.0,0.0,0.0,0,0.0,0.0
+Muzaffargarh,Punjab,2003,12,0.0,0.0,0.0,0.0,0,0.0,0.0
+Muzaffargarh,Punjab,2004,1,14.8,14.8,0.0,40.0,5,7.3,0.48
+Muzaffargarh,Punjab,2004,2,1.2,1.2,0.0,5.0,2,1.1,0.04
+Muzaffargarh,Punjab,2004,3,0.0,0.0,0.0,0.0,0,0.0,0.0
+Muzaffargarh,Punjab,2004,4,2.6,2.6,0.0,6.0,4,1.3,0.09
+Muzaffargarh,Punjab,2004,5,5.4,5.4,0.0,5.0,3,3.2,0.17
+Muzaffargarh,Punjab,2004,6,15.8,15.8,0.0,20.0,10,7.2,0.53
+Muzaffargarh,Punjab,2004,7,13.3,13.3,0.0,16.0,6,6.5,0.43
+Muzaffargarh,Punjab,2004,8,62.5,62.5,0.0,79.0,20,20.4,2.02
+Muzaffargarh,Punjab,2004,9,8.4,8.4,0.0,6.0,4,7.3,0.28
+Muzaffargarh,Punjab,2004,10,17.8,17.8,0.0,22.0,3,11.2,0.57
+Muzaffargarh,Punjab,2004,11,0.6,0.6,0.0,2.0,1,0.6,0.02
+Muzaffargarh,Punjab,2004,12,40.5,40.5,0.0,31.0,2,34.4,1.31
+Muzaffargarh,Punjab,2005,1,5.5,5.5,0.0,18.0,4,3.2,0.18
+Muzaffargarh,Punjab,2005,2,49.5,49.5,0.0,99.0,15,14.6,1.77
+Muzaffargarh,Punjab,2005,3,68.2,68.2,0.0,66.0,12,20.0,2.2
+Muzaffargarh,Punjab,2005,4,7.3,7.3,0.0,16.0,8,2.3,0.24
+Muzaffargarh,Punjab,2005,5,10.5,10.5,0.0,13.0,6,4.1,0.34
+Muzaffargarh,Punjab,2005,6,9.4,9.4,0.0,14.0,8,3.2,0.31
+Muzaffargarh,Punjab,2005,7,95.4,95.4,0.0,83.0,17,16.6,3.08
+Muzaffargarh,Punjab,2005,8,14.9,14.9,0.0,19.0,8,12.0,0.48
+Muzaffargarh,Punjab,2005,9,25.4,25.4,0.0,47.0,11,7.9,0.85
+Muzaffargarh,Punjab,2005,10,0.5,0.5,0.0,2.0,2,0.3,0.02
+Muzaffargarh,Punjab,2005,11,0.2,0.2,0.0,2.0,1,0.2,0.01
+Muzaffargarh,Punjab,2005,12,0.0,0.0,0.0,0.0,0,0.0,0.0
+Muzaffargarh,Punjab,2006,1,5.2,5.2,0.0,19.0,4,2.6,0.17
+Muzaffargarh,Punjab,2006,2,1.2,1.2,0.0,4.0,2,1.0,0.04
+Muzaffargarh,Punjab,2006,3,21.5,21.5,0.0,39.0,11,7.6,0.69
+Muzaffargarh,Punjab,2006,4,2.1,2.1,0.0,5.0,3,1.6,0.07
+Muzaffargarh,Punjab,2006,5,13.4,13.4,0.0,20.0,14,2.6,0.43
+Muzaffargarh,Punjab,2006,6,19.9,19.9,0.0,25.0,13,8.5,0.66
+Muzaffargarh,Punjab,2006,7,45.3,45.3,0.0,62.0,13,12.3,1.46
+Muzaffargarh,Punjab,2006,8,108.1,108.1,0.0,96.0,20,24.8,3.49
+Muzaffargarh,Punjab,2006,9,8.4,8.4,0.0,11.0,5,4.4,0.28
+Muzaffargarh,Punjab,2006,10,8.4,8.4,0.0,5.0,2,6.5,0.27
+Muzaffargarh,Punjab,2006,11,9.2,9.2,0.0,20.0,8,3.3,0.31
+Muzaffargarh,Punjab,2006,12,26.5,26.5,0.0,41.0,5,11.5,0.85
+Muzaffargarh,Punjab,2007,1,0.2,0.2,0.0,1.0,1,0.2,0.01
+Muzaffargarh,Punjab,2007,2,47.4,47.4,0.0,73.0,11,11.0,1.69
+Muzaffargarh,Punjab,2007,3,24.4,24.4,0.0,33.0,7,14.1,0.79
+Muzaffargarh,Punjab,2007,4,3.6,3.6,0.0,8.0,5,1.3,0.12
+Muzaffargarh,Punjab,2007,5,5.5,5.5,0.0,9.0,7,1.5,0.18
+Muzaffargarh,Punjab,2007,6,48.6,48.6,0.0,55.0,12,11.1,1.62
+Muzaffargarh,Punjab,2007,7,41.2,41.2,0.0,54.0,13,12.4,1.33
+Muzaffargarh,Punjab,2007,8,19.1,19.1,0.0,38.0,14,7.6,0.62
+Muzaffargarh,Punjab,2007,9,25.4,25.4,0.0,42.0,18,4.8,0.85
+Muzaffargarh,Punjab,2007,10,0.0,0.0,0.0,0.0,0,0.0,0.0
+Muzaffargarh,Punjab,2007,11,0.0,0.0,0.0,0.0,0,0.0,0.0
+Muzaffargarh,Punjab,2007,12,11.5,11.5,0.0,14.0,3,10.4,0.37
+Muzaffargarh,Punjab,2008,1,20.4,20.4,0.0,35.0,7,8.5,0.66
+Muzaffargarh,Punjab,2008,2,10.5,10.5,0.0,26.0,3,6.2,0.36
+Muzaffargarh,Punjab,2008,3,0.5,0.5,0.0,2.0,1,0.5,0.02
+Muzaffargarh,Punjab,2008,4,20.6,20.6,0.0,30.0,8,10.9,0.69
+Muzaffargarh,Punjab,2008,5,10.9,10.9,0.0,22.0,12,2.3,0.35
+Muzaffargarh,Punjab,2008,6,42.0,42.0,0.0,32.0,15,10.4,1.4
+Muzaffargarh,Punjab,2008,7,39.8,39.8,0.0,43.0,12,12.0,1.28
+Muzaffargarh,Punjab,2008,8,108.5,108.5,0.0,124.0,16,45.6,3.5
+Muzaffargarh,Punjab,2008,9,16.9,16.9,0.0,21.0,9,5.9,0.56
+Muzaffargarh,Punjab,2008,10,0.1,0.1,0.0,1.0,1,0.1,0.0
+Muzaffargarh,Punjab,2008,11,0.0,0.0,0.0,0.0,0,0.0,0.0
+Muzaffargarh,Punjab,2008,12,61.1,61.1,0.0,80.0,7,23.0,1.97
+Muzaffargarh,Punjab,2009,1,17.7,17.7,0.0,36.0,7,9.9,0.57
+Muzaffargarh,Punjab,2009,2,1.9,1.9,0.0,5.0,2,1.4,0.07
+Muzaffargarh,Punjab,2009,3,18.9,18.9,0.0,26.0,7,8.3,0.61
+Muzaffargarh,Punjab,2009,4,14.8,14.8,0.0,15.0,8,9.3,0.49
+Muzaffargarh,Punjab,2009,5,7.5,7.5,0.0,13.0,9,2.4,0.24
+Muzaffargarh,Punjab,2009,6,8.9,8.9,0.0,16.0,10,3.1,0.3
+Muzaffargarh,Punjab,2009,7,29.3,29.3,0.0,47.0,13,12.2,0.95
+Muzaffargarh,Punjab,2009,8,36.9,36.9,0.0,36.0,11,11.9,1.19
+Muzaffargarh,Punjab,2009,9,5.4,5.4,0.0,14.0,4,2.1,0.18
+Muzaffargarh,Punjab,2009,10,2.6,2.6,0.0,5.0,2,2.0,0.08
+Muzaffargarh,Punjab,2009,11,0.0,0.0,0.0,0.0,0,0.0,0.0
+Muzaffargarh,Punjab,2009,12,0.6,0.6,0.0,4.0,3,0.4,0.02
+Muzaffargarh,Punjab,2010,1,3.2,3.2,0.0,10.0,3,1.7,0.1
+Muzaffargarh,Punjab,2010,2,0.4,0.4,0.0,2.0,2,0.3,0.01
+Muzaffargarh,Punjab,2010,3,28.0,28.0,0.0,25.0,4,13.1,0.9
+Muzaffargarh,Punjab,2010,4,1.7,1.7,0.0,4.0,3,0.6,0.06
+Muzaffargarh,Punjab,2010,5,3.9,3.9,0.0,9.0,5,1.7,0.13
+Muzaffargarh,Punjab,2010,6,12.8,12.8,0.0,30.0,14,2.8,0.43
+Muzaffargarh,Punjab,2010,7,123.8,123.8,0.0,84.0,15,77.5,3.99
+Muzaffargarh,Punjab,2010,8,214.9,214.9,0.0,179.0,18,38.6,6.93
+Muzaffargarh,Punjab,2010,9,30.3,30.3,0.0,45.0,10,9.6,1.01
+Muzaffargarh,Punjab,2010,10,1.8,1.8,0.0,5.0,3,1.6,0.06
+Muzaffargarh,Punjab,2010,11,0.0,0.0,0.0,0.0,0,0.0,0.0
+Muzaffargarh,Punjab,2010,12,0.1,0.1,0.0,1.0,1,0.1,0.0
+Muzaffargarh,Punjab,2011,1,0.6,0.6,0.0,4.0,1,0.6,0.02
+Muzaffargarh,Punjab,2011,2,15.4,15.4,0.0,29.0,9,4.7,0.55
+Muzaffargarh,Punjab,2011,3,5.8,5.8,0.0,18.0,4,2.7,0.19
+Muzaffargarh,Punjab,2011,4,14.3,14.3,0.0,16.0,4,8.0,0.48
+Muzaffargarh,Punjab,2011,5,6.1,6.1,0.0,12.0,6,3.4,0.2
+Muzaffargarh,Punjab,2011,6,10.2,10.2,0.0,19.0,7,5.3,0.34
+Muzaffargarh,Punjab,2011,7,46.3,46.3,0.0,53.0,13,12.5,1.49
+Muzaffargarh,Punjab,2011,8,119.1,119.1,0.0,120.0,21,19.2,3.84
+Muzaffargarh,Punjab,2011,9,121.3,121.3,0.0,120.0,18,33.0,4.04
+Muzaffargarh,Punjab,2011,10,1.2,1.2,0.0,3.0,3,0.7,0.04
+Muzaffargarh,Punjab,2011,11,0.0,0.0,0.0,0.0,0,0.0,0.0
+Muzaffargarh,Punjab,2011,12,0.0,0.0,0.0,0.0,0,0.0,0.0
+Muzaffargarh,Punjab,2012,1,6.1,6.1,0.0,11.0,2,3.8,0.2
+Muzaffargarh,Punjab,2012,2,5.7,5.7,0.0,23.0,6,3.2,0.2
+Muzaffargarh,Punjab,2012,3,0.7,0.7,0.0,3.0,1,0.7,0.02
+Muzaffargarh,Punjab,2012,4,8.5,8.5,0.0,20.0,11,2.4,0.28
+Muzaffargarh,Punjab,2012,5,1.8,1.8,0.0,3.0,3,1.3,0.06
+Muzaffargarh,Punjab,2012,6,12.0,12.0,0.0,25.0,14,3.8,0.4
+Muzaffargarh,Punjab,2012,7,38.7,38.7,0.0,46.0,12,15.5,1.25
+Muzaffargarh,Punjab,2012,8,75.1,75.1,0.0,87.0,18,28.5,2.42
+Muzaffargarh,Punjab,2012,9,172.1,172.1,0.0,154.0,13,44.1,5.74
+Muzaffargarh,Punjab,2012,10,3.7,3.7,0.0,4.0,2,2.5,0.12
+Muzaffargarh,Punjab,2012,11,1.0,1.0,0.0,3.0,2,0.7,0.03
+Muzaffargarh,Punjab,2012,12,4.5,4.5,0.0,11.0,2,4.4,0.15
+Muzaffargarh,Punjab,2013,1,0.0,0.0,0.0,0.0,0,0.0,0.0
+Muzaffargarh,Punjab,2013,2,57.6,57.6,0.0,76.0,10,17.1,2.06
+Muzaffargarh,Punjab,2013,3,19.3,19.3,0.0,25.0,5,7.4,0.62
+Muzaffargarh,Punjab,2013,4,3.9,3.9,0.0,10.0,6,1.4,0.13
+Muzaffargarh,Punjab,2013,5,3.9,3.9,0.0,9.0,4,1.5,0.13
+Muzaffargarh,Punjab,2013,6,16.8,16.8,0.0,20.0,6,8.6,0.56
+Muzaffargarh,Punjab,2013,7,31.8,31.8,0.0,44.0,13,11.1,1.03
+Muzaffargarh,Punjab,2013,8,116.2,116.2,0.0,141.0,16,22.4,3.75
+Muzaffargarh,Punjab,2013,9,1.2,1.2,0.0,5.0,4,0.5,0.04
+Muzaffargarh,Punjab,2013,10,1.9,1.9,0.0,9.0,5,0.6,0.06
+Muzaffargarh,Punjab,2013,11,1.1,1.1,0.0,5.0,2,1.0,0.04
+Muzaffargarh,Punjab,2013,12,0.2,0.2,0.0,1.0,1,0.2,0.01
+Muzaffargarh,Punjab,2014,1,0.0,0.0,0.0,0.0,0,0.0,0.0
+Muzaffargarh,Punjab,2014,2,11.3,11.3,0.0,29.0,7,5.0,0.4
+Muzaffargarh,Punjab,2014,3,19.8,19.8,0.0,36.0,10,8.9,0.64
+Muzaffargarh,Punjab,2014,4,22.7,22.7,0.0,18.0,4,17.7,0.76
+Muzaffargarh,Punjab,2014,5,19.5,19.5,0.0,22.0,13,7.5,0.63
+Muzaffargarh,Punjab,2014,6,5.5,5.5,0.0,8.0,6,2.2,0.18
+Muzaffargarh,Punjab,2014,7,42.8,42.8,0.0,54.0,14,15.0,1.38
+Muzaffargarh,Punjab,2014,8,9.9,9.9,0.0,18.0,11,3.8,0.32
+Muzaffargarh,Punjab,2014,9,19.7,19.7,0.0,28.0,10,5.3,0.66
+Muzaffargarh,Punjab,2014,10,11.2,11.2,0.0,18.0,5,5.6,0.36
+Muzaffargarh,Punjab,2014,11,0.2,0.2,0.0,1.0,1,0.2,0.01
+Muzaffargarh,Punjab,2014,12,0.0,0.0,0.0,0.0,0,0.0,0.0
+Muzaffargarh,Punjab,2015,1,2.8,2.8,0.0,10.0,3,2.2,0.09
+Muzaffargarh,Punjab,2015,2,19.9,19.9,0.0,34.0,5,7.8,0.71
+Muzaffargarh,Punjab,2015,3,54.2,54.2,0.0,59.0,10,17.4,1.75
+Muzaffargarh,Punjab,2015,4,28.5,28.5,0.0,32.0,8,9.4,0.95
+Muzaffargarh,Punjab,2015,5,11.2,11.2,0.0,17.0,10,3.1,0.36
+Muzaffargarh,Punjab,2015,6,36.6,36.6,0.0,32.0,13,28.9,1.22
+Muzaffargarh,Punjab,2015,7,236.7,236.7,0.0,184.0,22,56.4,7.64
+Muzaffargarh,Punjab,2015,8,54.5,54.5,0.0,63.0,14,23.9,1.76
+Muzaffargarh,Punjab,2015,9,10.1,10.1,0.0,20.0,9,3.8,0.34
+Muzaffargarh,Punjab,2015,10,6.8,6.8,0.0,12.0,4,5.6,0.22
+Muzaffargarh,Punjab,2015,11,0.0,0.0,0.0,0.0,0,0.0,0.0
+Muzaffargarh,Punjab,2015,12,0.3,0.3,0.0,2.0,1,0.3,0.01
+Muzaffargarh,Punjab,2016,1,2.6,2.6,0.0,12.0,2,1.6,0.08
+Muzaffargarh,Punjab,2016,2,1.3,1.3,0.0,4.0,1,1.3,0.04
+Muzaffargarh,Punjab,2016,3,23.4,23.4,0.0,41.0,9,6.8,0.75
+Muzaffargarh,Punjab,2016,4,5.8,5.8,0.0,9.0,5,2.9,0.19
+Muzaffargarh,Punjab,2016,5,11.7,11.7,0.0,12.0,8,3.2,0.38
+Muzaffargarh,Punjab,2016,6,10.4,10.4,0.0,16.0,6,5.1,0.35
+Muzaffargarh,Punjab,2016,7,36.8,36.8,0.0,66.0,15,6.5,1.19
+Muzaffargarh,Punjab,2016,8,89.7,89.7,0.0,106.0,25,20.6,2.89
+Muzaffargarh,Punjab,2016,9,1.7,1.7,0.0,6.0,3,1.0,0.06
+Muzaffargarh,Punjab,2016,10,1.0,1.0,0.0,3.0,3,0.5,0.03
+Muzaffargarh,Punjab,2016,11,0.0,0.0,0.0,0.0,0,0.0,0.0
+Muzaffargarh,Punjab,2016,12,0.0,0.0,0.0,0.0,0,0.0,0.0
+Muzaffargarh,Punjab,2017,1,29.1,29.1,0.0,56.0,10,8.8,0.94
+Muzaffargarh,Punjab,2017,2,6.3,6.3,0.0,22.0,5,4.9,0.23
+Muzaffargarh,Punjab,2017,3,4.3,4.3,0.0,11.0,6,2.1,0.14
+Muzaffargarh,Punjab,2017,4,3.2,3.2,0.0,11.0,7,1.6,0.11
+Muzaffargarh,Punjab,2017,5,21.5,21.5,0.0,21.0,13,4.2,0.69
+Muzaffargarh,Punjab,2017,6,65.3,65.3,0.0,48.0,14,18.7,2.18
+Muzaffargarh,Punjab,2017,7,51.1,51.1,0.0,65.0,18,11.7,1.65
+Muzaffargarh,Punjab,2017,8,46.2,46.2,0.0,39.0,9,17.9,1.49
+Muzaffargarh,Punjab,2017,9,29.2,29.2,0.0,44.0,11,8.6,0.97
+Muzaffargarh,Punjab,2017,10,0.0,0.0,0.0,0.0,0,0.0,0.0
+Muzaffargarh,Punjab,2017,11,15.5,15.5,0.0,17.0,3,7.8,0.52
+Muzaffargarh,Punjab,2017,12,19.0,19.0,0.0,23.0,4,15.7,0.61
+Muzaffargarh,Punjab,2018,1,0.1,0.1,0.0,1.0,1,0.1,0.0
+Muzaffargarh,Punjab,2018,2,30.8,30.8,0.0,34.0,5,14.3,1.1
+Muzaffargarh,Punjab,2018,3,9.7,9.7,0.0,14.0,7,3.8,0.31
+Muzaffargarh,Punjab,2018,4,4.8,4.8,0.0,15.0,7,1.6,0.16
+Muzaffargarh,Punjab,2018,5,6.9,6.9,0.0,16.0,10,1.8,0.22
+Muzaffargarh,Punjab,2018,6,15.9,15.9,0.0,22.0,8,12.4,0.53
+Muzaffargarh,Punjab,2018,7,26.2,26.2,0.0,33.0,12,12.1,0.85
+Muzaffargarh,Punjab,2018,8,7.7,7.7,0.0,27.0,8,2.9,0.25
+Muzaffargarh,Punjab,2018,9,3.2,3.2,0.0,4.0,3,2.7,0.11
+Muzaffargarh,Punjab,2018,10,0.0,0.0,0.0,0.0,0,0.0,0.0
+Muzaffargarh,Punjab,2018,11,0.1,0.1,0.0,1.0,1,0.1,0.0
+Muzaffargarh,Punjab,2018,12,2.7,2.7,0.0,8.0,2,2.1,0.09
+Muzaffargarh,Punjab,2019,1,19.3,19.3,0.0,55.0,8,5.8,0.62
+Muzaffargarh,Punjab,2019,2,28.6,28.6,0.0,41.0,11,17.7,1.02
+Muzaffargarh,Punjab,2019,3,34.3,34.3,0.0,69.0,11,9.8,1.11
+Muzaffargarh,Punjab,2019,4,55.7,55.7,0.0,22.0,6,30.0,1.86
+Muzaffargarh,Punjab,2019,5,16.2,16.2,0.0,14.0,6,13.9,0.52
+Muzaffargarh,Punjab,2019,6,12.0,12.0,0.0,19.0,6,6.9,0.4
+Muzaffargarh,Punjab,2019,7,44.2,44.2,0.0,62.0,12,14.7,1.43
+Muzaffargarh,Punjab,2019,8,107.0,107.0,0.0,99.0,20,21.6,3.45
+Muzaffargarh,Punjab,2019,9,32.2,32.2,0.0,29.0,7,18.6,1.07
+Muzaffargarh,Punjab,2019,10,46.7,46.7,0.0,29.0,7,18.6,1.51
+Muzaffargarh,Punjab,2019,11,16.1,16.1,0.0,33.0,9,5.4,0.54
+Muzaffargarh,Punjab,2019,12,10.8,10.8,0.0,23.0,4,8.9,0.35
+Muzaffargarh,Punjab,2020,1,35.6,35.6,0.0,57.0,8,12.9,1.15
+Muzaffargarh,Punjab,2020,2,11.3,11.3,0.0,9.0,3,7.8,0.39
+Muzaffargarh,Punjab,2020,3,107.8,107.8,0.0,134.0,17,38.1,3.48
+Muzaffargarh,Punjab,2020,4,2.3,2.3,0.0,9.0,3,2.1,0.08
+Muzaffargarh,Punjab,2020,5,11.5,11.5,0.0,19.0,8,6.5,0.37
+Muzaffargarh,Punjab,2020,6,11.3,11.3,0.0,14.0,7,4.6,0.38
+Muzaffargarh,Punjab,2020,7,21.2,21.2,0.0,24.0,8,15.3,0.68
+Muzaffargarh,Punjab,2020,8,116.1,116.1,0.0,97.0,16,68.5,3.75
+Muzaffargarh,Punjab,2020,9,28.5,28.5,0.0,42.0,5,14.3,0.95
+Muzaffargarh,Punjab,2020,10,0.0,0.0,0.0,0.0,0,0.0,0.0
+Muzaffargarh,Punjab,2020,11,3.5,3.5,0.0,16.0,3,1.9,0.12
+Muzaffargarh,Punjab,2020,12,17.5,17.5,0.0,23.0,3,11.4,0.56
+Muzaffargarh,Punjab,2021,1,0.4,0.4,0.0,3.0,2,0.3,0.01
+Muzaffargarh,Punjab,2021,2,0.0,0.0,0.0,0.0,0,0.0,0.0
+Muzaffargarh,Punjab,2021,3,9.9,9.9,0.0,9.0,4,8.5,0.32
+Muzaffargarh,Punjab,2021,4,7.3,7.3,0.0,16.0,2,5.5,0.24
+Muzaffargarh,Punjab,2021,5,0.2,0.2,0.0,1.0,1,0.2,0.01
+Muzaffargarh,Punjab,2021,6,12.4,12.4,0.0,15.0,6,8.5,0.41
+Muzaffargarh,Punjab,2021,7,33.3,33.3,0.0,55.0,11,11.6,1.07
+Muzaffargarh,Punjab,2021,8,9.9,9.9,0.0,14.0,4,5.9,0.32
+Muzaffargarh,Punjab,2021,9,8.7,8.7,0.0,39.0,8,2.0,0.29
+Muzaffargarh,Punjab,2021,10,1.2,1.2,0.0,3.0,2,0.6,0.04
+Muzaffargarh,Punjab,2021,11,0.0,0.0,0.0,0.0,0,0.0,0.0
+Muzaffargarh,Punjab,2021,12,7.6,7.6,0.0,11.0,4,6.5,0.25
+Muzaffargarh,Punjab,2022,1,19.2,19.2,0.0,46.0,7,5.0,0.62
+Muzaffargarh,Punjab,2022,2,1.5,1.5,0.0,4.0,3,1.1,0.05
+Muzaffargarh,Punjab,2022,3,15.2,15.2,0.0,16.0,3,14.5,0.49
+Muzaffargarh,Punjab,2022,4,0.0,0.0,0.0,0.0,0,0.0,0.0
+Muzaffargarh,Punjab,2022,5,0.0,0.0,0.0,0.0,0,0.0,0.0
+Muzaffargarh,Punjab,2022,6,23.1,23.1,0.0,30.0,7,15.7,0.77
+Muzaffargarh,Punjab,2022,7,253.1,253.1,0.0,239.0,28,28.2,8.16
+Muzaffargarh,Punjab,2022,8,132.1,132.1,0.0,162.0,26,33.7,4.26
+Muzaffargarh,Punjab,2022,9,14.4,14.4,0.0,7.0,3,11.7,0.48
+Muzaffargarh,Punjab,2022,10,0.0,0.0,0.0,0.0,0,0.0,0.0
+Muzaffargarh,Punjab,2022,11,0.4,0.4,0.0,3.0,2,0.3,0.01
+Muzaffargarh,Punjab,2022,12,14.2,14.2,0.0,11.0,2,13.6,0.46
+Muzaffargarh,Punjab,2023,1,2.4,2.4,0.0,8.0,3,1.8,0.08
+Muzaffargarh,Punjab,2023,2,0.2,0.2,0.0,2.0,1,0.2,0.01
+Muzaffargarh,Punjab,2023,3,37.0,37.0,0.0,53.0,17,10.0,1.19
+Muzaffargarh,Punjab,2023,4,11.7,11.7,0.0,15.0,7,7.0,0.39
+Muzaffargarh,Punjab,2023,5,54.1,54.1,0.0,37.0,10,20.3,1.75
+Muzaffargarh,Punjab,2023,6,16.0,16.0,0.0,14.0,9,8.7,0.53
+Muzaffargarh,Punjab,2023,7,133.1,133.1,0.0,103.0,21,22.6,4.29
+Muzaffargarh,Punjab,2023,8,6.7,6.7,0.0,7.0,2,4.4,0.22
+Muzaffargarh,Punjab,2023,9,2.0,2.0,0.0,11.0,2,1.2,0.07
+Muzaffargarh,Punjab,2023,10,26.3,26.3,0.0,15.0,9,11.7,0.85
+Muzaffargarh,Punjab,2023,11,0.8,0.8,0.0,3.0,3,0.4,0.03
+Muzaffargarh,Punjab,2023,12,0.4,0.4,0.0,3.0,1,0.4,0.01
+Muzaffargarh,Punjab,2024,1,1.0,1.0,0.0,3.0,2,0.6,0.03
+Muzaffargarh,Punjab,2024,2,15.4,15.4,0.0,31.0,6,5.8,0.53
+Muzaffargarh,Punjab,2024,3,14.0,14.0,0.0,26.0,6,4.9,0.45
+Muzaffargarh,Punjab,2024,4,15.6,15.6,0.0,18.0,7,10.4,0.52
+Muzaffargarh,Punjab,2024,5,1.0,1.0,0.0,2.0,2,0.7,0.03
+Muzaffargarh,Punjab,2024,6,12.5,12.5,0.0,14.0,4,7.2,0.42
+Muzaffargarh,Punjab,2024,7,53.3,53.3,0.0,37.0,12,15.2,1.72
+Muzaffargarh,Punjab,2024,8,247.6,247.6,0.0,241.0,29,41.7,7.99
+Muzaffargarh,Punjab,2024,9,10.9,10.9,0.0,23.0,6,6.5,0.36
+Muzaffargarh,Punjab,2024,10,1.9,1.9,0.0,1.0,1,1.9,0.06
+Muzaffargarh,Punjab,2024,11,4.8,4.8,0.0,4.0,2,4.2,0.16
+Muzaffargarh,Punjab,2024,12,2.3,2.3,0.0,5.0,2,1.9,0.07
+Muzaffargarh,Punjab,2025,1,0.0,0.0,0.0,0.0,0,0.0,0.0
+Muzaffargarh,Punjab,2025,2,16.2,16.2,0.0,24.0,11,7.1,0.58
+Muzaffargarh,Punjab,2025,3,0.2,0.2,0.0,1.0,1,0.2,0.01
+Muzaffargarh,Punjab,2025,4,0.0,0.0,0.0,0.0,0,0.0,0.0
+Muzaffargarh,Punjab,2025,5,0.2,0.2,0.0,2.0,2,0.1,0.01
+Muzaffargarh,Punjab,2025,6,14.7,14.7,0.0,7.0,2,14.3,0.49
+Muzaffargarh,Punjab,2025,7,40.1,40.1,0.0,34.0,12,15.9,1.29
+Muzaffargarh,Punjab,2025,8,41.5,41.5,0.0,52.0,11,15.8,1.34
+Muzaffargarh,Punjab,2025,9,38.5,38.5,0.0,33.0,8,22.7,1.28
+Muzaffargarh,Punjab,2025,10,2.4,2.4,0.0,4.0,1,2.4,0.08
+Muzaffargarh,Punjab,2025,11,0.0,0.0,0.0,0.0,0,0.0,0.0
+Muzaffargarh,Punjab,2025,12,4.9,4.9,0.0,7.0,1,4.9,0.16
+Rawalpindi,Punjab,2000,1,98.6,98.6,0.0,105.0,9,33.3,3.18
+Rawalpindi,Punjab,2000,2,29.7,29.7,0.0,60.0,4,16.8,1.02
+Rawalpindi,Punjab,2000,3,27.5,27.5,0.0,51.0,11,16.3,0.89
+Rawalpindi,Punjab,2000,4,5.2,5.2,0.0,17.0,6,2.4,0.17
+Rawalpindi,Punjab,2000,5,23.2,23.2,0.0,36.0,16,4.4,0.75
+Rawalpindi,Punjab,2000,6,86.6,86.6,0.0,68.0,16,46.4,2.89
+Rawalpindi,Punjab,2000,7,123.9,123.9,0.0,188.0,27,37.8,4.0
+Rawalpindi,Punjab,2000,8,118.7,118.7,0.0,151.0,22,30.8,3.83
+Rawalpindi,Punjab,2000,9,56.5,56.5,0.0,82.0,15,14.2,1.88
+Rawalpindi,Punjab,2000,10,0.2,0.2,0.0,1.0,1,0.2,0.01
+Rawalpindi,Punjab,2000,11,2.2,2.2,0.0,8.0,3,1.5,0.07
+Rawalpindi,Punjab,2000,12,15.0,15.0,0.0,40.0,5,10.3,0.48
+Rawalpindi,Punjab,2001,1,6.3,6.3,0.0,24.0,4,4.8,0.2
+Rawalpindi,Punjab,2001,2,15.6,15.6,0.0,46.0,7,5.6,0.56
+Rawalpindi,Punjab,2001,3,67.3,67.3,0.0,78.0,11,32.0,2.17
+Rawalpindi,Punjab,2001,4,35.1,35.1,0.0,60.0,13,11.3,1.17
+Rawalpindi,Punjab,2001,5,23.2,23.2,0.0,34.0,14,5.4,0.75
+Rawalpindi,Punjab,2001,6,162.6,162.6,0.0,143.0,22,45.6,5.42
+Rawalpindi,Punjab,2001,7,285.1,285.1,0.0,273.0,26,75.2,9.2
+Rawalpindi,Punjab,2001,8,78.2,78.2,0.0,172.0,22,11.5,2.52
+Rawalpindi,Punjab,2001,9,44.2,44.2,0.0,53.0,9,22.0,1.47
+Rawalpindi,Punjab,2001,10,7.2,7.2,0.0,15.0,4,6.0,0.23
+Rawalpindi,Punjab,2001,11,61.9,61.9,0.0,38.0,4,34.8,2.06
+Rawalpindi,Punjab,2001,12,3.4,3.4,0.0,13.0,3,2.7,0.11
+Rawalpindi,Punjab,2002,1,30.1,30.1,0.0,55.0,4,20.8,0.97
+Rawalpindi,Punjab,2002,2,115.3,115.3,0.0,102.0,10,51.7,4.12
+Rawalpindi,Punjab,2002,3,74.5,74.5,0.0,95.0,10,31.3,2.4
+Rawalpindi,Punjab,2002,4,24.3,24.3,0.0,48.0,10,7.0,0.81
+Rawalpindi,Punjab,2002,5,12.0,12.0,0.0,16.0,6,7.9,0.39
+Rawalpindi,Punjab,2002,6,121.2,121.2,0.0,68.0,15,62.1,4.04
+Rawalpindi,Punjab,2002,7,68.8,68.8,0.0,88.0,18,12.1,2.22
+Rawalpindi,Punjab,2002,8,204.5,204.5,0.0,222.0,26,44.2,6.6
+Rawalpindi,Punjab,2002,9,57.8,57.8,0.0,77.0,14,11.9,1.93
+Rawalpindi,Punjab,2002,10,15.8,15.8,0.0,22.0,8,6.7,0.51
+Rawalpindi,Punjab,2002,11,4.3,4.3,0.0,10.0,4,1.8,0.14
+Rawalpindi,Punjab,2002,12,58.8,58.8,0.0,59.0,8,46.9,1.9
+Rawalpindi,Punjab,2003,1,19.6,19.6,0.0,34.0,6,12.8,0.63
+Rawalpindi,Punjab,2003,2,252.3,252.3,0.0,171.0,14,79.5,9.01
+Rawalpindi,Punjab,2003,3,116.4,116.4,0.0,115.0,13,31.1,3.75
+Rawalpindi,Punjab,2003,4,67.2,67.2,0.0,61.0,12,36.0,2.24
+Rawalpindi,Punjab,2003,5,10.3,10.3,0.0,29.0,14,1.6,0.33
+Rawalpindi,Punjab,2003,6,37.1,37.1,0.0,59.0,15,11.9,1.24
+Rawalpindi,Punjab,2003,7,151.6,151.6,0.0,204.0,28,23.2,4.89
+Rawalpindi,Punjab,2003,8,154.6,154.6,0.0,181.0,22,24.8,4.99
+Rawalpindi,Punjab,2003,9,166.4,166.4,0.0,101.0,17,54.9,5.55
+Rawalpindi,Punjab,2003,10,4.1,4.1,0.0,9.0,3,2.7,0.13
+Rawalpindi,Punjab,2003,11,21.1,21.1,0.0,43.0,6,9.6,0.7
+Rawalpindi,Punjab,2003,12,71.4,71.4,0.0,65.0,8,44.8,2.3
+Rawalpindi,Punjab,2004,1,117.5,117.5,0.0,129.0,8,40.4,3.79
+Rawalpindi,Punjab,2004,2,61.7,61.7,0.0,73.0,8,30.3,2.13
+Rawalpindi,Punjab,2004,3,1.6,1.6,0.0,6.0,3,0.8,0.05
+Rawalpindi,Punjab,2004,4,110.3,110.3,0.0,92.0,12,53.2,3.68
+Rawalpindi,Punjab,2004,5,17.9,17.9,0.0,31.0,10,8.3,0.58
+Rawalpindi,Punjab,2004,6,30.2,30.2,0.0,52.0,17,5.4,1.01
+Rawalpindi,Punjab,2004,7,79.1,79.1,0.0,86.0,22,14.9,2.55
+Rawalpindi,Punjab,2004,8,72.0,72.0,0.0,143.0,27,12.9,2.32
+Rawalpindi,Punjab,2004,9,73.2,73.2,0.0,68.0,13,26.4,2.44
+Rawalpindi,Punjab,2004,10,157.0,157.0,0.0,62.0,8,127.9,5.06
+Rawalpindi,Punjab,2004,11,23.6,23.6,0.0,35.0,4,10.8,0.79
+Rawalpindi,Punjab,2004,12,64.8,64.8,0.0,62.0,6,36.9,2.09
+Rawalpindi,Punjab,2005,1,73.2,73.2,0.0,86.0,7,26.3,2.36
+Rawalpindi,Punjab,2005,2,157.2,157.2,0.0,237.0,17,27.0,5.61
+Rawalpindi,Punjab,2005,3,139.8,139.8,0.0,165.0,17,35.9,4.51
+Rawalpindi,Punjab,2005,4,30.6,30.6,0.0,42.0,11,12.1,1.02
+Rawalpindi,Punjab,2005,5,34.2,34.2,0.0,52.0,16,15.4,1.1
+Rawalpindi,Punjab,2005,6,21.6,21.6,0.0,44.0,13,10.6,0.72
+Rawalpindi,Punjab,2005,7,130.3,130.3,0.0,207.0,29,23.3,4.2
+Rawalpindi,Punjab,2005,8,129.5,129.5,0.0,185.0,25,20.3,4.18
+Rawalpindi,Punjab,2005,9,61.7,61.7,0.0,60.0,13,23.3,2.06
+Rawalpindi,Punjab,2005,10,44.2,44.2,0.0,37.0,7,26.1,1.43
+Rawalpindi,Punjab,2005,11,18.0,18.0,0.0,28.0,6,9.5,0.6
+Rawalpindi,Punjab,2005,12,0.0,0.0,0.0,0.0,0,0.0,0.0
+Rawalpindi,Punjab,2006,1,100.6,100.6,0.0,97.0,7,31.5,3.25
+Rawalpindi,Punjab,2006,2,39.0,39.0,0.0,67.0,7,15.9,1.39
+Rawalpindi,Punjab,2006,3,42.1,42.1,0.0,88.0,12,6.7,1.36
+Rawalpindi,Punjab,2006,4,18.1,18.1,0.0,33.0,7,16.0,0.6
+Rawalpindi,Punjab,2006,5,21.8,21.8,0.0,38.0,15,3.1,0.7
+Rawalpindi,Punjab,2006,6,30.5,30.5,0.0,51.0,13,9.2,1.02
+Rawalpindi,Punjab,2006,7,221.8,221.8,0.0,163.0,25,116.9,7.15
+Rawalpindi,Punjab,2006,8,174.7,174.7,0.0,215.0,26,27.2,5.64
+Rawalpindi,Punjab,2006,9,53.3,53.3,0.0,78.0,14,11.9,1.78
+Rawalpindi,Punjab,2006,10,25.7,25.7,0.0,33.0,11,12.8,0.83
+Rawalpindi,Punjab,2006,11,30.1,30.1,0.0,53.0,9,13.0,1.0
+Rawalpindi,Punjab,2006,12,68.2,68.2,0.0,78.0,6,27.6,2.2
+Rawalpindi,Punjab,2007,1,2.2,2.2,0.0,6.0,2,1.9,0.07
+Rawalpindi,Punjab,2007,2,215.6,215.6,0.0,193.0,17,62.5,7.7
+Rawalpindi,Punjab,2007,3,157.1,157.1,0.0,149.0,13,49.2,5.07
+Rawalpindi,Punjab,2007,4,26.9,26.9,0.0,23.0,8,23.6,0.9
+Rawalpindi,Punjab,2007,5,12.4,12.4,0.0,22.0,13,2.0,0.4
+Rawalpindi,Punjab,2007,6,156.7,156.7,0.0,111.0,16,48.8,5.22
+Rawalpindi,Punjab,2007,7,115.2,115.2,0.0,159.0,27,38.6,3.72
+Rawalpindi,Punjab,2007,8,180.9,180.9,0.0,173.0,26,104.6,5.84
+Rawalpindi,Punjab,2007,9,37.7,37.7,0.0,67.0,18,11.5,1.26
+Rawalpindi,Punjab,2007,10,0.0,0.0,0.0,0.0,0,0.0,0.0
+Rawalpindi,Punjab,2007,11,8.3,8.3,0.0,19.0,2,5.3,0.28
+Rawalpindi,Punjab,2007,12,6.4,6.4,0.0,24.0,5,2.4,0.21
+Rawalpindi,Punjab,2008,1,112.9,112.9,0.0,133.0,10,40.1,3.64
+Rawalpindi,Punjab,2008,2,41.5,41.5,0.0,97.0,12,9.0,1.43
+Rawalpindi,Punjab,2008,3,8.6,8.6,0.0,25.0,11,3.2,0.28
+Rawalpindi,Punjab,2008,4,91.8,91.8,0.0,83.0,17,51.7,3.06
+Rawalpindi,Punjab,2008,5,23.5,23.5,0.0,36.0,13,6.3,0.76
+Rawalpindi,Punjab,2008,6,131.4,131.4,0.0,134.0,22,48.9,4.38
+Rawalpindi,Punjab,2008,7,202.5,202.5,0.0,221.0,27,45.7,6.53
+Rawalpindi,Punjab,2008,8,119.4,119.4,0.0,175.0,26,23.6,3.85
+Rawalpindi,Punjab,2008,9,37.8,37.8,0.0,46.0,13,14.5,1.26
+Rawalpindi,Punjab,2008,10,33.8,33.8,0.0,34.0,10,11.2,1.09
+Rawalpindi,Punjab,2008,11,13.9,13.9,0.0,25.0,4,11.1,0.46
+Rawalpindi,Punjab,2008,12,61.3,61.3,0.0,80.0,6,26.2,1.98
+Rawalpindi,Punjab,2009,1,73.8,73.8,0.0,100.0,10,30.2,2.38
+Rawalpindi,Punjab,2009,2,102.6,102.6,0.0,129.0,14,28.6,3.66
+Rawalpindi,Punjab,2009,3,50.9,50.9,0.0,81.0,15,21.2,1.64
+Rawalpindi,Punjab,2009,4,94.1,94.1,0.0,96.0,15,30.8,3.14
+Rawalpindi,Punjab,2009,5,15.3,15.3,0.0,38.0,13,4.6,0.49
+Rawalpindi,Punjab,2009,6,12.7,12.7,0.0,23.0,9,4.9,0.42
+Rawalpindi,Punjab,2009,7,108.1,108.1,0.0,114.0,20,37.7,3.49
+Rawalpindi,Punjab,2009,8,105.5,105.5,0.0,156.0,25,20.5,3.4
+Rawalpindi,Punjab,2009,9,44.0,44.0,0.0,41.0,11,32.6,1.47
+Rawalpindi,Punjab,2009,10,5.1,5.1,0.0,11.0,7,2.0,0.16
+Rawalpindi,Punjab,2009,11,20.9,20.9,0.0,35.0,6,15.1,0.7
+Rawalpindi,Punjab,2009,12,5.2,5.2,0.0,13.0,4,4.4,0.17
+Rawalpindi,Punjab,2010,1,30.7,30.7,0.0,27.0,4,25.2,0.99
+Rawalpindi,Punjab,2010,2,172.0,172.0,0.0,159.0,14,52.4,6.14
+Rawalpindi,Punjab,2010,3,23.8,23.8,0.0,53.0,8,9.9,0.77
+Rawalpindi,Punjab,2010,4,18.7,18.7,0.0,50.0,17,4.0,0.62
+Rawalpindi,Punjab,2010,5,20.7,20.7,0.0,47.0,15,5.9,0.67
+Rawalpindi,Punjab,2010,6,22.2,22.2,0.0,46.0,19,4.8,0.74
+Rawalpindi,Punjab,2010,7,274.2,274.2,0.0,195.0,21,124.9,8.85
+Rawalpindi,Punjab,2010,8,236.6,236.6,0.0,236.0,26,118.8,7.63
+Rawalpindi,Punjab,2010,9,65.1,65.1,0.0,98.0,19,16.9,2.17
+Rawalpindi,Punjab,2010,10,8.6,8.6,0.0,18.0,5,5.8,0.28
+Rawalpindi,Punjab,2010,11,0.4,0.4,0.0,1.0,1,0.4,0.01
+Rawalpindi,Punjab,2010,12,14.9,14.9,0.0,17.0,2,14.4,0.48
+Rawalpindi,Punjab,2011,1,23.3,23.3,0.0,37.0,5,19.3,0.75
+Rawalpindi,Punjab,2011,2,159.1,159.1,0.0,169.0,16,38.2,5.68
+Rawalpindi,Punjab,2011,3,79.4,79.4,0.0,90.0,12,37.9,2.56
+Rawalpindi,Punjab,2011,4,110.3,110.3,0.0,88.0,15,59.4,3.68
+Rawalpindi,Punjab,2011,5,10.3,10.3,0.0,27.0,12,2.4,0.33
+Rawalpindi,Punjab,2011,6,57.7,57.7,0.0,86.0,18,21.8,1.92
+Rawalpindi,Punjab,2011,7,85.5,85.5,0.0,155.0,23,9.7,2.76
+Rawalpindi,Punjab,2011,8,115.2,115.2,0.0,160.0,24,19.5,3.72
+Rawalpindi,Punjab,2011,9,82.2,82.2,0.0,102.0,17,20.6,2.74
+Rawalpindi,Punjab,2011,10,47.7,47.7,0.0,62.0,7,14.4,1.54
+Rawalpindi,Punjab,2011,11,16.0,16.0,0.0,29.0,6,6.3,0.53
+Rawalpindi,Punjab,2011,12,6.2,6.2,0.0,21.0,2,5.2,0.2
+Rawalpindi,Punjab,2012,1,78.0,78.0,0.0,92.0,11,25.6,2.52
+Rawalpindi,Punjab,2012,2,55.3,55.3,0.0,120.0,12,15.7,1.91
+Rawalpindi,Punjab,2012,3,28.7,28.7,0.0,63.0,12,9.7,0.93
+Rawalpindi,Punjab,2012,4,43.7,43.7,0.0,69.0,19,13.5,1.46
+Rawalpindi,Punjab,2012,5,7.6,7.6,0.0,22.0,11,2.9,0.25
+Rawalpindi,Punjab,2012,6,4.9,4.9,0.0,12.0,7,1.9,0.16
+Rawalpindi,Punjab,2012,7,77.2,77.2,0.0,106.0,20,18.7,2.49
+Rawalpindi,Punjab,2012,8,287.5,287.5,0.0,185.0,24,160.5,9.27
+Rawalpindi,Punjab,2012,9,129.3,129.3,0.0,170.0,20,48.7,4.31
+Rawalpindi,Punjab,2012,10,10.6,10.6,0.0,22.0,9,4.8,0.34
+Rawalpindi,Punjab,2012,11,7.3,7.3,0.0,24.0,3,4.3,0.24
+Rawalpindi,Punjab,2012,12,90.6,90.6,0.0,110.0,9,40.6,2.92
+Rawalpindi,Punjab,2013,1,13.6,13.6,0.0,35.0,3,6.6,0.44
+Rawalpindi,Punjab,2013,2,259.7,259.7,0.0,159.0,14,95.3,9.28
+Rawalpindi,Punjab,2013,3,82.4,82.4,0.0,82.0,9,27.5,2.66
+Rawalpindi,Punjab,2013,4,15.1,15.1,0.0,30.0,13,5.0,0.5
+Rawalpindi,Punjab,2013,5,19.1,19.1,0.0,28.0,10,7.9,0.62
+Rawalpindi,Punjab,2013,6,77.3,77.3,0.0,72.0,11,33.4,2.58
+Rawalpindi,Punjab,2013,7,154.3,154.3,0.0,184.0,25,53.0,4.98
+Rawalpindi,Punjab,2013,8,263.2,263.2,0.0,251.0,25,79.3,8.49
+Rawalpindi,Punjab,2013,9,42.8,42.8,0.0,64.0,19,12.5,1.43
+Rawalpindi,Punjab,2013,10,13.6,13.6,0.0,24.0,10,5.4,0.44
+Rawalpindi,Punjab,2013,11,17.2,17.2,0.0,24.0,3,16.1,0.57
+Rawalpindi,Punjab,2013,12,7.2,7.2,0.0,27.0,4,4.4,0.23
+Rawalpindi,Punjab,2014,1,10.1,10.1,0.0,24.0,5,4.3,0.33
+Rawalpindi,Punjab,2014,2,82.1,82.1,0.0,113.0,13,33.5,2.93
+Rawalpindi,Punjab,2014,3,200.2,200.2,0.0,172.0,17,43.5,6.46
+Rawalpindi,Punjab,2014,4,49.7,49.7,0.0,71.0,14,20.4,1.66
+Rawalpindi,Punjab,2014,5,46.4,46.4,0.0,61.0,19,19.8,1.5
+Rawalpindi,Punjab,2014,6,6.4,6.4,0.0,20.0,12,1.4,0.21
+Rawalpindi,Punjab,2014,7,74.9,74.9,0.0,108.0,18,15.9,2.42
+Rawalpindi,Punjab,2014,8,219.5,219.5,0.0,143.0,21,144.4,7.08
+Rawalpindi,Punjab,2014,9,371.4,371.4,0.0,112.0,18,186.9,12.38
+Rawalpindi,Punjab,2014,10,34.9,34.9,0.0,49.0,15,15.8,1.13
+Rawalpindi,Punjab,2014,11,5.4,5.4,0.0,15.0,3,4.7,0.18
+Rawalpindi,Punjab,2014,12,0.0,0.0,0.0,0.0,0,0.0,0.0
+Rawalpindi,Punjab,2015,1,34.8,34.8,0.0,67.0,7,8.5,1.12
+Rawalpindi,Punjab,2015,2,107.0,107.0,0.0,137.0,14,46.1,3.82
+Rawalpindi,Punjab,2015,3,196.0,196.0,0.0,196.0,16,43.6,6.32
+Rawalpindi,Punjab,2015,4,82.3,82.3,0.0,98.0,11,23.2,2.74
+Rawalpindi,Punjab,2015,5,48.5,48.5,0.0,64.0,15,15.1,1.56
+Rawalpindi,Punjab,2015,6,33.8,33.8,0.0,53.0,18,7.3,1.13
+Rawalpindi,Punjab,2015,7,241.6,241.6,0.0,219.0,28,74.4,7.79
+Rawalpindi,Punjab,2015,8,127.1,127.1,0.0,183.0,25,21.4,4.1
+Rawalpindi,Punjab,2015,9,62.5,62.5,0.0,51.0,13,50.5,2.08
+Rawalpindi,Punjab,2015,10,77.1,77.1,0.0,72.0,7,29.9,2.49
+Rawalpindi,Punjab,2015,11,55.9,55.9,0.0,41.0,7,45.8,1.86
+Rawalpindi,Punjab,2015,12,42.8,42.8,0.0,43.0,5,27.2,1.38
+Rawalpindi,Punjab,2016,1,41.6,41.6,0.0,63.0,9,16.7,1.34
+Rawalpindi,Punjab,2016,2,65.9,65.9,0.0,49.0,4,25.9,2.27
+Rawalpindi,Punjab,2016,3,164.3,164.3,0.0,165.0,16,34.8,5.3
+Rawalpindi,Punjab,2016,4,32.3,32.3,0.0,44.0,11,25.1,1.08
+Rawalpindi,Punjab,2016,5,12.7,12.7,0.0,24.0,13,3.3,0.41
+Rawalpindi,Punjab,2016,6,51.2,51.2,0.0,49.0,12,18.2,1.71
+Rawalpindi,Punjab,2016,7,116.3,116.3,0.0,184.0,26,19.0,3.75
+Rawalpindi,Punjab,2016,8,80.7,80.7,0.0,119.0,21,22.8,2.6
+Rawalpindi,Punjab,2016,9,30.6,30.6,0.0,60.0,13,9.0,1.02
+Rawalpindi,Punjab,2016,10,4.6,4.6,0.0,10.0,5,1.5,0.15
+Rawalpindi,Punjab,2016,11,3.8,3.8,0.0,8.0,3,2.2,0.13
+Rawalpindi,Punjab,2016,12,9.4,9.4,0.0,9.0,2,9.0,0.3
+Rawalpindi,Punjab,2017,1,137.1,137.1,0.0,206.0,20,31.2,4.42
+Rawalpindi,Punjab,2017,2,67.6,67.6,0.0,60.0,7,24.1,2.41
+Rawalpindi,Punjab,2017,3,27.7,27.7,0.0,53.0,15,4.1,0.89
+Rawalpindi,Punjab,2017,4,59.2,59.2,0.0,70.0,14,19.0,1.97
+Rawalpindi,Punjab,2017,5,19.0,19.0,0.0,26.0,16,3.9,0.61
+Rawalpindi,Punjab,2017,6,49.7,49.7,0.0,40.0,16,18.8,1.66
+Rawalpindi,Punjab,2017,7,196.0,196.0,0.0,216.0,28,56.5,6.32
+Rawalpindi,Punjab,2017,8,243.1,243.1,0.0,226.0,24,51.1,7.84
+Rawalpindi,Punjab,2017,9,46.7,46.7,0.0,56.0,13,13.1,1.56
+Rawalpindi,Punjab,2017,10,11.0,11.0,0.0,12.0,10,2.5,0.35
+Rawalpindi,Punjab,2017,11,30.3,30.3,0.0,34.0,4,16.3,1.01
+Rawalpindi,Punjab,2017,12,36.7,36.7,0.0,43.0,4,18.4,1.18
+Rawalpindi,Punjab,2018,1,6.5,6.5,0.0,15.0,3,4.8,0.21
+Rawalpindi,Punjab,2018,2,48.8,48.8,0.0,58.0,9,33.2,1.74
+Rawalpindi,Punjab,2018,3,41.5,41.5,0.0,78.0,10,17.3,1.34
+Rawalpindi,Punjab,2018,4,57.4,57.4,0.0,74.0,16,28.8,1.91
+Rawalpindi,Punjab,2018,5,97.4,97.4,0.0,68.0,21,50.5,3.14
+Rawalpindi,Punjab,2018,6,22.4,22.4,0.0,37.0,12,11.4,0.75
+Rawalpindi,Punjab,2018,7,178.2,178.2,0.0,216.0,23,35.4,5.75
+Rawalpindi,Punjab,2018,8,251.1,251.1,0.0,202.0,24,144.0,8.1
+Rawalpindi,Punjab,2018,9,42.9,42.9,0.0,64.0,16,9.1,1.43
+Rawalpindi,Punjab,2018,10,26.9,26.9,0.0,25.0,6,10.4,0.87
+Rawalpindi,Punjab,2018,11,68.3,68.3,0.0,49.0,7,58.1,2.28
+Rawalpindi,Punjab,2018,12,30.9,30.9,0.0,35.0,6,22.1,1.0
+Rawalpindi,Punjab,2019,1,107.9,107.9,0.0,153.0,18,24.5,3.48
+Rawalpindi,Punjab,2019,2,85.9,85.9,0.0,128.0,14,26.2,3.07
+Rawalpindi,Punjab,2019,3,56.9,56.9,0.0,92.0,12,16.1,1.84
+Rawalpindi,Punjab,2019,4,77.1,77.1,0.0,61.0,13,40.1,2.57
+Rawalpindi,Punjab,2019,5,8.7,8.7,0.0,23.0,7,5.3,0.28
+Rawalpindi,Punjab,2019,6,1.8,1.8,0.0,7.0,5,1.0,0.06
+Rawalpindi,Punjab,2019,7,146.5,146.5,0.0,224.0,25,20.1,4.73
+Rawalpindi,Punjab,2019,8,162.7,162.7,0.0,178.0,21,27.8,5.25
+Rawalpindi,Punjab,2019,9,79.1,79.1,0.0,116.0,21,15.4,2.64
+Rawalpindi,Punjab,2019,10,33.4,33.4,0.0,31.0,12,11.5,1.08
+Rawalpindi,Punjab,2019,11,77.1,77.1,0.0,94.0,13,38.2,2.57
+Rawalpindi,Punjab,2019,12,11.7,11.7,0.0,26.0,5,6.7,0.38
+Rawalpindi,Punjab,2020,1,124.3,124.3,0.0,147.0,16,34.8,4.01
+Rawalpindi,Punjab,2020,2,49.5,49.5,0.0,66.0,8,20.3,1.71
+Rawalpindi,Punjab,2020,3,222.1,222.1,0.0,199.0,17,48.4,7.16
+Rawalpindi,Punjab,2020,4,63.4,63.4,0.0,73.0,17,16.2,2.11
+Rawalpindi,Punjab,2020,5,48.6,48.6,0.0,69.0,15,12.8,1.57
+Rawalpindi,Punjab,2020,6,57.9,57.9,0.0,47.0,14,28.5,1.93
+Rawalpindi,Punjab,2020,7,152.4,152.4,0.0,143.0,21,26.3,4.92
+Rawalpindi,Punjab,2020,8,312.1,312.1,0.0,260.0,28,103.5,10.07
+Rawalpindi,Punjab,2020,9,76.3,76.3,0.0,66.0,10,24.6,2.54
+Rawalpindi,Punjab,2020,10,0.0,0.0,0.0,0.0,0,0.0,0.0
+Rawalpindi,Punjab,2020,11,60.4,60.4,0.0,81.0,7,36.0,2.01
+Rawalpindi,Punjab,2020,12,42.9,42.9,0.0,50.0,6,16.1,1.38
+Rawalpindi,Punjab,2021,1,39.7,39.7,0.0,41.0,6,27.9,1.28
+Rawalpindi,Punjab,2021,2,12.6,12.6,0.0,30.0,7,8.2,0.45
+Rawalpindi,Punjab,2021,3,81.9,81.9,0.0,98.0,13,35.5,2.64
+Rawalpindi,Punjab,2021,4,41.1,41.1,0.0,70.0,13,11.0,1.37
+Rawalpindi,Punjab,2021,5,20.7,20.7,0.0,35.0,16,5.4,0.67
+Rawalpindi,Punjab,2021,6,19.4,19.4,0.0,26.0,11,8.8,0.65
+Rawalpindi,Punjab,2021,7,141.7,141.7,0.0,147.0,20,44.0,4.57
+Rawalpindi,Punjab,2021,8,143.9,143.9,0.0,148.0,24,16.4,4.64
+Rawalpindi,Punjab,2021,9,137.8,137.8,0.0,98.0,16,69.3,4.59
+Rawalpindi,Punjab,2021,10,47.7,47.7,0.0,50.0,12,14.6,1.54
+Rawalpindi,Punjab,2021,11,1.0,1.0,0.0,5.0,3,0.4,0.03
+Rawalpindi,Punjab,2021,12,16.6,16.6,0.0,28.0,6,9.6,0.54
+Rawalpindi,Punjab,2022,1,143.7,143.7,0.0,142.0,14,39.3,4.64
+Rawalpindi,Punjab,2022,2,48.6,48.6,0.0,64.0,13,22.4,1.74
+Rawalpindi,Punjab,2022,3,33.8,33.8,0.0,32.0,6,12.0,1.09
+Rawalpindi,Punjab,2022,4,3.2,3.2,0.0,8.0,5,1.2,0.11
+Rawalpindi,Punjab,2022,5,11.9,11.9,0.0,12.0,4,10.0,0.38
+Rawalpindi,Punjab,2022,6,45.3,45.3,0.0,42.0,8,18.2,1.51
+Rawalpindi,Punjab,2022,7,306.3,306.3,0.0,243.0,25,53.7,9.88
+Rawalpindi,Punjab,2022,8,171.0,171.0,0.0,100.0,18,35.4,5.52
+Rawalpindi,Punjab,2022,9,74.1,74.1,0.0,68.0,17,18.0,2.47
+Rawalpindi,Punjab,2022,10,3.7,3.7,0.0,12.0,6,0.9,0.12
+Rawalpindi,Punjab,2022,11,52.8,52.8,0.0,57.0,8,15.5,1.76
+Rawalpindi,Punjab,2022,12,13.4,13.4,0.0,16.0,3,9.9,0.43
+Rawalpindi,Punjab,2023,1,88.6,88.6,0.0,74.0,10,46.9,2.86
+Rawalpindi,Punjab,2023,2,26.3,26.3,0.0,47.0,11,6.2,0.94
+Rawalpindi,Punjab,2023,3,76.7,76.7,0.0,80.0,16,25.2,2.47
+Rawalpindi,Punjab,2023,4,86.8,86.8,0.0,77.0,14,23.6,2.89
+Rawalpindi,Punjab,2023,5,73.7,73.7,0.0,79.0,16,23.1,2.38
+Rawalpindi,Punjab,2023,6,86.4,86.4,0.0,59.0,14,23.9,2.88
+Rawalpindi,Punjab,2023,7,202.4,202.4,0.0,159.0,26,43.8,6.53
+Rawalpindi,Punjab,2023,8,169.1,169.1,0.0,144.0,27,23.8,5.45
+Rawalpindi,Punjab,2023,9,45.1,45.1,0.0,49.0,18,11.4,1.5
+Rawalpindi,Punjab,2023,10,51.2,51.2,0.0,35.0,7,20.3,1.65
+Rawalpindi,Punjab,2023,11,27.9,27.9,0.0,31.0,7,14.3,0.93
+Rawalpindi,Punjab,2023,12,0.2,0.2,0.0,2.0,1,0.2,0.01
+Rawalpindi,Punjab,2024,1,21.3,21.3,0.0,35.0,5,16.7,0.69
+Rawalpindi,Punjab,2024,2,65.0,65.0,0.0,58.0,9,30.0,2.24
+Rawalpindi,Punjab,2024,3,166.0,166.0,0.0,109.0,12,47.6,5.35
+Rawalpindi,Punjab,2024,4,152.0,152.0,0.0,113.0,17,31.2,5.07
+Rawalpindi,Punjab,2024,5,6.8,6.8,0.0,6.0,4,2.6,0.22
+Rawalpindi,Punjab,2024,6,17.5,17.5,0.0,20.0,10,9.6,0.58
+Rawalpindi,Punjab,2024,7,158.7,158.7,0.0,127.0,25,19.9,5.12
+Rawalpindi,Punjab,2024,8,287.0,287.0,0.0,268.0,28,65.8,9.26
+Rawalpindi,Punjab,2024,9,93.5,93.5,0.0,69.0,12,23.1,3.12
+Rawalpindi,Punjab,2024,10,41.6,41.6,0.0,23.0,8,30.9,1.34
+Rawalpindi,Punjab,2024,11,15.9,15.9,0.0,8.0,5,12.3,0.53
+Rawalpindi,Punjab,2024,12,6.7,6.7,0.0,4.0,1,6.7,0.22
+Rawalpindi,Punjab,2025,1,2.5,2.5,0.0,14.0,8,0.6,0.08
+Rawalpindi,Punjab,2025,2,69.9,69.9,0.0,73.0,9,34.8,2.5
+Rawalpindi,Punjab,2025,3,73.3,73.3,0.0,68.0,12,36.5,2.36
+Rawalpindi,Punjab,2025,4,22.5,22.5,0.0,25.0,7,10.4,0.75
+Rawalpindi,Punjab,2025,5,39.9,39.9,0.0,38.0,17,10.8,1.29
+Rawalpindi,Punjab,2025,6,107.0,107.0,0.0,72.0,12,28.5,3.57
+Rawalpindi,Punjab,2025,7,401.6,401.6,0.0,260.0,28,59.6,12.95
+Rawalpindi,Punjab,2025,8,207.0,207.0,0.0,199.0,28,50.3,6.68
+Rawalpindi,Punjab,2025,9,81.0,81.0,0.0,73.0,16,29.6,2.7
+Rawalpindi,Punjab,2025,10,50.5,50.5,0.0,30.0,6,27.2,1.63
+Rawalpindi,Punjab,2025,11,9.4,9.4,0.0,4.0,1,9.4,0.31
+Rawalpindi,Punjab,2025,12,23.5,23.5,0.0,31.0,5,11.7,0.76
+Vehari,Punjab,2000,1,9.9,9.9,0.0,22.0,3,6.8,0.32
+Vehari,Punjab,2000,2,11.7,11.7,0.0,30.0,4,8.4,0.4
+Vehari,Punjab,2000,3,0.1,0.1,0.0,1.0,1,0.1,0.0
+Vehari,Punjab,2000,4,1.6,1.6,0.0,6.0,5,0.8,0.05
+Vehari,Punjab,2000,5,2.1,2.1,0.0,4.0,3,1.1,0.07
+Vehari,Punjab,2000,6,3.7,3.7,0.0,10.0,5,1.8,0.12
+Vehari,Punjab,2000,7,83.8,83.8,0.0,122.0,18,21.8,2.7
+Vehari,Punjab,2000,8,11.8,11.8,0.0,21.0,8,4.0,0.38
+Vehari,Punjab,2000,9,2.4,2.4,0.0,7.0,5,1.2,0.08
+Vehari,Punjab,2000,10,0.1,0.1,0.0,1.0,1,0.1,0.0
+Vehari,Punjab,2000,11,0.2,0.2,0.0,1.0,1,0.2,0.01
+Vehari,Punjab,2000,12,10.7,10.7,0.0,20.0,2,10.3,0.35
+Vehari,Punjab,2001,1,4.0,4.0,0.0,10.0,2,2.9,0.13
+Vehari,Punjab,2001,2,1.8,1.8,0.0,9.0,2,1.0,0.06
+Vehari,Punjab,2001,3,0.7,0.7,0.0,2.0,2,0.4,0.02
+Vehari,Punjab,2001,4,18.7,18.7,0.0,35.0,8,7.4,0.62
+Vehari,Punjab,2001,5,14.1,14.1,0.0,20.0,11,3.2,0.45
+Vehari,Punjab,2001,6,58.1,58.1,0.0,62.0,15,17.9,1.94
+Vehari,Punjab,2001,7,90.3,90.3,0.0,114.0,17,16.4,2.91
+Vehari,Punjab,2001,8,21.5,21.5,0.0,39.0,8,6.7,0.69
+Vehari,Punjab,2001,9,8.4,8.4,0.0,18.0,6,3.2,0.28
+Vehari,Punjab,2001,10,1.2,1.2,0.0,4.0,2,0.7,0.04
+Vehari,Punjab,2001,11,0.0,0.0,0.0,0.0,0,0.0,0.0
+Vehari,Punjab,2001,12,1.6,1.6,0.0,6.0,1,1.6,0.05
+Vehari,Punjab,2002,1,0.3,0.3,0.0,1.0,1,0.3,0.01
+Vehari,Punjab,2002,2,0.2,0.2,0.0,1.0,1,0.2,0.01
+Vehari,Punjab,2002,3,9.7,9.7,0.0,29.0,5,7.3,0.31
+Vehari,Punjab,2002,4,1.8,1.8,0.0,5.0,3,1.0,0.06
+Vehari,Punjab,2002,5,29.6,29.6,0.0,19.0,7,20.2,0.95
+Vehari,Punjab,2002,6,11.4,11.4,0.0,13.0,6,5.4,0.38
+Vehari,Punjab,2002,7,0.9,0.9,0.0,3.0,2,0.6,0.03
+Vehari,Punjab,2002,8,5.5,5.5,0.0,14.0,7,2.3,0.18
+Vehari,Punjab,2002,9,25.3,25.3,0.0,47.0,13,8.0,0.84
+Vehari,Punjab,2002,10,1.0,1.0,0.0,1.0,1,1.0,0.03
+Vehari,Punjab,2002,11,16.4,16.4,0.0,20.0,6,14.4,0.55
+Vehari,Punjab,2002,12,4.7,4.7,0.0,13.0,2,4.6,0.15
+Vehari,Punjab,2003,1,5.0,5.0,0.0,13.0,3,3.1,0.16
+Vehari,Punjab,2003,2,29.3,29.3,0.0,42.0,6,19.7,1.05
+Vehari,Punjab,2003,3,2.1,2.1,0.0,9.0,2,1.1,0.07
+Vehari,Punjab,2003,4,0.8,0.8,0.0,2.0,2,0.7,0.03
+Vehari,Punjab,2003,5,1.7,1.7,0.0,9.0,6,0.5,0.05
+Vehari,Punjab,2003,6,4.8,4.8,0.0,8.0,4,3.5,0.16
+Vehari,Punjab,2003,7,135.7,135.7,0.0,133.0,22,21.7,4.38
+Vehari,Punjab,2003,8,55.7,55.7,0.0,83.0,15,11.1,1.8
+Vehari,Punjab,2003,9,15.7,15.7,0.0,35.0,13,4.5,0.52
+Vehari,Punjab,2003,10,0.0,0.0,0.0,0.0,0,0.0,0.0
+Vehari,Punjab,2003,11,0.9,0.9,0.0,5.0,1,0.9,0.03
+Vehari,Punjab,2003,12,1.1,1.1,0.0,7.0,1,1.1,0.04
+Vehari,Punjab,2004,1,20.8,20.8,0.0,51.0,6,7.9,0.67
+Vehari,Punjab,2004,2,4.4,4.4,0.0,5.0,1,4.4,0.15
+Vehari,Punjab,2004,3,0.0,0.0,0.0,0.0,0,0.0,0.0
+Vehari,Punjab,2004,4,8.0,8.0,0.0,20.0,5,3.4,0.27
+Vehari,Punjab,2004,5,4.2,4.2,0.0,6.0,4,2.1,0.14
+Vehari,Punjab,2004,6,16.4,16.4,0.0,23.0,9,6.6,0.55
+Vehari,Punjab,2004,7,10.9,10.9,0.0,17.0,6,5.2,0.35
+Vehari,Punjab,2004,8,53.8,53.8,0.0,79.0,19,13.6,1.74
+Vehari,Punjab,2004,9,1.0,1.0,0.0,4.0,3,0.8,0.03
+Vehari,Punjab,2004,10,11.9,11.9,0.0,25.0,6,7.7,0.38
+Vehari,Punjab,2004,11,2.5,2.5,0.0,8.0,2,1.7,0.08
+Vehari,Punjab,2004,12,30.4,30.4,0.0,21.0,2,27.6,0.98
+Vehari,Punjab,2005,1,6.2,6.2,0.0,20.0,5,3.0,0.2
+Vehari,Punjab,2005,2,51.9,51.9,0.0,111.0,13,10.6,1.85
+Vehari,Punjab,2005,3,77.9,77.9,0.0,70.0,12,34.3,2.51
+Vehari,Punjab,2005,4,3.9,3.9,0.0,10.0,6,0.9,0.13
+Vehari,Punjab,2005,5,9.8,9.8,0.0,23.0,8,5.8,0.32
+Vehari,Punjab,2005,6,10.5,10.5,0.0,17.0,9,3.4,0.35
+Vehari,Punjab,2005,7,92.0,92.0,0.0,96.0,15,18.2,2.97
+Vehari,Punjab,2005,8,8.0,8.0,0.0,8.0,3,4.0,0.26
+Vehari,Punjab,2005,9,43.8,43.8,0.0,47.0,11,13.4,1.46
+Vehari,Punjab,2005,10,0.0,0.0,0.0,0.0,0,0.0,0.0
+Vehari,Punjab,2005,11,0.1,0.1,0.0,1.0,1,0.1,0.0
+Vehari,Punjab,2005,12,0.2,0.2,0.0,2.0,1,0.2,0.01
+Vehari,Punjab,2006,1,12.0,12.0,0.0,25.0,3,5.8,0.39
+Vehari,Punjab,2006,2,0.3,0.3,0.0,1.0,1,0.3,0.01
+Vehari,Punjab,2006,3,15.2,15.2,0.0,43.0,12,4.9,0.49
+Vehari,Punjab,2006,4,0.6,0.6,0.0,2.0,2,0.5,0.02
+Vehari,Punjab,2006,5,9.8,9.8,0.0,16.0,12,2.0,0.32
+Vehari,Punjab,2006,6,44.4,44.4,0.0,39.0,13,17.3,1.48
+Vehari,Punjab,2006,7,27.7,27.7,0.0,56.0,14,10.4,0.89
+Vehari,Punjab,2006,8,75.8,75.8,0.0,98.0,19,29.7,2.45
+Vehari,Punjab,2006,9,8.2,8.2,0.0,8.0,5,7.1,0.27
+Vehari,Punjab,2006,10,31.1,31.1,0.0,11.0,6,18.1,1.0
+Vehari,Punjab,2006,11,9.9,9.9,0.0,16.0,6,3.2,0.33
+Vehari,Punjab,2006,12,24.4,24.4,0.0,41.0,6,10.3,0.79
+Vehari,Punjab,2007,1,0.1,0.1,0.0,1.0,1,0.1,0.0
+Vehari,Punjab,2007,2,47.3,47.3,0.0,75.0,12,19.9,1.69
+Vehari,Punjab,2007,3,19.4,19.4,0.0,40.0,7,7.2,0.63
+Vehari,Punjab,2007,4,6.4,6.4,0.0,14.0,8,1.4,0.21
+Vehari,Punjab,2007,5,6.4,6.4,0.0,14.0,7,2.9,0.21
+Vehari,Punjab,2007,6,36.5,36.5,0.0,50.0,10,8.0,1.22
+Vehari,Punjab,2007,7,36.7,36.7,0.0,73.0,16,10.0,1.18
+Vehari,Punjab,2007,8,29.1,29.1,0.0,42.0,13,17.9,0.94
+Vehari,Punjab,2007,9,30.3,30.3,0.0,47.0,15,8.1,1.01
+Vehari,Punjab,2007,10,0.2,0.2,0.0,1.0,1,0.2,0.01
+Vehari,Punjab,2007,11,0.0,0.0,0.0,0.0,0,0.0,0.0
+Vehari,Punjab,2007,12,11.5,11.5,0.0,15.0,2,10.7,0.37
+Vehari,Punjab,2008,1,11.3,11.3,0.0,29.0,8,4.9,0.36
+Vehari,Punjab,2008,2,15.9,15.9,0.0,46.0,4,8.2,0.55
+Vehari,Punjab,2008,3,1.6,1.6,0.0,4.0,3,0.6,0.05
+Vehari,Punjab,2008,4,36.9,36.9,0.0,40.0,9,19.7,1.23
+Vehari,Punjab,2008,5,25.4,25.4,0.0,45.0,15,8.6,0.82
+Vehari,Punjab,2008,6,59.1,59.1,0.0,51.0,14,12.8,1.97
+Vehari,Punjab,2008,7,45.8,45.8,0.0,49.0,12,13.3,1.48
+Vehari,Punjab,2008,8,157.2,157.2,0.0,125.0,17,102.6,5.07
+Vehari,Punjab,2008,9,11.3,11.3,0.0,21.0,8,4.1,0.38
+Vehari,Punjab,2008,10,0.2,0.2,0.0,1.0,1,0.2,0.01
+Vehari,Punjab,2008,11,0.0,0.0,0.0,0.0,0,0.0,0.0
+Vehari,Punjab,2008,12,15.1,15.1,0.0,35.0,7,9.0,0.49
+Vehari,Punjab,2009,1,21.3,21.3,0.0,41.0,6,14.7,0.69
+Vehari,Punjab,2009,2,3.9,3.9,0.0,6.0,3,3.7,0.14
+Vehari,Punjab,2009,3,14.7,14.7,0.0,15.0,6,5.0,0.47
+Vehari,Punjab,2009,4,17.2,17.2,0.0,19.0,6,9.5,0.57
+Vehari,Punjab,2009,5,11.4,11.4,0.0,18.0,10,1.8,0.37
+Vehari,Punjab,2009,6,13.1,13.1,0.0,23.0,11,3.3,0.44
+Vehari,Punjab,2009,7,27.2,27.2,0.0,44.0,9,7.1,0.88
+Vehari,Punjab,2009,8,17.0,17.0,0.0,32.0,12,4.6,0.55
+Vehari,Punjab,2009,9,4.3,4.3,0.0,13.0,5,2.3,0.14
+Vehari,Punjab,2009,10,1.1,1.1,0.0,3.0,1,1.1,0.04
+Vehari,Punjab,2009,11,0.0,0.0,0.0,0.0,0,0.0,0.0
+Vehari,Punjab,2009,12,0.0,0.0,0.0,0.0,0,0.0,0.0
+Vehari,Punjab,2010,1,2.2,2.2,0.0,8.0,2,1.2,0.07
+Vehari,Punjab,2010,2,1.2,1.2,0.0,2.0,2,0.8,0.04
+Vehari,Punjab,2010,3,19.0,19.0,0.0,24.0,3,10.0,0.61
+Vehari,Punjab,2010,4,6.6,6.6,0.0,10.0,7,2.9,0.22
+Vehari,Punjab,2010,5,3.0,3.0,0.0,9.0,5,1.1,0.1
+Vehari,Punjab,2010,6,8.8,8.8,0.0,20.0,11,2.6,0.29
+Vehari,Punjab,2010,7,75.4,75.4,0.0,97.0,17,32.8,2.43
+Vehari,Punjab,2010,8,171.7,171.7,0.0,179.0,21,25.2,5.54
+Vehari,Punjab,2010,9,30.5,30.5,0.0,58.0,12,7.1,1.02
+Vehari,Punjab,2010,10,0.3,0.3,0.0,2.0,2,0.2,0.01
+Vehari,Punjab,2010,11,0.0,0.0,0.0,0.0,0,0.0,0.0
+Vehari,Punjab,2010,12,0.4,0.4,0.0,3.0,2,0.3,0.01
+Vehari,Punjab,2011,1,0.5,0.5,0.0,2.0,2,0.4,0.02
+Vehari,Punjab,2011,2,15.5,15.5,0.0,39.0,10,4.9,0.55
+Vehari,Punjab,2011,3,7.7,7.7,0.0,23.0,5,2.8,0.25
+Vehari,Punjab,2011,4,17.6,17.6,0.0,27.0,6,13.2,0.59
+Vehari,Punjab,2011,5,5.2,5.2,0.0,14.0,10,1.9,0.17
+Vehari,Punjab,2011,6,20.1,20.1,0.0,32.0,7,8.3,0.67
+Vehari,Punjab,2011,7,52.5,52.5,0.0,81.0,20,20.2,1.69
+Vehari,Punjab,2011,8,82.0,82.0,0.0,126.0,21,13.0,2.65
+Vehari,Punjab,2011,9,90.8,90.8,0.0,120.0,18,14.8,3.03
+Vehari,Punjab,2011,10,1.3,1.3,0.0,4.0,2,0.9,0.04
+Vehari,Punjab,2011,11,0.2,0.2,0.0,1.0,1,0.2,0.01
+Vehari,Punjab,2011,12,0.0,0.0,0.0,0.0,0,0.0,0.0
+Vehari,Punjab,2012,1,3.7,3.7,0.0,13.0,3,2.7,0.12
+Vehari,Punjab,2012,2,3.7,3.7,0.0,15.0,4,2.2,0.13
+Vehari,Punjab,2012,3,0.0,0.0,0.0,0.0,0,0.0,0.0
+Vehari,Punjab,2012,4,20.3,20.3,0.0,26.0,10,9.6,0.68
+Vehari,Punjab,2012,5,3.5,3.5,0.0,10.0,7,1.0,0.11
+Vehari,Punjab,2012,6,9.5,9.5,0.0,17.0,7,3.2,0.32
+Vehari,Punjab,2012,7,18.1,18.1,0.0,31.0,9,10.1,0.58
+Vehari,Punjab,2012,8,85.1,85.1,0.0,102.0,18,24.2,2.75
+Vehari,Punjab,2012,9,101.8,101.8,0.0,122.0,16,32.0,3.39
+Vehari,Punjab,2012,10,11.6,11.6,0.0,12.0,3,10.1,0.37
+Vehari,Punjab,2012,11,0.0,0.0,0.0,0.0,0,0.0,0.0
+Vehari,Punjab,2012,12,5.3,5.3,0.0,10.0,1,5.3,0.17
+Vehari,Punjab,2013,1,0.8,0.8,0.0,4.0,2,0.6,0.03
+Vehari,Punjab,2013,2,61.9,61.9,0.0,90.0,11,19.6,2.21
+Vehari,Punjab,2013,3,20.2,20.2,0.0,28.0,6,9.3,0.65
+Vehari,Punjab,2013,4,5.4,5.4,0.0,15.0,9,1.1,0.18
+Vehari,Punjab,2013,5,4.5,4.5,0.0,10.0,5,2.4,0.15
+Vehari,Punjab,2013,6,23.0,23.0,0.0,37.0,10,7.8,0.77
+Vehari,Punjab,2013,7,29.3,29.3,0.0,57.0,12,7.6,0.95
+Vehari,Punjab,2013,8,110.0,110.0,0.0,135.0,16,20.5,3.55
+Vehari,Punjab,2013,9,1.7,1.7,0.0,5.0,4,0.7,0.06
+Vehari,Punjab,2013,10,2.1,2.1,0.0,5.0,2,1.7,0.07
+Vehari,Punjab,2013,11,1.8,1.8,0.0,3.0,2,1.1,0.06
+Vehari,Punjab,2013,12,0.2,0.2,0.0,1.0,1,0.2,0.01
+Vehari,Punjab,2014,1,0.3,0.3,0.0,3.0,2,0.2,0.01
+Vehari,Punjab,2014,2,7.0,7.0,0.0,30.0,5,3.0,0.25
+Vehari,Punjab,2014,3,14.4,14.4,0.0,35.0,8,4.0,0.46
+Vehari,Punjab,2014,4,12.9,12.9,0.0,20.0,5,11.1,0.43
+Vehari,Punjab,2014,5,37.5,37.5,0.0,39.0,15,13.3,1.21
+Vehari,Punjab,2014,6,1.4,1.4,0.0,6.0,4,0.5,0.05
+Vehari,Punjab,2014,7,43.4,43.4,0.0,62.0,15,10.9,1.4
+Vehari,Punjab,2014,8,16.3,16.3,0.0,36.0,13,3.2,0.53
+Vehari,Punjab,2014,9,45.9,45.9,0.0,51.0,9,18.3,1.53
+Vehari,Punjab,2014,10,17.3,17.3,0.0,18.0,7,8.5,0.56
+Vehari,Punjab,2014,11,0.0,0.0,0.0,0.0,0,0.0,0.0
+Vehari,Punjab,2014,12,0.0,0.0,0.0,0.0,0,0.0,0.0
+Vehari,Punjab,2015,1,6.2,6.2,0.0,22.0,3,3.3,0.2
+Vehari,Punjab,2015,2,19.3,19.3,0.0,30.0,8,12.6,0.69
+Vehari,Punjab,2015,3,55.0,55.0,0.0,78.0,11,21.5,1.77
+Vehari,Punjab,2015,4,46.3,46.3,0.0,35.0,10,12.8,1.54
+Vehari,Punjab,2015,5,8.8,8.8,0.0,20.0,9,3.6,0.28
+Vehari,Punjab,2015,6,31.4,31.4,0.0,36.0,12,16.5,1.05
+Vehari,Punjab,2015,7,159.0,159.0,0.0,171.0,28,27.6,5.13
+Vehari,Punjab,2015,8,55.5,55.5,0.0,93.0,13,24.1,1.79
+Vehari,Punjab,2015,9,64.5,64.5,0.0,27.0,6,50.6,2.15
+Vehari,Punjab,2015,10,4.5,4.5,0.0,12.0,4,3.2,0.15
+Vehari,Punjab,2015,11,0.0,0.0,0.0,0.0,0,0.0,0.0
+Vehari,Punjab,2015,12,0.0,0.0,0.0,0.0,0,0.0,0.0
+Vehari,Punjab,2016,1,3.3,3.3,0.0,9.0,3,1.7,0.11
+Vehari,Punjab,2016,2,9.5,9.5,0.0,19.0,1,9.5,0.33
+Vehari,Punjab,2016,3,38.0,38.0,0.0,59.0,14,9.3,1.23
+Vehari,Punjab,2016,4,2.2,2.2,0.0,11.0,5,0.8,0.07
+Vehari,Punjab,2016,5,5.4,5.4,0.0,8.0,6,2.7,0.17
+Vehari,Punjab,2016,6,11.2,11.2,0.0,15.0,9,7.1,0.37
+Vehari,Punjab,2016,7,62.6,62.6,0.0,84.0,19,18.6,2.02
+Vehari,Punjab,2016,8,113.1,113.1,0.0,125.0,23,22.2,3.65
+Vehari,Punjab,2016,9,1.1,1.1,0.0,4.0,2,0.9,0.04
+Vehari,Punjab,2016,10,1.1,1.1,0.0,3.0,3,0.8,0.04
+Vehari,Punjab,2016,11,0.0,0.0,0.0,0.0,0,0.0,0.0
+Vehari,Punjab,2016,12,0.0,0.0,0.0,0.0,0,0.0,0.0
+Vehari,Punjab,2017,1,18.0,18.0,0.0,42.0,9,8.0,0.58
+Vehari,Punjab,2017,2,4.1,4.1,0.0,11.0,4,2.3,0.15
+Vehari,Punjab,2017,3,8.1,8.1,0.0,16.0,7,3.0,0.26
+Vehari,Punjab,2017,4,3.1,3.1,0.0,9.0,5,1.7,0.1
+Vehari,Punjab,2017,5,14.8,14.8,0.0,14.0,9,3.8,0.48
+Vehari,Punjab,2017,6,72.3,72.3,0.0,67.0,13,21.2,2.41
+Vehari,Punjab,2017,7,38.5,38.5,0.0,52.0,17,12.7,1.24
+Vehari,Punjab,2017,8,48.2,48.2,0.0,43.0,13,19.4,1.55
+Vehari,Punjab,2017,9,30.6,30.6,0.0,49.0,12,12.6,1.02
+Vehari,Punjab,2017,10,0.0,0.0,0.0,0.0,0,0.0,0.0
+Vehari,Punjab,2017,11,4.6,4.6,0.0,12.0,2,3.9,0.15
+Vehari,Punjab,2017,12,6.3,6.3,0.0,13.0,3,3.4,0.2
+Vehari,Punjab,2018,1,0.0,0.0,0.0,0.0,0,0.0,0.0
+Vehari,Punjab,2018,2,13.4,13.4,0.0,26.0,5,5.8,0.48
+Vehari,Punjab,2018,3,5.7,5.7,0.0,17.0,8,1.7,0.18
+Vehari,Punjab,2018,4,11.5,11.5,0.0,27.0,11,2.5,0.38
+Vehari,Punjab,2018,5,12.1,12.1,0.0,16.0,12,3.7,0.39
+Vehari,Punjab,2018,6,69.2,69.2,0.0,51.0,8,24.4,2.31
+Vehari,Punjab,2018,7,48.2,48.2,0.0,82.0,19,8.2,1.55
+Vehari,Punjab,2018,8,30.6,30.6,0.0,45.0,9,16.3,0.99
+Vehari,Punjab,2018,9,2.3,2.3,0.0,8.0,2,2.0,0.08
+Vehari,Punjab,2018,10,0.0,0.0,0.0,0.0,0,0.0,0.0
+Vehari,Punjab,2018,11,0.0,0.0,0.0,0.0,0,0.0,0.0
+Vehari,Punjab,2018,12,0.8,0.8,0.0,4.0,2,0.6,0.03
+Vehari,Punjab,2019,1,18.0,18.0,0.0,43.0,8,9.8,0.58
+Vehari,Punjab,2019,2,30.5,30.5,0.0,44.0,11,17.8,1.09
+Vehari,Punjab,2019,3,16.8,16.8,0.0,44.0,8,4.4,0.54
+Vehari,Punjab,2019,4,11.7,11.7,0.0,16.0,5,6.6,0.39
+Vehari,Punjab,2019,5,17.1,17.1,0.0,16.0,8,15.0,0.55
+Vehari,Punjab,2019,6,3.8,3.8,0.0,15.0,6,2.7,0.13
+Vehari,Punjab,2019,7,46.7,46.7,0.0,64.0,12,10.4,1.51
+Vehari,Punjab,2019,8,83.2,83.2,0.0,96.0,23,22.5,2.68
+Vehari,Punjab,2019,9,36.0,36.0,0.0,23.0,5,19.1,1.2
+Vehari,Punjab,2019,10,37.0,37.0,0.0,21.0,7,25.9,1.19
+Vehari,Punjab,2019,11,12.8,12.8,0.0,23.0,9,3.6,0.43
+Vehari,Punjab,2019,12,4.1,4.1,0.0,13.0,2,3.8,0.13
+Vehari,Punjab,2020,1,34.7,34.7,0.0,68.0,10,9.7,1.12
+Vehari,Punjab,2020,2,1.9,1.9,0.0,3.0,2,1.2,0.07
+Vehari,Punjab,2020,3,102.0,102.0,0.0,87.0,15,33.0,3.29
+Vehari,Punjab,2020,4,1.5,1.5,0.0,7.0,5,0.6,0.05
+Vehari,Punjab,2020,5,9.6,9.6,0.0,14.0,6,3.1,0.31
+Vehari,Punjab,2020,6,2.9,2.9,0.0,6.0,4,1.7,0.1
+Vehari,Punjab,2020,7,19.7,19.7,0.0,23.0,7,14.5,0.64
+Vehari,Punjab,2020,8,65.2,65.2,0.0,82.0,14,30.3,2.1
+Vehari,Punjab,2020,9,54.3,54.3,0.0,73.0,7,24.1,1.81
+Vehari,Punjab,2020,10,0.0,0.0,0.0,0.0,0,0.0,0.0
+Vehari,Punjab,2020,11,2.6,2.6,0.0,7.0,2,2.5,0.09
+Vehari,Punjab,2020,12,7.0,7.0,0.0,16.0,2,4.7,0.23
+Vehari,Punjab,2021,1,4.4,4.4,0.0,13.0,2,3.3,0.14
+Vehari,Punjab,2021,2,0.0,0.0,0.0,0.0,0,0.0,0.0
+Vehari,Punjab,2021,3,2.8,2.8,0.0,6.0,3,1.7,0.09
+Vehari,Punjab,2021,4,9.2,9.2,0.0,13.0,3,7.9,0.31
+Vehari,Punjab,2021,5,0.3,0.3,0.0,2.0,1,0.3,0.01
+Vehari,Punjab,2021,6,6.8,6.8,0.0,16.0,7,2.4,0.23
+Vehari,Punjab,2021,7,27.1,27.1,0.0,40.0,9,9.0,0.87
+Vehari,Punjab,2021,8,10.0,10.0,0.0,21.0,7,6.1,0.32
+Vehari,Punjab,2021,9,20.1,20.1,0.0,54.0,10,8.9,0.67
+Vehari,Punjab,2021,10,1.7,1.7,0.0,10.0,3,1.2,0.05
+Vehari,Punjab,2021,11,0.0,0.0,0.0,0.0,0,0.0,0.0
+Vehari,Punjab,2021,12,3.8,3.8,0.0,6.0,2,3.7,0.12
+Vehari,Punjab,2022,1,22.1,22.1,0.0,41.0,7,9.5,0.71
+Vehari,Punjab,2022,2,1.5,1.5,0.0,6.0,2,1.3,0.05
+Vehari,Punjab,2022,3,6.3,6.3,0.0,11.0,3,4.4,0.2
+Vehari,Punjab,2022,4,0.0,0.0,0.0,0.0,0,0.0,0.0
+Vehari,Punjab,2022,5,0.0,0.0,0.0,0.0,0,0.0,0.0
+Vehari,Punjab,2022,6,98.9,98.9,0.0,30.0,6,75.9,3.3
+Vehari,Punjab,2022,7,281.4,281.4,0.0,224.0,29,35.7,9.08
+Vehari,Punjab,2022,8,46.3,46.3,0.0,114.0,23,13.3,1.49
+Vehari,Punjab,2022,9,1.7,1.7,0.0,4.0,2,0.9,0.06
+Vehari,Punjab,2022,10,0.2,0.2,0.0,1.0,1,0.2,0.01
+Vehari,Punjab,2022,11,5.2,5.2,0.0,6.0,1,5.2,0.17
+Vehari,Punjab,2022,12,2.0,2.0,0.0,6.0,2,1.4,0.06
+Vehari,Punjab,2023,1,4.4,4.4,0.0,17.0,3,2.0,0.14
+Vehari,Punjab,2023,2,2.1,2.1,0.0,4.0,2,1.3,0.08
+Vehari,Punjab,2023,3,40.5,40.5,0.0,38.0,14,9.3,1.31
+Vehari,Punjab,2023,4,15.8,15.8,0.0,21.0,8,6.1,0.53
+Vehari,Punjab,2023,5,38.8,38.8,0.0,34.0,12,13.4,1.25
+Vehari,Punjab,2023,6,18.4,18.4,0.0,10.0,5,12.4,0.61
+Vehari,Punjab,2023,7,155.2,155.2,0.0,107.0,21,38.9,5.01
+Vehari,Punjab,2023,8,7.3,7.3,0.0,9.0,4,4.3,0.24
+Vehari,Punjab,2023,9,22.7,22.7,0.0,26.0,7,11.7,0.76
+Vehari,Punjab,2023,10,42.1,42.1,0.0,21.0,7,20.7,1.36
+Vehari,Punjab,2023,11,4.7,4.7,0.0,4.0,2,3.5,0.16
+Vehari,Punjab,2023,12,0.4,0.4,0.0,1.0,1,0.4,0.01
+Vehari,Punjab,2024,1,1.2,1.2,0.0,5.0,3,0.6,0.04
+Vehari,Punjab,2024,2,4.2,4.2,0.0,12.0,4,3.5,0.14
+Vehari,Punjab,2024,3,13.4,13.4,0.0,18.0,6,4.8,0.43
+Vehari,Punjab,2024,4,8.1,8.1,0.0,12.0,4,3.9,0.27
+Vehari,Punjab,2024,5,0.4,0.4,0.0,2.0,1,0.4,0.01
+Vehari,Punjab,2024,6,8.2,8.2,0.0,13.0,6,2.8,0.27
+Vehari,Punjab,2024,7,83.8,83.8,0.0,40.0,10,35.0,2.7
+Vehari,Punjab,2024,8,142.1,142.1,0.0,177.0,27,18.4,4.58
+Vehari,Punjab,2024,9,5.8,5.8,0.0,13.0,6,4.0,0.19
+Vehari,Punjab,2024,10,2.9,2.9,0.0,2.0,1,2.9,0.09
+Vehari,Punjab,2024,11,2.2,2.2,0.0,5.0,1,2.2,0.07
+Vehari,Punjab,2024,12,0.7,0.7,0.0,7.0,3,0.4,0.02
+Vehari,Punjab,2025,1,0.2,0.2,0.0,2.0,1,0.2,0.01
+Vehari,Punjab,2025,2,14.4,14.4,0.0,17.0,6,8.7,0.51
+Vehari,Punjab,2025,3,4.9,4.9,0.0,9.0,5,2.1,0.16
+Vehari,Punjab,2025,4,0.2,0.2,0.0,1.0,1,0.2,0.01
+Vehari,Punjab,2025,5,10.2,10.2,0.0,10.0,5,5.8,0.33
+Vehari,Punjab,2025,6,20.4,20.4,0.0,9.0,4,10.3,0.68
+Vehari,Punjab,2025,7,70.7,70.7,0.0,67.0,20,20.7,2.28
+Vehari,Punjab,2025,8,43.3,43.3,0.0,58.0,13,15.8,1.4
+Vehari,Punjab,2025,9,63.5,63.5,0.0,45.0,8,40.8,2.12
+Vehari,Punjab,2025,10,10.9,10.9,0.0,11.0,2,10.0,0.35
+Vehari,Punjab,2025,11,0.0,0.0,0.0,0.0,0,0.0,0.0
+Vehari,Punjab,2025,12,3.2,3.2,0.0,8.0,2,3.1,0.1

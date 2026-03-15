@@ -1,0 +1,11 @@
+city,province,years_of_data,avg_annual_precip_mm,max_annual_precip_mm,min_annual_precip_mm,std_annual_precip_mm,avg_rainy_days_per_year,avg_heavy_rain_days,max_daily_precip_ever_mm
+Rawalpindi,Punjab,26,883.09,1209.9,587.3,156.52,150.96,7.04,186.9
+Gujranwala,Punjab,26,833.05,1198.2,497.9,164.11,146.42,5.73,180.2
+Lahore,Punjab,26,586.11,931.9,351.9,135.15,132.65,3.15,141.6
+Faisalabad,Punjab,26,479.86,809.8,214.0,123.7,127.15,2.31,132.3
+Multan,Punjab,26,291.26,488.4,101.6,102.39,83.04,0.96,82.9
+Khanewal,Punjab,26,273.05,422.3,121.7,82.59,83.96,0.73,57.5
+Dera Ghazi Khan,Punjab,26,267.42,639.7,76.1,139.24,78.88,1.62,98.6
+Muzaffargarh,Punjab,26,263.93,473.2,90.9,114.62,78.19,0.85,77.5
+Vehari,Punjab,26,257.38,465.6,86.2,93.66,79.85,0.77,102.6
+Lodhran,Punjab,26,223.73,427.8,66.0,102.1,70.88,0.77,94.8

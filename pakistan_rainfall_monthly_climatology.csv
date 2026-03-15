@@ -1,0 +1,121 @@
+city,province,month,avg_monthly_precip_mm,median_monthly_precip,max_monthly_precip_mm,min_monthly_precip_mm,std_monthly_precip_mm,avg_rainy_days,month_name
+Dera Ghazi Khan,Punjab,1,7.15,3.4,33.1,0.0,9.36,3.23,Jan
+Dera Ghazi Khan,Punjab,2,13.23,7.05,44.0,0.0,14.53,4.85,Feb
+Dera Ghazi Khan,Punjab,3,18.2,13.4,100.5,0.0,22.06,6.5,Mar
+Dera Ghazi Khan,Punjab,4,9.61,5.9,37.1,0.0,10.16,5.46,Apr
+Dera Ghazi Khan,Punjab,5,7.54,6.25,27.3,0.0,6.06,6.04,May
+Dera Ghazi Khan,Punjab,6,20.28,12.65,81.9,3.0,20.44,9.46,Jun
+Dera Ghazi Khan,Punjab,7,70.24,41.85,350.5,2.2,79.71,14.31,Jul
+Dera Ghazi Khan,Punjab,8,79.34,61.25,260.5,3.9,73.94,15.04,Aug
+Dera Ghazi Khan,Punjab,9,28.98,15.8,182.0,0.5,43.14,9.04,Sep
+Dera Ghazi Khan,Punjab,10,2.97,1.3,15.5,0.0,4.33,2.23,Oct
+Dera Ghazi Khan,Punjab,11,1.75,0.0,14.1,0.0,3.75,1.31,Nov
+Dera Ghazi Khan,Punjab,12,8.11,2.65,71.6,0.0,15.92,1.42,Dec
+Faisalabad,Punjab,1,18.62,16.75,60.0,0.0,17.43,5.81,Jan
+Faisalabad,Punjab,2,31.21,24.65,107.2,1.8,27.92,8.42,Feb
+Faisalabad,Punjab,3,39.06,23.25,136.8,0.3,38.95,9.96,Mar
+Faisalabad,Punjab,4,22.19,22.65,56.1,0.2,17.16,9.92,Apr
+Faisalabad,Punjab,5,17.34,15.05,46.9,1.8,11.14,11.5,May
+Faisalabad,Punjab,6,49.57,38.2,123.6,6.0,37.25,13.23,Jun
+Faisalabad,Punjab,7,108.54,105.1,252.4,41.6,55.4,21.23,Jul
+Faisalabad,Punjab,8,100.43,91.35,248.2,26.5,54.73,22.12,Aug
+Faisalabad,Punjab,9,62.48,50.6,183.9,7.3,47.08,13.35,Sep
+Faisalabad,Punjab,10,13.04,10.65,38.5,0.0,11.4,5.5,Oct
+Faisalabad,Punjab,11,9.21,7.6,39.5,0.0,9.42,3.38,Nov
+Faisalabad,Punjab,12,8.17,4.4,38.6,0.0,10.24,2.73,Dec
+Gujranwala,Punjab,1,44.29,35.15,140.6,1.1,34.19,8.0,Jan
+Gujranwala,Punjab,2,65.22,46.9,172.2,4.9,50.8,10.31,Feb
+Gujranwala,Punjab,3,58.18,40.6,198.3,1.3,52.7,9.81,Mar
+Gujranwala,Punjab,4,37.61,27.6,123.0,1.7,32.78,11.58,Apr
+Gujranwala,Punjab,5,23.11,20.25,67.5,7.6,14.67,12.08,May
+Gujranwala,Punjab,6,73.53,59.85,244.8,5.0,61.16,13.92,Jun
+Gujranwala,Punjab,7,200.18,192.8,458.5,105.9,75.71,25.69,Jul
+Gujranwala,Punjab,8,187.78,170.3,421.8,52.5,81.79,26.19,Aug
+Gujranwala,Punjab,9,82.04,83.1,267.7,23.2,48.07,15.0,Sep
+Gujranwala,Punjab,10,24.39,14.65,83.0,0.0,24.53,5.81,Oct
+Gujranwala,Punjab,11,20.0,16.35,64.1,0.0,17.79,3.81,Nov
+Gujranwala,Punjab,12,16.7,11.25,64.6,0.1,16.68,4.23,Dec
+Khanewal,Punjab,1,8.74,5.35,38.5,0.0,9.75,4.0,Jan
+Khanewal,Punjab,2,16.83,7.95,90.0,0.2,21.33,5.85,Feb
+Khanewal,Punjab,3,21.53,16.65,103.1,0.0,25.85,6.54,Mar
+Khanewal,Punjab,4,12.29,7.2,49.9,0.0,13.12,5.73,Apr
+Khanewal,Punjab,5,12.71,7.8,52.2,0.0,12.63,7.35,May
+Khanewal,Punjab,6,29.11,16.15,103.4,2.5,27.96,9.38,Jun
+Khanewal,Punjab,7,69.03,57.35,204.3,2.0,49.59,15.46,Jul
+Khanewal,Punjab,8,59.8,49.8,201.9,8.6,48.73,14.92,Aug
+Khanewal,Punjab,9,24.87,21.35,132.6,0.7,29.04,7.96,Sep
+Khanewal,Punjab,10,7.4,1.05,47.5,0.0,12.56,2.77,Oct
+Khanewal,Punjab,11,2.75,0.4,19.2,0.0,4.9,1.96,Nov
+Khanewal,Punjab,12,7.96,2.0,33.9,0.0,10.7,2.04,Dec
+Lahore,Punjab,1,28.82,29.05,91.6,0.3,21.58,6.85,Jan
+Lahore,Punjab,2,40.2,24.4,137.0,1.1,38.45,8.27,Feb
+Lahore,Punjab,3,36.64,22.2,139.5,0.4,37.94,9.27,Mar
+Lahore,Punjab,4,22.15,17.05,84.7,0.4,20.66,9.46,Apr
+Lahore,Punjab,5,17.69,14.15,51.2,1.2,12.49,11.77,May
+Lahore,Punjab,6,57.07,47.9,162.3,6.4,43.41,13.46,Jun
+Lahore,Punjab,7,138.31,133.25,253.1,60.6,56.3,24.38,Jul
+Lahore,Punjab,8,144.0,109.7,323.4,33.0,79.36,24.62,Aug
+Lahore,Punjab,9,68.16,54.0,237.3,3.7,50.69,13.54,Sep
+Lahore,Punjab,10,15.05,11.8,52.2,0.0,13.8,5.08,Oct
+Lahore,Punjab,11,7.86,5.65,33.3,0.0,8.55,3.15,Nov
+Lahore,Punjab,12,10.15,6.2,36.3,0.0,10.11,2.81,Dec
+Lodhran,Punjab,1,7.15,3.55,26.7,0.0,8.65,3.31,Jan
+Lodhran,Punjab,2,11.69,3.65,63.1,0.0,17.21,4.69,Feb
+Lodhran,Punjab,3,13.82,8.25,70.7,0.0,17.62,6.15,Mar
+Lodhran,Punjab,4,8.46,4.6,32.8,0.0,8.95,4.5,Apr
+Lodhran,Punjab,5,8.17,6.65,29.0,0.1,7.26,6.73,May
+Lodhran,Punjab,6,16.5,10.3,61.1,1.3,16.17,7.35,Jun
+Lodhran,Punjab,7,60.63,32.4,291.6,0.0,71.32,13.38,Jul
+Lodhran,Punjab,8,60.82,56.15,212.8,3.6,55.05,13.0,Aug
+Lodhran,Punjab,9,24.09,8.75,115.1,0.1,30.63,7.15,Sep
+Lodhran,Punjab,10,5.03,0.65,38.7,0.0,9.98,1.62,Oct
+Lodhran,Punjab,11,1.98,0.0,16.5,0.0,4.25,1.38,Nov
+Lodhran,Punjab,12,5.4,2.15,25.9,0.0,8.16,1.62,Dec
+Multan,Punjab,1,9.32,3.55,38.0,0.0,11.4,3.58,Jan
+Multan,Punjab,2,16.68,9.7,74.9,0.2,19.64,5.54,Feb
+Multan,Punjab,3,21.2,20.6,95.4,0.0,22.77,6.35,Mar
+Multan,Punjab,4,12.27,7.45,41.5,0.0,12.19,5.96,Apr
+Multan,Punjab,5,10.93,10.25,36.6,0.0,9.73,7.73,May
+Multan,Punjab,6,24.5,18.65,68.8,4.4,17.47,9.58,Jun
+Multan,Punjab,7,74.98,53.2,274.4,2.8,61.32,14.85,Jul
+Multan,Punjab,8,71.91,55.6,233.4,6.6,60.61,14.88,Aug
+Multan,Punjab,9,30.31,18.3,198.6,1.3,41.34,8.12,Sep
+Multan,Punjab,10,7.78,2.0,67.0,0.0,16.01,2.54,Oct
+Multan,Punjab,11,2.96,0.65,14.7,0.0,4.4,1.88,Nov
+Multan,Punjab,12,8.41,2.75,64.1,0.0,14.49,2.04,Dec
+Muzaffargarh,Punjab,1,7.92,2.85,35.6,0.0,10.18,3.35,Jan
+Muzaffargarh,Punjab,2,14.8,10.9,57.6,0.0,16.55,5.31,Feb
+Muzaffargarh,Punjab,3,20.76,14.6,107.8,0.0,24.47,6.35,Mar
+Muzaffargarh,Punjab,4,10.32,5.3,55.7,0.0,12.18,5.08,Apr
+Muzaffargarh,Punjab,5,10.0,7.2,54.1,0.0,10.87,6.81,May
+Muzaffargarh,Punjab,6,19.13,12.65,65.3,5.0,15.09,8.96,Jun
+Muzaffargarh,Punjab,7,66.78,43.5,253.1,1.0,61.96,14.27,Jul
+Muzaffargarh,Punjab,8,70.93,58.5,247.6,6.0,63.87,14.42,Aug
+Muzaffargarh,Punjab,9,26.78,15.45,172.1,1.2,38.23,7.96,Sep
+Muzaffargarh,Punjab,10,5.23,1.2,46.7,0.0,10.51,2.15,Oct
+Muzaffargarh,Punjab,11,2.23,0.15,16.1,0.0,4.53,1.54,Nov
+Muzaffargarh,Punjab,12,9.06,3.05,61.1,0.0,14.46,2.0,Dec
+Rawalpindi,Punjab,1,59.17,40.65,143.7,2.2,46.8,8.12,Jan
+Rawalpindi,Punjab,2,92.53,66.75,259.7,12.6,69.65,10.92,Feb
+Rawalpindi,Punjab,3,86.17,73.9,222.1,1.6,63.77,12.27,Mar
+Rawalpindi,Punjab,4,54.55,46.7,152.0,3.2,37.4,12.58,Apr
+Rawalpindi,Punjab,5,26.38,19.9,97.4,6.8,21.63,13.12,May
+Rawalpindi,Punjab,6,55.83,41.2,162.6,1.8,46.85,13.73,Jun
+Rawalpindi,Punjab,7,169.01,152.0,401.6,68.8,81.5,24.27,Jul
+Rawalpindi,Punjab,8,177.49,170.05,312.1,72.0,69.06,24.42,Aug
+Rawalpindi,Punjab,9,80.5,62.1,371.4,30.6,67.74,15.19,Sep
+Rawalpindi,Punjab,10,29.08,20.75,157.0,0.0,33.31,7.08,Oct
+Rawalpindi,Punjab,11,25.13,17.6,77.1,0.4,23.0,4.96,Nov
+Rawalpindi,Punjab,12,27.24,14.95,90.6,0.0,26.8,4.31,Dec
+Vehari,Punjab,1,8.11,4.4,34.7,0.0,9.11,3.77,Jan
+Vehari,Punjab,2,13.73,5.7,61.9,0.0,17.06,4.77,Feb
+Vehari,Punjab,3,19.08,11.55,102.0,0.0,25.06,6.38,Mar
+Vehari,Punjab,4,10.32,7.3,46.3,0.0,11.24,5.69,Apr
+Vehari,Punjab,5,10.99,9.2,38.8,0.0,10.79,7.46,May
+Vehari,Punjab,6,25.55,14.75,98.9,1.4,25.94,8.27,Jun
+Vehari,Punjab,7,67.79,47.45,281.4,0.9,60.25,15.19,Jul
+Vehari,Punjab,8,59.43,51.0,171.7,5.5,47.72,14.58,Aug
+Vehari,Punjab,9,27.85,21.4,101.8,1.0,28.17,8.08,Sep
+Vehari,Punjab,10,6.92,1.15,42.1,0.0,12.0,2.42,Oct
+Vehari,Punjab,11,2.47,0.15,16.4,0.0,4.31,1.42,Nov
+Vehari,Punjab,12,5.15,1.8,30.4,0.0,7.73,1.81,Dec
