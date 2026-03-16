@@ -6407,6 +6407,948 @@
       "est": 28.76,
       "type": "weather",
       "task": "weather_Islamabad_2008"
+    },
+    {
+      "ts": "2026-03-16T09:40:29.879026",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Islamabad_2009"
+    },
+    {
+      "ts": "2026-03-16T09:40:33.774028",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Islamabad_2010"
+    },
+    {
+      "ts": "2026-03-16T09:40:37.497666",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Islamabad_2011"
+    },
+    {
+      "ts": "2026-03-16T09:40:41.370262",
+      "est": 28.76,
+      "type": "weather",
+      "task": "weather_Islamabad_2012"
+    },
+    {
+      "ts": "2026-03-16T09:40:45.095540",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Islamabad_2013"
+    },
+    {
+      "ts": "2026-03-16T09:40:48.790511",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Islamabad_2014"
+    },
+    {
+      "ts": "2026-03-16T09:40:52.594474",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Islamabad_2015"
+    },
+    {
+      "ts": "2026-03-16T09:40:56.448362",
+      "est": 28.76,
+      "type": "weather",
+      "task": "weather_Islamabad_2016"
+    },
+    {
+      "ts": "2026-03-16T09:41:01.175497",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Islamabad_2017"
+    },
+    {
+      "ts": "2026-03-16T09:41:05.179283",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Islamabad_2018"
+    },
+    {
+      "ts": "2026-03-16T09:41:09.239800",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Islamabad_2019"
+    },
+    {
+      "ts": "2026-03-16T09:41:13.259835",
+      "est": 28.76,
+      "type": "weather",
+      "task": "weather_Islamabad_2020"
+    },
+    {
+      "ts": "2026-03-16T09:41:17.002978",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Islamabad_2021"
+    },
+    {
+      "ts": "2026-03-16T09:41:20.761696",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Islamabad_2022"
+    },
+    {
+      "ts": "2026-03-16T09:41:25.756551",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Islamabad_2023"
+    },
+    {
+      "ts": "2026-03-16T09:41:29.743817",
+      "est": 28.76,
+      "type": "weather",
+      "task": "weather_Islamabad_2024"
+    },
+    {
+      "ts": "2026-03-16T09:41:33.610149",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Islamabad_2025"
+    },
+    {
+      "ts": "2026-03-16T09:41:37.837782",
+      "est": 28.76,
+      "type": "weather",
+      "task": "weather_Muzaffarabad_2000"
+    },
+    {
+      "ts": "2026-03-16T09:41:41.611518",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Muzaffarabad_2001"
+    },
+    {
+      "ts": "2026-03-16T09:41:45.435240",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Muzaffarabad_2002"
+    },
+    {
+      "ts": "2026-03-16T09:41:49.610428",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Muzaffarabad_2003"
+    },
+    {
+      "ts": "2026-03-16T09:41:53.368711",
+      "est": 28.76,
+      "type": "weather",
+      "task": "weather_Muzaffarabad_2004"
+    },
+    {
+      "ts": "2026-03-16T09:41:57.124757",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Muzaffarabad_2005"
+    },
+    {
+      "ts": "2026-03-16T09:42:01.926734",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Muzaffarabad_2006"
+    },
+    {
+      "ts": "2026-03-16T09:42:05.736997",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Muzaffarabad_2007"
+    },
+    {
+      "ts": "2026-03-16T09:42:09.670145",
+      "est": 28.76,
+      "type": "weather",
+      "task": "weather_Muzaffarabad_2008"
+    },
+    {
+      "ts": "2026-03-16T09:42:14.185614",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Muzaffarabad_2009"
+    },
+    {
+      "ts": "2026-03-16T09:42:17.958303",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Muzaffarabad_2010"
+    },
+    {
+      "ts": "2026-03-16T09:42:21.724481",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Muzaffarabad_2011"
+    },
+    {
+      "ts": "2026-03-16T09:42:26.272004",
+      "est": 28.76,
+      "type": "weather",
+      "task": "weather_Muzaffarabad_2012"
+    },
+    {
+      "ts": "2026-03-16T09:42:29.989381",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Muzaffarabad_2013"
+    },
+    {
+      "ts": "2026-03-16T09:42:33.756352",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Muzaffarabad_2014"
+    },
+    {
+      "ts": "2026-03-16T09:42:38.254426",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Muzaffarabad_2015"
+    },
+    {
+      "ts": "2026-03-16T09:42:42.068358",
+      "est": 28.76,
+      "type": "weather",
+      "task": "weather_Muzaffarabad_2016"
+    },
+    {
+      "ts": "2026-03-16T09:42:45.896520",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Muzaffarabad_2017"
+    },
+    {
+      "ts": "2026-03-16T09:42:50.339564",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Muzaffarabad_2018"
+    },
+    {
+      "ts": "2026-03-16T09:42:54.789383",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Muzaffarabad_2019"
+    },
+    {
+      "ts": "2026-03-16T09:42:58.624086",
+      "est": 28.76,
+      "type": "weather",
+      "task": "weather_Muzaffarabad_2020"
+    },
+    {
+      "ts": "2026-03-16T09:43:02.487411",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Muzaffarabad_2021"
+    },
+    {
+      "ts": "2026-03-16T09:43:06.293522",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Muzaffarabad_2022"
+    },
+    {
+      "ts": "2026-03-16T09:43:10.211633",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Muzaffarabad_2023"
+    },
+    {
+      "ts": "2026-03-16T09:43:14.743684",
+      "est": 28.76,
+      "type": "weather",
+      "task": "weather_Muzaffarabad_2024"
+    },
+    {
+      "ts": "2026-03-16T09:43:18.663385",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Muzaffarabad_2025"
+    },
+    {
+      "ts": "2026-03-16T09:43:22.489167",
+      "est": 28.76,
+      "type": "weather",
+      "task": "weather_Mirpur_2000"
+    },
+    {
+      "ts": "2026-03-16T09:43:26.284841",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Mirpur_2001"
+    },
+    {
+      "ts": "2026-03-16T09:43:30.029784",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Mirpur_2002"
+    },
+    {
+      "ts": "2026-03-16T09:43:33.818357",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Mirpur_2003"
+    },
+    {
+      "ts": "2026-03-16T09:43:38.260101",
+      "est": 28.76,
+      "type": "weather",
+      "task": "weather_Mirpur_2004"
+    },
+    {
+      "ts": "2026-03-16T09:43:42.042163",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Mirpur_2005"
+    },
+    {
+      "ts": "2026-03-16T09:43:45.856503",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Mirpur_2006"
+    },
+    {
+      "ts": "2026-03-16T09:43:49.758704",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Mirpur_2007"
+    },
+    {
+      "ts": "2026-03-16T09:43:53.779447",
+      "est": 28.76,
+      "type": "weather",
+      "task": "weather_Mirpur_2008"
+    },
+    {
+      "ts": "2026-03-16T09:43:57.707480",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Mirpur_2009"
+    },
+    {
+      "ts": "2026-03-16T09:44:01.460025",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Mirpur_2010"
+    },
+    {
+      "ts": "2026-03-16T09:44:05.459875",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Mirpur_2011"
+    },
+    {
+      "ts": "2026-03-16T09:44:09.216626",
+      "est": 28.76,
+      "type": "weather",
+      "task": "weather_Mirpur_2012"
+    },
+    {
+      "ts": "2026-03-16T09:44:13.035190",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Mirpur_2013"
+    },
+    {
+      "ts": "2026-03-16T09:44:17.115345",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Mirpur_2014"
+    },
+    {
+      "ts": "2026-03-16T09:44:21.038496",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Mirpur_2015"
+    },
+    {
+      "ts": "2026-03-16T09:44:25.160510",
+      "est": 28.76,
+      "type": "weather",
+      "task": "weather_Mirpur_2016"
+    },
+    {
+      "ts": "2026-03-16T09:44:31.018486",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Mirpur_2017"
+    },
+    {
+      "ts": "2026-03-16T09:44:34.930191",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Mirpur_2018"
+    },
+    {
+      "ts": "2026-03-16T09:44:38.870432",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Mirpur_2019"
+    },
+    {
+      "ts": "2026-03-16T09:44:42.949215",
+      "est": 28.76,
+      "type": "weather",
+      "task": "weather_Mirpur_2020"
+    },
+    {
+      "ts": "2026-03-16T09:44:46.804033",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Mirpur_2021"
+    },
+    {
+      "ts": "2026-03-16T09:44:50.648484",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Mirpur_2022"
+    },
+    {
+      "ts": "2026-03-16T09:44:55.196902",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Mirpur_2023"
+    },
+    {
+      "ts": "2026-03-16T09:44:59.174562",
+      "est": 28.76,
+      "type": "weather",
+      "task": "weather_Mirpur_2024"
+    },
+    {
+      "ts": "2026-03-16T09:45:03.054614",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Mirpur_2025"
+    },
+    {
+      "ts": "2026-03-16T09:45:07.247605",
+      "est": 28.76,
+      "type": "weather",
+      "task": "weather_Gilgit_2000"
+    },
+    {
+      "ts": "2026-03-16T09:45:11.094071",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Gilgit_2001"
+    },
+    {
+      "ts": "2026-03-16T09:45:14.939771",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Gilgit_2002"
+    },
+    {
+      "ts": "2026-03-16T09:45:19.641972",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Gilgit_2003"
+    },
+    {
+      "ts": "2026-03-16T09:45:23.580859",
+      "est": 28.76,
+      "type": "weather",
+      "task": "weather_Gilgit_2004"
+    },
+    {
+      "ts": "2026-03-16T09:45:27.472322",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Gilgit_2005"
+    },
+    {
+      "ts": "2026-03-16T09:45:31.631390",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Gilgit_2006"
+    },
+    {
+      "ts": "2026-03-16T09:45:35.410693",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Gilgit_2007"
+    },
+    {
+      "ts": "2026-03-16T09:45:39.240481",
+      "est": 28.76,
+      "type": "weather",
+      "task": "weather_Gilgit_2008"
+    },
+    {
+      "ts": "2026-03-16T09:45:43.380455",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Gilgit_2009"
+    },
+    {
+      "ts": "2026-03-16T09:45:47.207024",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Gilgit_2010"
+    },
+    {
+      "ts": "2026-03-16T09:45:50.993198",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Gilgit_2011"
+    },
+    {
+      "ts": "2026-03-16T09:45:55.278804",
+      "est": 28.76,
+      "type": "weather",
+      "task": "weather_Gilgit_2012"
+    },
+    {
+      "ts": "2026-03-16T09:45:59.127813",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Gilgit_2013"
+    },
+    {
+      "ts": "2026-03-16T09:46:02.965153",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Gilgit_2014"
+    },
+    {
+      "ts": "2026-03-16T09:46:07.359166",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Gilgit_2015"
+    },
+    {
+      "ts": "2026-03-16T09:46:11.150524",
+      "est": 28.76,
+      "type": "weather",
+      "task": "weather_Gilgit_2016"
+    },
+    {
+      "ts": "2026-03-16T09:46:14.953042",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Gilgit_2017"
+    },
+    {
+      "ts": "2026-03-16T09:46:18.803229",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Gilgit_2018"
+    },
+    {
+      "ts": "2026-03-16T09:46:22.682880",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Gilgit_2019"
+    },
+    {
+      "ts": "2026-03-16T09:46:26.648735",
+      "est": 28.76,
+      "type": "weather",
+      "task": "weather_Gilgit_2020"
+    },
+    {
+      "ts": "2026-03-16T09:46:30.484169",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Gilgit_2021"
+    },
+    {
+      "ts": "2026-03-16T09:46:35.002200",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Gilgit_2022"
+    },
+    {
+      "ts": "2026-03-16T09:46:38.920627",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Gilgit_2023"
+    },
+    {
+      "ts": "2026-03-16T09:46:42.961268",
+      "est": 28.76,
+      "type": "weather",
+      "task": "weather_Gilgit_2024"
+    },
+    {
+      "ts": "2026-03-16T09:46:47.200988",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Gilgit_2025"
+    },
+    {
+      "ts": "2026-03-16T09:46:50.971347",
+      "est": 28.76,
+      "type": "weather",
+      "task": "weather_Skardu_2000"
+    },
+    {
+      "ts": "2026-03-16T09:46:54.770455",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Skardu_2001"
+    },
+    {
+      "ts": "2026-03-16T09:46:59.395851",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Skardu_2002"
+    },
+    {
+      "ts": "2026-03-16T09:47:03.542004",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Skardu_2003"
+    },
+    {
+      "ts": "2026-03-16T09:47:07.411464",
+      "est": 28.76,
+      "type": "weather",
+      "task": "weather_Skardu_2004"
+    },
+    {
+      "ts": "2026-03-16T09:47:11.384910",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Skardu_2005"
+    },
+    {
+      "ts": "2026-03-16T09:47:15.156812",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Skardu_2006"
+    },
+    {
+      "ts": "2026-03-16T09:47:18.956910",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Skardu_2007"
+    },
+    {
+      "ts": "2026-03-16T09:47:23.091772",
+      "est": 28.76,
+      "type": "weather",
+      "task": "weather_Skardu_2008"
+    },
+    {
+      "ts": "2026-03-16T09:47:26.896144",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Skardu_2009"
+    },
+    {
+      "ts": "2026-03-16T09:47:30.857502",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Skardu_2010"
+    },
+    {
+      "ts": "2026-03-16T09:47:34.713043",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Skardu_2011"
+    },
+    {
+      "ts": "2026-03-16T09:47:38.470297",
+      "est": 28.76,
+      "type": "weather",
+      "task": "weather_Skardu_2012"
+    },
+    {
+      "ts": "2026-03-16T09:47:42.488160",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Skardu_2013"
+    },
+    {
+      "ts": "2026-03-16T09:47:47.502025",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Skardu_2014"
+    },
+    {
+      "ts": "2026-03-16T09:47:51.246766",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Skardu_2015"
+    },
+    {
+      "ts": "2026-03-16T09:47:55.291698",
+      "est": 28.76,
+      "type": "weather",
+      "task": "weather_Skardu_2016"
+    },
+    {
+      "ts": "2026-03-16T09:47:59.333284",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Skardu_2017"
+    },
+    {
+      "ts": "2026-03-16T09:48:03.163048",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Skardu_2018"
+    },
+    {
+      "ts": "2026-03-16T09:48:06.967827",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Skardu_2019"
+    },
+    {
+      "ts": "2026-03-16T09:48:10.850496",
+      "est": 28.76,
+      "type": "weather",
+      "task": "weather_Skardu_2020"
+    },
+    {
+      "ts": "2026-03-16T09:48:14.644318",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Skardu_2021"
+    },
+    {
+      "ts": "2026-03-16T09:48:18.537294",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Skardu_2022"
+    },
+    {
+      "ts": "2026-03-16T09:48:24.059355",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Skardu_2023"
+    },
+    {
+      "ts": "2026-03-16T09:48:28.057630",
+      "est": 28.76,
+      "type": "weather",
+      "task": "weather_Skardu_2024"
+    },
+    {
+      "ts": "2026-03-16T09:48:31.905747",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Skardu_2025"
+    },
+    {
+      "ts": "2026-03-16T09:48:35.950913",
+      "est": 28.76,
+      "type": "weather",
+      "task": "weather_Hunza (Karimabad)_2000"
+    },
+    {
+      "ts": "2026-03-16T09:48:39.897546",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Hunza (Karimabad)_2001"
+    },
+    {
+      "ts": "2026-03-16T09:48:43.678346",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Hunza (Karimabad)_2002"
+    },
+    {
+      "ts": "2026-03-16T09:48:48.022536",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Hunza (Karimabad)_2003"
+    },
+    {
+      "ts": "2026-03-16T09:48:51.884565",
+      "est": 28.76,
+      "type": "weather",
+      "task": "weather_Hunza (Karimabad)_2004"
+    },
+    {
+      "ts": "2026-03-16T09:48:55.782077",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Hunza (Karimabad)_2005"
+    },
+    {
+      "ts": "2026-03-16T09:48:59.922280",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Hunza (Karimabad)_2006"
+    },
+    {
+      "ts": "2026-03-16T09:49:03.809652",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Hunza (Karimabad)_2007"
+    },
+    {
+      "ts": "2026-03-16T09:49:07.673861",
+      "est": 28.76,
+      "type": "weather",
+      "task": "weather_Hunza (Karimabad)_2008"
+    },
+    {
+      "ts": "2026-03-16T09:49:11.988678",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Hunza (Karimabad)_2009"
+    },
+    {
+      "ts": "2026-03-16T09:49:15.779537",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Hunza (Karimabad)_2010"
+    },
+    {
+      "ts": "2026-03-16T09:49:19.615956",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Hunza (Karimabad)_2011"
+    },
+    {
+      "ts": "2026-03-16T09:49:23.764002",
+      "est": 28.76,
+      "type": "weather",
+      "task": "weather_Hunza (Karimabad)_2012"
+    },
+    {
+      "ts": "2026-03-16T09:49:27.656204",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Hunza (Karimabad)_2013"
+    },
+    {
+      "ts": "2026-03-16T09:49:31.462141",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Hunza (Karimabad)_2014"
+    },
+    {
+      "ts": "2026-03-16T09:49:35.745267",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Hunza (Karimabad)_2015"
+    },
+    {
+      "ts": "2026-03-16T09:49:39.532219",
+      "est": 28.76,
+      "type": "weather",
+      "task": "weather_Hunza (Karimabad)_2016"
+    },
+    {
+      "ts": "2026-03-16T09:49:43.330120",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Hunza (Karimabad)_2017"
+    },
+    {
+      "ts": "2026-03-16T09:49:47.708695",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Hunza (Karimabad)_2018"
+    },
+    {
+      "ts": "2026-03-16T09:49:51.476781",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Hunza (Karimabad)_2019"
+    },
+    {
+      "ts": "2026-03-16T09:49:55.304579",
+      "est": 28.76,
+      "type": "weather",
+      "task": "weather_Hunza (Karimabad)_2020"
+    },
+    {
+      "ts": "2026-03-16T09:49:59.707083",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Hunza (Karimabad)_2021"
+    },
+    {
+      "ts": "2026-03-16T09:50:03.636276",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Hunza (Karimabad)_2022"
+    },
+    {
+      "ts": "2026-03-16T09:50:07.696619",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Hunza (Karimabad)_2023"
+    },
+    {
+      "ts": "2026-03-16T09:50:11.632326",
+      "est": 28.76,
+      "type": "weather",
+      "task": "weather_Hunza (Karimabad)_2024"
+    },
+    {
+      "ts": "2026-03-16T09:50:15.462319",
+      "est": 28.68,
+      "type": "weather",
+      "task": "weather_Hunza (Karimabad)_2025"
+    },
+    {
+      "ts": "2026-03-16T09:51:23.342767",
+      "est": 26.14,
+      "type": "flood",
+      "task": "flood_Lahore_1984"
+    },
+    {
+      "ts": "2026-03-16T09:51:27.040066",
+      "est": 26.07,
+      "type": "flood",
+      "task": "flood_Lahore_1985"
+    },
+    {
+      "ts": "2026-03-16T09:51:30.763643",
+      "est": 26.07,
+      "type": "flood",
+      "task": "flood_Lahore_1986"
+    },
+    {
+      "ts": "2026-03-16T09:51:34.436417",
+      "est": 26.07,
+      "type": "flood",
+      "task": "flood_Lahore_1987"
+    },
+    {
+      "ts": "2026-03-16T09:51:38.205471",
+      "est": 26.14,
+      "type": "flood",
+      "task": "flood_Lahore_1988"
+    },
+    {
+      "ts": "2026-03-16T09:51:41.911416",
+      "est": 26.07,
+      "type": "flood",
+      "task": "flood_Lahore_1989"
+    },
+    {
+      "ts": "2026-03-16T09:51:45.579265",
+      "est": 26.07,
+      "type": "flood",
+      "task": "flood_Lahore_1990"
+    },
+    {
+      "ts": "2026-03-16T09:51:49.262158",
+      "est": 26.07,
+      "type": "flood",
+      "task": "flood_Lahore_1991"
+    },
+    {
+      "ts": "2026-03-16T09:51:52.923435",
+      "est": 26.14,
+      "type": "flood",
+      "task": "flood_Lahore_1992"
+    },
+    {
+      "ts": "2026-03-16T09:51:56.651892",
+      "est": 26.07,
+      "type": "flood",
+      "task": "flood_Lahore_1993"
     }
   ],
   "completed_tasks": [
@@ -7718,8 +8660,165 @@
     "weather_Islamabad_2005",
     "weather_Islamabad_2006",
     "weather_Islamabad_2007",
-    "weather_Islamabad_2008"
+    "weather_Islamabad_2008",
+    "weather_Islamabad_2009",
+    "weather_Islamabad_2010",
+    "weather_Islamabad_2011",
+    "weather_Islamabad_2012",
+    "weather_Islamabad_2013",
+    "weather_Islamabad_2014",
+    "weather_Islamabad_2015",
+    "weather_Islamabad_2016",
+    "weather_Islamabad_2017",
+    "weather_Islamabad_2018",
+    "weather_Islamabad_2019",
+    "weather_Islamabad_2020",
+    "weather_Islamabad_2021",
+    "weather_Islamabad_2022",
+    "weather_Islamabad_2023",
+    "weather_Islamabad_2024",
+    "weather_Islamabad_2025",
+    "weather_Muzaffarabad_2000",
+    "weather_Muzaffarabad_2001",
+    "weather_Muzaffarabad_2002",
+    "weather_Muzaffarabad_2003",
+    "weather_Muzaffarabad_2004",
+    "weather_Muzaffarabad_2005",
+    "weather_Muzaffarabad_2006",
+    "weather_Muzaffarabad_2007",
+    "weather_Muzaffarabad_2008",
+    "weather_Muzaffarabad_2009",
+    "weather_Muzaffarabad_2010",
+    "weather_Muzaffarabad_2011",
+    "weather_Muzaffarabad_2012",
+    "weather_Muzaffarabad_2013",
+    "weather_Muzaffarabad_2014",
+    "weather_Muzaffarabad_2015",
+    "weather_Muzaffarabad_2016",
+    "weather_Muzaffarabad_2017",
+    "weather_Muzaffarabad_2018",
+    "weather_Muzaffarabad_2019",
+    "weather_Muzaffarabad_2020",
+    "weather_Muzaffarabad_2021",
+    "weather_Muzaffarabad_2022",
+    "weather_Muzaffarabad_2023",
+    "weather_Muzaffarabad_2024",
+    "weather_Muzaffarabad_2025",
+    "weather_Mirpur_2000",
+    "weather_Mirpur_2001",
+    "weather_Mirpur_2002",
+    "weather_Mirpur_2003",
+    "weather_Mirpur_2004",
+    "weather_Mirpur_2005",
+    "weather_Mirpur_2006",
+    "weather_Mirpur_2007",
+    "weather_Mirpur_2008",
+    "weather_Mirpur_2009",
+    "weather_Mirpur_2010",
+    "weather_Mirpur_2011",
+    "weather_Mirpur_2012",
+    "weather_Mirpur_2013",
+    "weather_Mirpur_2014",
+    "weather_Mirpur_2015",
+    "weather_Mirpur_2016",
+    "weather_Mirpur_2017",
+    "weather_Mirpur_2018",
+    "weather_Mirpur_2019",
+    "weather_Mirpur_2020",
+    "weather_Mirpur_2021",
+    "weather_Mirpur_2022",
+    "weather_Mirpur_2023",
+    "weather_Mirpur_2024",
+    "weather_Mirpur_2025",
+    "weather_Gilgit_2000",
+    "weather_Gilgit_2001",
+    "weather_Gilgit_2002",
+    "weather_Gilgit_2003",
+    "weather_Gilgit_2004",
+    "weather_Gilgit_2005",
+    "weather_Gilgit_2006",
+    "weather_Gilgit_2007",
+    "weather_Gilgit_2008",
+    "weather_Gilgit_2009",
+    "weather_Gilgit_2010",
+    "weather_Gilgit_2011",
+    "weather_Gilgit_2012",
+    "weather_Gilgit_2013",
+    "weather_Gilgit_2014",
+    "weather_Gilgit_2015",
+    "weather_Gilgit_2016",
+    "weather_Gilgit_2017",
+    "weather_Gilgit_2018",
+    "weather_Gilgit_2019",
+    "weather_Gilgit_2020",
+    "weather_Gilgit_2021",
+    "weather_Gilgit_2022",
+    "weather_Gilgit_2023",
+    "weather_Gilgit_2024",
+    "weather_Gilgit_2025",
+    "weather_Skardu_2000",
+    "weather_Skardu_2001",
+    "weather_Skardu_2002",
+    "weather_Skardu_2003",
+    "weather_Skardu_2004",
+    "weather_Skardu_2005",
+    "weather_Skardu_2006",
+    "weather_Skardu_2007",
+    "weather_Skardu_2008",
+    "weather_Skardu_2009",
+    "weather_Skardu_2010",
+    "weather_Skardu_2011",
+    "weather_Skardu_2012",
+    "weather_Skardu_2013",
+    "weather_Skardu_2014",
+    "weather_Skardu_2015",
+    "weather_Skardu_2016",
+    "weather_Skardu_2017",
+    "weather_Skardu_2018",
+    "weather_Skardu_2019",
+    "weather_Skardu_2020",
+    "weather_Skardu_2021",
+    "weather_Skardu_2022",
+    "weather_Skardu_2023",
+    "weather_Skardu_2024",
+    "weather_Skardu_2025",
+    "weather_Hunza (Karimabad)_2000",
+    "weather_Hunza (Karimabad)_2001",
+    "weather_Hunza (Karimabad)_2002",
+    "weather_Hunza (Karimabad)_2003",
+    "weather_Hunza (Karimabad)_2004",
+    "weather_Hunza (Karimabad)_2005",
+    "weather_Hunza (Karimabad)_2006",
+    "weather_Hunza (Karimabad)_2007",
+    "weather_Hunza (Karimabad)_2008",
+    "weather_Hunza (Karimabad)_2009",
+    "weather_Hunza (Karimabad)_2010",
+    "weather_Hunza (Karimabad)_2011",
+    "weather_Hunza (Karimabad)_2012",
+    "weather_Hunza (Karimabad)_2013",
+    "weather_Hunza (Karimabad)_2014",
+    "weather_Hunza (Karimabad)_2015",
+    "weather_Hunza (Karimabad)_2016",
+    "weather_Hunza (Karimabad)_2017",
+    "weather_Hunza (Karimabad)_2018",
+    "weather_Hunza (Karimabad)_2019",
+    "weather_Hunza (Karimabad)_2020",
+    "weather_Hunza (Karimabad)_2021",
+    "weather_Hunza (Karimabad)_2022",
+    "weather_Hunza (Karimabad)_2023",
+    "weather_Hunza (Karimabad)_2024",
+    "weather_Hunza (Karimabad)_2025",
+    "flood_Lahore_1984",
+    "flood_Lahore_1985",
+    "flood_Lahore_1986",
+    "flood_Lahore_1987",
+    "flood_Lahore_1988",
+    "flood_Lahore_1989",
+    "flood_Lahore_1990",
+    "flood_Lahore_1991",
+    "flood_Lahore_1992",
+    "flood_Lahore_1993"
   ],
-  "total_http_requests": 1068,
+  "total_http_requests": 1225,
   "created": "2026-03-12T00:00:00"
 }
