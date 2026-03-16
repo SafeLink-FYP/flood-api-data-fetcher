@@ -74,6 +74,9 @@ SAFETY_FACTOR = 0.90
 # Delay between HTTP requests (seconds)
 REQUEST_DELAY = 3.0
 
+# Temporarily disable startup probe if it causes false stops.
+ENABLE_PREFLIGHT_CHECK = False
+
 # Retry settings for 429/5xx errors
 MAX_RETRIES = 6
 RETRY_BASE_DELAY = 30  # seconds, doubles each retry
@@ -947,33 +950,46 @@ def main():
     print()
 
     # ── Pre-flight check: test if API is accessible ──
-    if total_est > 0:
+    if total_est > 0 and ENABLE_PREFLIGHT_CHECK:
         print("  Pre-flight API check...", end=" ", flush=True)
         try:
-            test_resp = requests.get(
-                WEATHER_API_URL,
-                params={"latitude": 33.68, "longitude": 73.05,
-                        "start_date": "2025-01-01", "end_date": "2025-01-02",
-                        "daily": "precipitation_sum", "timezone": "Asia/Karachi"},
-                timeout=30,
-            )
-            if test_resp.status_code == 429:
-                print("RATE LIMITED!")
-                print()
-                print("  ╔══════════════════════════════════════════════════════════╗")
-                print("  ║  API is currently rate-limiting us (429).               ║")
-                print("  ║  Today's quota may be exhausted from earlier runs.      ║")
-                print("  ║  Please re-run this script tomorrow.                    ║")
-                print("  ║  All previous progress is saved in the tracker.         ║")
-                print("  ╚══════════════════════════════════════════════════════════╝")
-                tracker.print_status()
-                sys.exit(0)
-            elif test_resp.status_code == 200:
-                print("OK (API accessible)")
-                # Record this small test call
-                tracker.record_call(1.0, "preflight", "preflight_test")
-            else:
+            # Respect local limits before probing the API.
+            tracker.wait_if_needed(1.0)
+
+            params = {
+                "latitude": 33.68,
+                "longitude": 73.05,
+                "start_date": "2025-01-01",
+                "end_date": "2025-01-02",
+                "daily": "precipitation_sum",
+                "timezone": "Asia/Karachi",
+            }
+
+            preflight_ok = False
+            for attempt in range(3):
+                test_resp = requests.get(WEATHER_API_URL, params=params, timeout=30)
+                if test_resp.status_code == 200:
+                    print("OK (API accessible)")
+                    tracker.record_call(1.0, "preflight", "preflight_test")
+                    preflight_ok = True
+                    break
+
+                if test_resp.status_code == 429:
+                    wait = 60 * (attempt + 1)
+                    if attempt < 2:
+                        print(f"429 (retrying in {wait}s)...", end=" ", flush=True)
+                        time.sleep(wait)
+                        continue
+
+                    # Do not abort here; request-level retry logic will keep working.
+                    print("429 (continuing; retries enabled per request)")
+                    break
+
                 print(f"Unexpected status {test_resp.status_code}")
+                break
+
+            if not preflight_ok:
+                print("  Proceeding anyway; fetch calls use exponential backoff and limit checks.")
         except Exception as e:
             print(f"FAILED ({e})")
             print("  Check your internet connection and try again.")
