@@ -20,8 +20,9 @@ Open-Meteo Free Tier Limits (non-commercial):
 Data collected:
   Phase 1 — Daily weather (11 vars, 2000-2025, 56 cities)
             precipitation, rain, snowfall, temperature, wind, ET₀, weather codes
-  Phase 2 — River discharge from GloFAS Flood API (1984-2022, 56 cities)
+  Phase 2 — River discharge from GloFAS Flood API (1997-2025, 56 cities)
             Crucial for flood prediction (target variable / labels)
+            Note: seamless_v4 data starts 1997; pre-1997 returns all nulls
 
 For Bi-LSTM Flood Prediction you will also need:
   - Flood event labels (derived from discharge thresholds or NDMA records)
@@ -59,8 +60,8 @@ FLOOD_API_URL = "https://flood-api.open-meteo.com/v1/flood"
 # Date ranges
 WEATHER_START_YEAR = 2000
 WEATHER_END_YEAR = 2025
-FLOOD_START_YEAR = 1984
-FLOOD_END_YEAR = 2022  # GloFAS v4 reanalysis ends July 2022
+FLOOD_START_YEAR = 1997  # seamless_v4 model has data from 1997 (pre-1997 returns all nulls)
+FLOOD_END_YEAR = 2025    # seamless_v4 blends reanalysis + forecast; data available through 2025+
 
 # Free tier rate limits
 DAILY_LIMIT = 10_000
@@ -474,12 +475,8 @@ def fetch_weather_year(city: dict, year: int, tracker: APICallTracker) -> pd.Dat
 def fetch_flood_year(city: dict, year: int, tracker: APICallTracker) -> pd.DataFrame:
     """Fetch one year of river discharge from GloFAS Flood API. Returns DataFrame or None."""
     start_date = f"{year}-01-01"
-    if year == FLOOD_END_YEAR:
-        end_date = f"{FLOOD_END_YEAR}-07-31"
-        n_days = 212
-    else:
-        end_date = f"{year}-12-31"
-        n_days = 366 if _is_leap_year(year) else 365
+    end_date = f"{year}-12-31"
+    n_days = 366 if _is_leap_year(year) else 365
 
     params = {
         "latitude": city["lat"],
